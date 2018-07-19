@@ -1,0 +1,65 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "Nubarts Blog"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Nubart ist ein Audioguide zum Mitnehmen. Ein innovatives Konzept, damit auch kleine Museen ihren Besuchern Audioguides anbieten können. Hier schreiben wir über Museen, Besucherdaten und unsere neuesten Projekte."
+
+# Tagline near the site title
+tagline: "Der Audioguide, den Ihre Besucher mitnehmen können"
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl: /blog-de
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "http://www.nubart.eu"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /blog-de/
+- text: Web
+  url: http://www.nubart.eu/
+- text: Archives
+  url: /blog-de/tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: "nubart-en"
+
+# Author information - author info at the bottom of the post
+author_name: "Rosa Sala"
+author_bio: "Rosa ist Nubarts CEO und Gründerin."
+author_image: /images/rosa-sala.jpg
+
+# Sidebar Add banner
+banner_url: "http://www.nubart.eu/"
+banner_image: images/nubart-audio-guides-with-headphones.jpg
+
+# Sidebar newsletter widget - add your form action url for MailChimp signup form here
+mailchimp_url: "https://nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=ec56d6f60e"
+
+
+# Social links in the site footer
+twitter_username: "NubartEN"
+instagram_username: "_nubart"
+xing_username: "digital-tangible-sl"
+linkedin_username: "nubart"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+gems: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false
