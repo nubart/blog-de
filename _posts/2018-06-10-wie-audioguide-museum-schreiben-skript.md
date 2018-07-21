@@ -15,7 +15,7 @@ tags: [Audioguides, Skript]
 
 Wenn Sie für eines der renommiertesten Museen der Welt wie das Thyssen, das Prado oder die Tate arbeiten, brauchen Sie nicht weiter zu lesen: Ihr Audioguide enthält sicher schon Storytelling, Barrierefreiheit, *augmented reality* und wer weiß, wie viele weitere Funktionen. Und wenn das noch nicht so sein sollte, diskutieren Sie wahrscheinlich schon darüber, wie Sie das alles bald einbauen können.
 
-Aber vielleicht arbeiten Sie für eins der etwa 85 % kleinere deutsche Museen, die noch nicht über einen Audioguide verfügen. Dann stehen Sie wahrscheinlich zum ersten Mal vor der Aufgabe, einen Audioguide zu produzieren und Sie wissen nicht, wo Sie anfangen sollen. 
+Aber vielleicht arbeiten Sie für eins der etwa 85 % kleineren deutschen Museen, die noch nicht über einen Audioguide verfügen. Dann stehen Sie wahrscheinlich zum ersten Mal vor der Aufgabe, einen Audioguide zu produzieren und Sie wissen nicht, wo Sie anfangen sollen. 
 
 Nun, der allererste Schritt ist wohl die Verfassung eines Skripts. Natürliche kann Ihnen Nubart gerne dabei helfen, aber wenn Sie den Alleingang vorziehen, sind vielleicht die folgenden Empfehlungen nützlich:
 
@@ -35,67 +35,64 @@ Hier sind einige Kriterien, die Ihnen bei der Auswahl helfen können:
 
 Denken Sie daran, dass es normal ist, dass die Besucher den Exponaten zu Beginn des Rundgangs viel mehr Aufmerksamkeit als den Späteren schenken. Im ersten Museumssaal ist man noch voller Energie und Interesse, und daher bereit, alle gebotenen Spuren aufmerksam anzuhören. Museumsbesuche sind aber anstrengend. Im Laufe des Besuches setzt sich Müdigkeit ein und der Wunsch, vor einem Objekt zu stehen und die Erklärung zu hören, nimmt rasant ab. Wenn Sie zu viele Erklärungen im Audioguide anbieten, laufen Sie Gefahr, die ganze Energie Ihres Publikums in den ersten Räumen zu verbrauchen. Die letzten Exponate werden oft kaum noch angesehen, geschweige denn, die Erklärung dazu gehört. 
 
-Als Daumenregel gilt, dass die Gesamtlänge der Audiospuren in etwa die Hälfte der durchschnittlichen Aufenthaltszeit entsprechen sollte. D. h., wenn statistisch gesehen Ihre Besucher eine Stunde in Ihrem Museum zu verweilen pflegen, sollte das gesamte Tonmaterial die 30 Minuten nicht überschreiten. 
+Als Daumenregel gilt, dass die Gesamtlänge der Audiospuren in etwa die Hälfte der durchschnittlichen Aufenthaltszeit in Ihrem Hause entsprechen sollte. Wenn also Ihre Besucher im Durchschnitt eine Stunde in Ihrem Museum verweilen, sollte das gesamte Tonmaterial etwa 30 Minuten pro Sprache dauern.
 
 Bei Nubart kann man das ein wenig lockerer nehmen, da unsere "Audioguides zum Mitnehmen" nicht zurückgegeben werden müssen. So kann der erschöpfte, aber immernoch interessierte Besucher auch nach einigen Stunden oder Tagen die fehlenden Spuren bequem in einem Café oder Hotel anhören.
 
-Sie können die Auswahl Ihrer Exponate aber auch als *work in progress* nehmen und mit der Zeit verfeinern. Wie bei Nubart vermitteln inzwischen viele Audioguides konkrete Informationen über die meist angehörte Spuren. Auf diese Weise werden Sie mit der Zeit die Vorlieben Ihrer Publikums besser kennen und die selten angehörten Spuren entfernen oder durch andere ersetzen. 
+Sie können die Auswahl Ihrer Exponate aber auch als *work in progress* nehmen und mit der Zeit verfeinern. Wie bei Nubart vermitteln inzwischen viele Audioguides konkrete Informationen über die meist angehörte Spuren. Auf diese Weise werden Sie mit der Zeit die Vorlieben Ihrer Publikums besser kennen und die selten angehörten Spuren entfernen oder durch andere, geeignetere ersetzen. 
 
 ## Ergänzen Sie die Erklärung der Stücke mit einleitenden Bemerkungen.
 Obwohl man es so am ehesten gewöhnt ist, müssen sich Audioguides nicht nur auf die Erläuterung einzelner Exponate beschränken. Sie können auch einführende Bemerkungen zum Kontext hinzufügen, z.B. um die Eigenarten eine bestimmten Epoche zu skizzieren oder um einige allgemeine Bemerkungen über den Künstler zu machen, dessen Arbeit Sie präsentieren.
 
-Denken Sie aber daran, dass diese in der Regel die "härtesten" Spuren für den Besucher sind, da es dabei nichts Konkretes anzusehen gibt. Halten Sie sich an das Wesentliche und versuchen Sie, diese Spuren besonders attraktiv und kurz zu machen.
+Denken Sie aber daran, dass das in der Regel die härtesten Spuren für den Besucher sind, da es dabei nichts Konkretes anzusehen gibt. Halten Sie sich an das Wesentliche und versuchen Sie, diese Spuren besonders attraktiv und kurz zu machen.
 
 ## Beziehen Sie die Originalstimmen von Kuratoren und Künstlern ein
-*Authenticity sells!* Wie wäre es, wenn der Künstler Ihnen höchstpersönlich, mit seiner eigenen Stimme, seine Werke erklärt? Der Gehörsinn ist besonders emotional, und diese fiktive Nähe zum Künstler hat etwas ganz Besonderes. Wenn Sie dagegen ein einem Naturkundemuseum arbeiten und ein international anerkannter Wissenschaftler Ihr Haus zu einem Vortrag besucht hat, warum bitten Sie ihn nicht um eine kurze Erklärung zu einem bestimmten Exponat, nehmen ihn auf und fügen diese Spur hinzu?
+*Authenticity sells!* Wie wäre es, wenn der Künstler Ihnen höchstpersönlich seine Werke erklärt? Der Gehörsinn spricht ganz besonders unsere Emotionen an, und diese fiktive Nähe zu der Stimme des Künstlers hat etwas ganz Bedeutendes. 
                       
- Das können dies auch mit dem Kurator einer Ausstellung tun. Kuratoren werden oft von der Öffentlichkeit nicht wahrgenommen und viele wären dankbar für die Möglichkeit, ihren Standpunkt zur Konzeption der Ausstellung oder zur Auswahl eines bestimmten Werkes darzulegen. Das haben wir mit Amador Vega, Kurator von [The Thinking Machine: Ramón Llull and the "ars combinatoria"](http://www.cccb.org/en/exhibitions/file/the-thinking-machine/223672){:target="_blank"} im Centre de Cultura Contemporània de Barcelona (CCCB) gemacht und es war ein Erfolg. Seine klugen Beiträge ergänzten und bereicherten die konventionellen Audiospuren, die wir ebenfalls angeboten haben.
+ Das können dies auch mit dem Kurator einer Ausstellung tun. Kuratoren werden oft von der Öffentlichkeit nicht wahrgenommen und viele sind dankbar für die Möglichkeit, ihren Standpunkt zur Konzeption der Ausstellung oder zur Auswahl eines bestimmten Werkes darzulegen. 
 
-![Nubart Audio Guide for 'The Thinking Machine: Ramon Llull and the Ars Combinatoria' (CCCB, Barcelona) enriched with comments by Amador Vega]({{site.baseurl}}/images/posts/audioguide-llull-cccb.jpg){: .center-image }
+Gerade bei temporären Sonderausstellungen ist die Zeit knapp und es ist nicht immer möglich, Inhalte über die Plakate für die Ausstellung hinaus zu generieren. Direkte, spontan aufgenommene Testimonials sind relativ einfach und schnell zu erhalten. Wenn es absolut keine andere Möglichkeit gibt, können Sie sie sogar via Skype aufnehmen: Die Authentizität der Originalstimme wird die unperfekte Aufnahmequalität übertrumpfen. (Mitarbeiter der Tate oder des Thyssens: bitte nicht aufregen! Wir haben ja schon gesagt, dass wir uns mit diesem Beitrag an kleinere Museen wenden, die sich vielleicht weder aufwendige Content-Agenturen noch Studio-Tonaufnahmen leisten können, und trotzdem ihren Besuchern eine informative Erklärung der Ausstellung anbieten möchten).
 
-Gerade bei temporären Sonderausstellungen ist die Zeit knapp und es ist nicht immer möglich, Inhalte über die Plakate für die Ausstellung hinaus zu generieren. Direkte, spontan aufgenommene Testimonials sind relativ einfach und schnell zu erhalten. Wenn es absolut keine andere Möglichkeit gibt, können Sie sie sogar am Telefon aufnehmen: Die Authentizität der Originalstimme wird die unperfekte Aufnahmequalität übertrumpfen. 
+Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne auf die Authentizität der Stimme zu verzichten, übespielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre. Siehe hir zum Besipiel die Stimme der Kuratorin Christiane Stoebe bei unserem für den Skulpturensommer Pirna produzierten Audioguide:
 
-Um diese Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne die auf die Authentizität der Stimme zu verzichten, übespielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre.
-
-![Christine Stoebe, Kuratorin vom Skullpturensommer Pirna, bespricht ein Werk von Hans Scheib]({{site.baseurl}}/images/posts/audioguide-llull-cccb.jpg){: .center-image }
-‘linktoyour.mp3?autoplay=0&loop=0&controls=1’  ))))))))))))))))))))))
+![Christine Stoebe, Kuratorin vom Skullpturensommer Pirna, bespricht ein Werk von Hans Scheib]({{site.baseurl}}/audio/engel-en.mp3?autoplay=0&loop=0&controls=1’)
 
 
-## Remember: you are writing for listeners, not for readers! 
 
-Many museums plan to create an audio guide only to provide explanations in other languages ​​and to satisfy foreign visitors. Some of them are tempted to use the existing descriptive text on the walls of the rooms as a script. 
+## Denken Sie daran: Sie schreiben für Zuhörer, nicht für Leser! 
 
-However, most likely at least half of a museum’s visitors are from the same country as the museum. An audio guide not only fulfills the purpose of explaining the works on display to tourists, but also of expanding the information already available in the room. If you only offer an audio copy of the text that the visitor is able to read on their own on the walls of the room, they may feel disappointed or cheated. It is therefore necessary to expand, synthesize, adapt or improve on the written material already on hand. (That said, allowing a visitor to listen to information rather than read lots of text, especially when viewing a piece of art, is often preferable.)
+Viele Museen beabsichtigen einen Audioguide nur um Erklärungen in anderen Sprachen zu geben und um ausländische Besucher zufrieden zu stellen. Dabei verfallen einige in die allzu verständliche Versuchung, einfach den bereits vorhandenen Erklärungstext der Saalbläter oder der Beschreibungen an der Wand als Skript zu verwenden. 
 
-"Improving" does not necessarily mean giving more facts and figures. On the contrary, the concentration of the person listening is very different to that of one who is reading. 
-For example, it is best that your audio guide not describe height, width, depth and weight measurements of a piece to several decimal places: such precise data can make a lot of sense written out on the wall, but we can hardly assimilate them if we only hear them. Reduce dates and numerical data to essentials.
+Wahrscheinlich stammt jedoch meistens mindestens die Hälfte der Besucher eines Museums aus dem gleichen Land. Ein Audioguide erfüllt nicht nur den Zweck, den Touristen die ausgestellten Werke zu erklären, sondern auch die im Raum vorhandenen Informationen zu erweitern. Wenn Sie nur eine hörbare Kopie des Textes anbieten, den der lokale Besucher selbstständig an den Wänden des Raumes lesen kann, führt das oft zu Enttäuschungen, die im schlimmsten Falle kurz danach in Tripadvisor oder Google zu lesen sein werden. Daher sollte man sich unbedingt die Zeit nehmen, das vorhandene schriftliche Material anzupassen oder zu verbessern. (Natürlich kann man dagegen argumentieren, dass es trotzdem praktischer und angenehmer ist, solche Texte vorgelesen zu bekommen, statt sie selbst lesen zu müssen. Aber gerade wenn der Besucher für den Audioguide gezahlt hat, wird er das mit ziemlicher Sicherheit anders sehen. 
 
-For the same reason it is not recommended to use long sentences and many subordinate phrases. Usually your visitor will be standing - that is, relatively uncomfortable - and listening. Put yourself in his shoes and read aloud what you have written. If your tongue gets tied while reading it, the professional speaker will probably find it difficult to translate that text fluently and naturally. Cut out or divide the sentences which are most challenging to read aloud.
+Einen Text für einen Audioguide zu "verbessern" bedeutet selten, mehr Fakten und Zahlen zu nennen. Im Gegenteil, die Konzentration eines Zuhörers ist ganz anders als die eines Lesenden. 
+Zum Beispiel ist es meistens am besten, wenn Ihr Audioguide die Höhe, Breite, Tiefe und Gewicht eines Exponates angibt: Geschrieben können solche präzisen Daten sinnvoll und wichtig sein, wer sie dagegen hört wird sie sofort wieder vergessen. Reduzieren Sie Daten und Fakten auf das Wesentliche.
 
-You can create a special audio guide for children or one designed for a very professional and educated audience. You can even offer your visitor the possibility of choosing between one track or another (with Nubart you can do this). 
+Aus dem gleichen Grund ist es nicht empfehlenswert, lange Sätze und den berüchtigten deutschen Schachtelsatz zu strapazieren. Normalerweise wird Ihr Besucher beim Zuhören stehen - sich also relativ unbequem fühlen. Versetzen Sie sich in seine Lage und lesen Sie erstmal laut vor, was Sie geschrieben haben. Wenn Sie selbst Schwierigkeiten beim Vorlesen haben, wird es dem professionellen Sprecher wahrscheinlich ebenfalls schwer fallen, diesen Text flüssig und natürlich rüberzubringen. Machen Sie lieber zwei Sätze aus einem wenn immer es geht.
 
-But usually your audio guide is to satisfy the needs of the general public, not an expert. Therefore, avoid professional jargon, specialized terms or industry-specific knowledge, even if, as a specialist curator, you are a little embarrassed by the lower register. 99% of your visitors will appreciate it (and the remaining 1% can always go to the store to buy the catalog ;-) )
+Sie können einen Audioguide für Kinder oder einen für ein sehr professionelles und gebildetes Publikum erstellen. Sie können Ihrem Besucher sogar die Möglichkeit bieten, zwischen verschiedenen Spuren oder Schwierigkeitsgrade zu wählen. 
 
-If you want to embellish the audio guide, make use of anecdotes or curiosities related to the piece: it will help your visitor not only to remember this work, but also your museum, which is also what it is all about.
+Aber in der Regel soll Ihr Audioguide die Bedürfnisse der Allgemeinheit befriedigen, nicht die eines Experten. Vermeiden Sie daher Fachjargon oder branchenspezifische Kenntnisse, auch wenn Ihnen als professioneller Kurator oder Akademiker das untere Register ein wenig peinlich vorkommt. 99% Ihrer Besucher werden es zu schätzen wissen (und die restlichen 1% können jederzeit in den Museumsshop gehen und den Katalog kaufen).
 
-## Calculate the length of the audio guide
-Synthesizing information is an art and a challenge. But there is nothing more oppressive for a visitor than a track that is too long. Three minutes sitting comfortably on the sofa at home flies by, but 3 minutes standing between strangers in front a piece can be an eternity.
+Wenn Sie den Audioguide wirklich verbessern möchten, verwenden Sie Anekdoten oder Kuriositäten, die mit dem Exponat zu tun haben: es wird Ihrem Besucher helfen, sich nicht nur an dieses bestimmte Werk zu erinnern, sondern auch an Ihr Museum. Und darum geht es ja zum Teil auch!
 
-Did I say 3 minutes? Actually, that is already much too long! The ideal length of an audio guide track is less than two minutes. We have checked this, stopwatch in hand: the tracks of the best audio guides we know of rarely exceed two minutes.
+## Berechnen Sie die Länge des Audioguides
+   Informationen zu synthetisieren ist eine Kunst und eine Herausforderung. Aber es gibt nichts Bedrückenderes für einen Besucher als eine zu lange Tonspur im Audioguide. Drei Minuten bequemes Sitzen daheim auf dem Sofa vergehen im Fluge, aber drei Minuten stehend unter lauter fremden Leuten kann eine Ewigkeit sein.
+   
+   Habe ich drei Minuten geschrieben? Das ist schon zu viel! Die ideale Länge einer Audioguidespur beträgt weniger als zwei Minuten. Wir haben das überprüft, Stoppuhr in der Hand: Die Spuren der besten und von den Besuchern am meisten gelobten Audioguides, überschreiten selten zwei Minuten.
+   
+   Bedenken Sie bei der Skriptverfassung, dass eine Minute gesprochener Text in etwa 110-130 Wörtern entspricht. (Das nur auf Deutsch, bei den romanischen Sprachen sind es mehr). Um bei Ihrem Skript auf Nummer sicher zu gehen, lassen Sie die Spuren Ihres Guides nur ausnahmsweise länger als 250 Wörter sein.
 
-Figure that about one minute spoken text is equivalent to approximately 150 words. To be safe, keep each track of your audio guide under 300 words.
+Traurig, aber wahr: egal, wie viel Mühe Sie sich damit geben, die wenigsten Ihrer Besucher werden *alle* Spuren Ihres Audioguides hören. Das schöne an einem Audioguide ist ja gerade, dass man wählen kann, für welche Exponate man zusätzliche Information haben möchte. Dennoch sollte die Gesamtzeit aller Tonspuren nicht die Zeit überschreiten, die ein Besuch der Ausstellung *ohne* Audioguide in Anspruch nehmen würde. Wahrscheinlich haben Sie schon längst die durchschnittliche Verweilszeit der Besucher in Ihrem Museum berechnet: die ideale Länge eines Audioguides ist die Hälfte dieser Zeit. Wenn Ihre Besucher also normalerweise eine Stunde in Ihrem Museum verbringen, sollte Ihr Audioguide in etwa eine Gesamtdauer von 30 Minuten haben.
 
-Most likely, none of your visitors will listen to all the tracks of your audio guide: precisely one of the attractions of this resource is that the visitor can choose which are the pieces for which he/she wants to have expanded information. Nonetheless, the total time of all tracks together should not exceed the time it would take to visit the exhibition without the audio guide. You have probably calculated the average visit time in your museum: a good guiding measure for the ideal length of an audio guide is to divide that time in half. So if your visitors usually spend an hour in your museum, your audio guide could have a total duration of 30 minutes.
-
-We believe that you, the curator, are the person who knows your museum best and that you are most appropriate person to collect the relevant information about each piece and put it in writing for your audio guide. (However, if you want us to take care of the script as well, we can do it: ask us for a quote!) We (Nubart) will review the script that you propose and will advise you on possible adaptations or improvements. Our standard rates cover the translation of your script into other languages and professional speaking, so everything else will be taken care of.
-
-To go deeper into the subject and also learn how to improve your script even more by adding verbal descriptions for people who are blind or have low vision, don't miss [this great article](http://www.artbeyondsight.org/mei/verbal-description-training/writing-verbal-description-for-audio-guides/){:target="_blank"} by Lou Giansante.
-
-Agree or disagree with some of these points? Feel like adding something more? Leave us a comment!
+Als Kurator, Kunsthistoriker oder Museumsprofi sind Sie sicher die geeigneteste Person um die relevanten Informationen zu Ihren Exponaten schriftlich für den Audioguide niederzulegen. Womöglich macht Ihnen diese Arbeit auch Spaß! 
 
 
-#### At Nubart we produce innovative and affordable audio guides.
+Sind Sie mit diesen Punkten einverstanden? Möchten Sie noch etwas hinzufügen? Hinterlassen Sie uns einen Kommentar!
+
+
+#### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
 
 <form action="../../../../../">
-    <input type="submit" value="Visit our website" />
+    <input type="submit" value="Besuchen Sie unsere Website" />
 </form>
