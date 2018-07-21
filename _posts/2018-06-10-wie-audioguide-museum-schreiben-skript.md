@@ -1,11 +1,11 @@
 ---
 author_name: Rosa Sala
-author_bio: Rosa ist CEO und Gründerin von Nubart
+author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
 author_location: Berlin / Barcelona
 layout: post
 comments: true
 published: true
-title:  "Wie schreibt man das Skript eines Audioguides für ein Museum?"
+title:  "Wie schreibt man das Skript eines Museum-Audioguides?"
 description: "Das Skript eines Audioguides für eine Museumsführung ist eine ganz besondere Art von Text und hat seine eigenen Regeln. Hier finden Sie einige hilfreiche Tricks."
 slug: "wie-audioguide-museum-schreiben-skript"
 date:   2018-06-10
@@ -51,10 +51,10 @@ Denken Sie aber daran, dass das in der Regel die ansträngensten Spuren für die
 
 Gerade bei Sonderausstellungen ist die Zeit knapp und es ist nicht immer möglich, Inhalte über die Plakate für die Ausstellung hinaus zu generieren. Direkte, spontan aufgenommene Darstellungen sind relativ einfach und schnell zu erhalten. Wenn es absolut keine andere Möglichkeit gibt, können Sie sie sogar via Skype aufnehmen: Die Authentizität der Originalstimme wird die unperfekte Aufnahmequalität übertrumpfen. (Mitarbeiter der Tate oder des MOMAs: bitte nicht aufregen! Wir haben ja schon gesagt, dass wir uns mit diesem Beitrag an kleinere Museen wenden, die sich vielleicht weder aufwendige Content-Agenturen noch Studio-Tonaufnahmen leisten können, und trotzdem ihren Besuchern eine informative Erklärung der Ausstellung anbieten möchten).
 
-Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne auf die Authentizität der Stimme zu verzichten, übespielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre. Siehe hier zum Besipiel die Stimme der Kuratorin Christiane Stoebe bei unserem für den Skulpturensommer Pirna produzierten Audioguides:
+Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne auf die Authentizität der Stimme zu verzichten, übespielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre. Hier zum Besipiel die Stimme der Kuratorin Christiane Stoebe bei unserem für den Skulpturensommer Pirna produzierten Audioguides:
 
 
-<audio controls src="{{site.baseurl}}/audio/engel-en.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<audio controls src="{{site.baseurl}}/audio/engel-en.mp3">Ihr Browser unterstützt das Element <code>Audio</code> nicht.</audio>
 
 ## Denken Sie daran: Sie schreiben für Zuhörer, nicht für Leser! 
 
