@@ -58,7 +58,6 @@ Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu mach
 ![Christine Stoebe, Kuratorin vom Skullpturensommer Pirna, bespricht ein Werk von Hans Scheib]({{site.baseurl}}/audio/engel-en.mp3?autoplay=0&loop=0&controls=1’)
 
 
-
 ## Denken Sie daran: Sie schreiben für Zuhörer, nicht für Leser! 
 
 Viele Museen beabsichtigen einen Audioguide nur um Erklärungen in anderen Sprachen zu geben und um ausländische Besucher zufrieden zu stellen. Dabei verfallen einige in die allzu verständliche Versuchung, einfach den bereits vorhandenen Erklärungstext der Saalbläter oder der Beschreibungen an der Wand als Skript zu verwenden. 
