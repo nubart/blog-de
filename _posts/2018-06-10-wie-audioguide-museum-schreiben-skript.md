@@ -22,7 +22,7 @@ Nun, der allererste Schritt ist wohl die Verfassung eines Skripts. Natürlich ka
 <!--more-->
 
 ## Wählen Sie die Exponate, die Sie Ihren Besuchern erklären möchten
-Auch wenn Ihr Museum klein ist, wird es nicht möglich oder wünschenswert sein, alle Ihre Stücke zu im Audioguide zu berücksichtigen. Bevor Sie mit dem Schreiben des Skripts beginnen, überlegen Sie also gut, welche Objekte Gegenstand einer verbalen Erklärung sein werden. Um Ihre Besucher nicht zu überfordern, sollten die Anzahl der Informationen und die Länge der Audiospuren begrenzt sein.
+Auch wenn Ihr Museum klein ist, wird es nicht möglich oder wünschenswert sein, alle Ihre Exponate im Audioguide zu berücksichtigen. Bevor Sie mit dem Schreiben des Skripts beginnen, überlegen Sie also gut, welche Objekte Gegenstand einer verbalen Erklärung sein werden. Um Ihre Besucher nicht zu überfordern, sollten die Anzahl der Informationen und die Länge der Audiospuren begrenzt sein.
 
 Natürlich sind alle Ihre Exponate eine Erklärung wert und daher wird die Auswahl sicher schwierig sein. Aber Ihre Wahl ist auch ein indirekter Weg ist, Ihre Besucher subtil zu denjenigen Werken zu führen, die in Ihren Profiaugen eine besondere Aufmerksamkeit verdienen! 
 
