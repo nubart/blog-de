@@ -82,6 +82,8 @@ Traurig, aber wahr: egal, wie viel Mühe Sie sich damit geben, die wenigsten Ihr
 
 Als Kurator, Kunsthistoriker oder Museumsprofi sind Sie sicher die geeigneteste Person um die relevanten Informationen zu Ihren Exponaten schriftlich für den Audioguide zu verfassen. Womöglich macht Ihnen diese Arbeit auch Spaß! Damit haben Sie das Wesentliche geleistet. Den Rest -Übersetzungen und Vertonungen-- können Sie jetzt guten Freelancern, einer Agentur oder uns in Nubart anvertrauen. 
 
+Ansonsten: [Wertvolle Information über "Schreiben fürs Hören" finden Sie auch hier](https://www.tanjapraske.de/wissen/lehre/schreiben-fuers-hoeren-audioguides-und-apps/){:target="_blank"} im immer lesenswerten Blog von Dr. Tanja Praske
+
 Sind Sie mit diesen Punkten einverstanden? Möchten Sie noch etwas hinzufügen? Hinterlassen Sie uns doch einfach einen Kommentar!
 
 
