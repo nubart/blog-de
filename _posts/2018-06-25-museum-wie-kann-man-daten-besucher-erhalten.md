@@ -5,8 +5,8 @@ author_location: Berlin / Barcelona
 layout: post
 comments: true
 published: true
-title:  "How to get visitor data for your museum"
-description: "Before doing research about the audience of your museum, you need to collect data first. This may not be as easy as it sounds."
+title:  "So erhalten Sie Besucherdaten für Ihr Museum"
+description: "Bevor Sie das Verhalten Ihres Publikums im Museum recherchieren, müssen Sie zuerst Daten über Ihre Besucher sammeln. Das ist aber vielleicht nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date:   2018-06-25
 banner_image: nubart-as-tool-to-collect-data-museum.jpg
