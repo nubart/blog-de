@@ -19,28 +19,27 @@ Manchmal ist ein Problem eine verkleidete Chance. Das haben wir festgestellt, al
 
 ## Wir erstellen nicht nur Audioguides für Museen, sondern auch Führungen in Naturgebieten
    
-   Unsere Audioguide-Kärtchen sind nicht nur für Museen gut. Sie können auch für Führungen durch größere Gebiete, wie Städte oder Naturräume, verwendet werden. Noelia Porrúa bemerkte dies, als sie sich in der wunderschönen Region Maestrazgo in Teruel (Spanien) niederließ und beschloss, ihre Firma[Nexo Turismo y Cultura](https://www.nexoturismocultura.com/){:target="_blank"} zu gründen.
+   Unsere Audioguide-Kärtchen sind nicht nur für Museen gut. Sie können auch für Führungen durch größere Gebiete, wie Städte oder Naturräume, verwendet werden. Noelia Porrúa bemerkte dies, als sie sich in der wunderschönen Region Maestrazgo in Teruel (Spanien) niederließ und beschloss, ihre Firma [Nexo Turismo y Cultura](https://www.nexoturismocultura.com/){:target="_blank"} zu gründen.
    
-   Noelia setzte sich mit uns in Verbindung gesetzt, weil sie neben den Führungen, die sie für Wanderer anbietet, auch etwas für Alleingänger haben wollte, die die natürlichen Sehenswürdigkeiten unbegleitet, in ihrem eigenen Tempo und in ihrer eigenen Sprache entdecken möchten. 
+   Frau Porrúa setzte sich mit uns in Verbindung, weil sie neben den Führungen, die sie für Wanderer anbietet, sie auch etwas für Alleingänger haben wollte, die die natürlichen Sehenswürdigkeiten unbegleitet, in ihrem eigenen Tempo und in ihrer eigenen Sprache entdecken möchten. 
    
-   Außerdem wollte sie auch die lokale Wirtschaft ankurbeln und unsere Karten in den örtlichen Geschäften vertreiben. Die spektakuläre Schönheit der Naturlandschaft von El Maestrazgo wird immer bekannter. "Es gibt viele Websites, die Informationen liefern - sagte uns Noelia -, aber man muss jede einzelne durchstöbern. Ich wollte, dass die Besucher alle Informationen auf ihrem Handy haben können. Aber auch, dass die Geschäfte in der Umgebung diese Informationen physisch verkaufen könnten. Das ist mit Euren Karten möglich". 
+   Außerdem wollte sie auch die lokale Wirtschaft ankurbeln und unsere Karten in den örtlichen Geschäften vertreiben. Die spektakuläre Schönheit der Naturlandschaft von El Maestrazgo wird immer bekannter. "Es gibt viele Websites, die Informationen liefern - sagte uns Frau Porrúa -, aber man muss jede einzelne durchstöbern. Ich wollte, dass die Besucher alle Informationen auf ihrem Handy haben können. Aber auch, dass die Geschäfte in der Umgebung diese Informationen über einem physischen Format verkaufen. Das ist mit Euren Karten möglich". 
 
 ## Das Problem der Funklöchern in den Naturgebieten
    
-   Noelia hatte ein tolles Skript vorbereitet, das von unserem Team ins Englische und Französische übersetzt wurde. Wir haben das Ergebnis in diesen beiden Sprachen und auf Spanisch besprechen lassen und die Landkarten überarbeitet, um sie an den Inhalt der Audioführung anzupassen. Um das Design der Audioguide-Karte mit Noelias Fotos kümmerten wir uns auch. 
-   [Nubart Audio Tour durch die Naturdenkmäler von El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}}/images/posts/audioguide-nexo-nubart.jpg){: .center-image }
+   Frau Porrúa hatte ein tolles Skript vorbereitet, das von unserem Team ins Englische und Französische übersetzt wurde. Wir haben das Ergebnis in diesen beiden Sprachen und auf Spanisch besprechen lassen und die Landkarten überarbeitet, um sie an den Inhalt der Audioführung anzupassen. Um das Design der Audioguide-Karte mit Frau Porrúas Fotos kümmerten wir uns auch. 
+   [Nubart Audio Tour durch die Naturdenkmäler von El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}}/images/posts/audioguide-nexo-nubart2.jpg){: .center-image }
    
-   Alles lief wunderbar, bis wir sie nach der Twitter-Integration gefragt haben.
+   Alles lief wunderbar, bis wir sie nach der Twitter-Integration fragten.
    
-   
-   Unsere Audioguides haben eine "Tweet about this item"-Option, die es den Nutzern ermöglicht, für die Ausstellung oder den Rundgang von ihrem eigenen sozialen Netzwerk aus zu werben. "Es mag keine gute Idee sein, diese Option auf Ihrer Route zu verwenden", sagten wir Noelia. Unser Inhalt ist zwar so bearbeitet ist, dass er ein Minimum an Daten verbraucht und sehr schnell geladen werden kann, die Twitter-App funktioniert aber langsam, wenn die Netzabdeckung mangelhaft ist. "In diesem Fall sollten wir es lieber ganz sein lassen, denn in El Maestrazgo gibt es überhaupt keine Netzabdeckung."
+   Unsere Audioguides haben eine "Tweet about this item"-Option, die es den Nutzern ermöglicht, für die Ausstellung oder den Rundgang von ihrem eigenen sozialen Netzwerk aus zu werben. "Es mag keine gute Idee sein, diese Option auf Ihrer Route zu verwenden", sagten wir Frau Porrúa. Unser Inhalt ist zwar so bearbeitet, dass kaum Daten verbraucht werden und es sehr schnell lädt, die Twitter-App funktioniert aber langsam, wenn die Netzabdeckung mangelhaft ist. "In diesem Fall sollten wir es lieber ganz sein lassen, denn in El Maestrazgo gibt es überhaupt keine Netzabdeckung", erwiderte sie. 
 
 Autsch... Wie bitte? *Überhaupt keine* Netzabdeckung? 
 
-Unsere Karten wurden zu diesem Punkt in der Regel *gestreamt*, so dass Wifi oder Datenabdeckung, wie schlecht diese auch immer sein mag, erforderlich war. Der Inhalt wurde bereits produziert, die Audio-Tour hochgeladen und die Karten gedruckt, aber ohne Daten oder Wifi waren sie nutzlos. 
-Aber Noelia hatte Recht: El Maestrazgo befindet sich mitten in einem Funkloch und wir hatten dummerweise nicht damit gerechnet. 
+Unsere Nubart-Karten wurden zu diesem Zeitpunkt ausschließlich *gestreamt*, so dass Wifi oder Datenabdeckung, wie schlecht diese auch immer sein mag, zu ihrer Nutzung erforderlich waren. Der Inhalt für Nexo war bereits produziert, die Audio-Tour hochgeladen und die Karten gedruckt, aber ohne Daten oder Wifi waren sie nutzlos. 
+Aber Frau Porrúa hatte Recht: El Maestrazgo befindet sich mitten in einem Funkloch und wir hatten nicht damit gerechnet. 
 Wir standen vor einem Problem. Wir hatten alle viel Zeit und Enthusiasmus für dieses Projekt aufgewendet. Jetzt konnten wir mit den 5.000 gedruckten Karten einen hübschen Untersetzer basteln und der Kundin das Geld zurückgeben, oder nach einer technischen Lösung suchen. 
-Wir wählten das Zweite. 
+Wir entschieden uns für das Zweite. 
 
 ## Das Problem des Offline-Abrufen von Inhalten ohne dafür eine App zu installieren
    
@@ -54,7 +53,7 @@ Wir wählten das Zweite.
    In diesem Video sehen Sie den gesamten Prozess in Echtzeit:
    <iframe src="https://player.vimeo.com/video/250765199" width="640" height="360" frameborder="0" webkitowowowfullscreen mozallowfullscreen allowfullscreen></iframe>{: .center-image }
    Der Zugriff auf unsere Offline-Audiotouren ist genauso einfach wie der Zugriff auf unsere Standard-Audioguides in Streaming. Man muss nur ein bisschen länger warten, bis der gesamte Inhalt vorgeladen ist.
-   So hatten wir nicht nur Noelias Problem gelöst. Es war uns sofort klar, dass auch andere Kunden vom Offline-Modus profitieren konnten, wie z.B. Museen die zwar Wi-Fi im Empfangsbereich anbieten, aber keine Abdeckung in den restlichen Räumen anbieten. Auch Touristen von ausserhalb der EU können so auf das teure *Roaming* versichten, da sie einen kostenlosen Wifi-Spot zum Herunterladen der Inhalte nutzen können.
+   So hatten wir nicht nur Frau Porrúas Problem gelöst. Es war uns sofort klar, dass auch andere Kunden vom Offline-Modus profitieren konnten, wie z.B. Museen die zwar Wi-Fi im Empfangsbereich anbieten, aber keine Abdeckung in den restlichen Räumen anbieten. Auch Touristen von ausserhalb der EU können so auf das teure *Roaming* versichten, da sie einen kostenlosen Wifi-Spot zum Herunterladen der Inhalte nutzen können.
    Inzwischen haben wir diese Entwicklung erweitert und bieten nun auch eine Hybridlösung an, bei der nur die Audiospuren, die Bereichen mit schlechter Konnektivität zugeordnet sind, von uns in den Offline-Modus geschaltet werden. Dies verbessert die Ladegeschwindigkeit.
 
 
