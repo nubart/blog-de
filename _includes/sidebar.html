@@ -2,7 +2,7 @@
 
     {% if page.author_bio and page.author_name %}
     <section class="widget widget-text">
-        <h2 class="widget-title">About {{ page.author_name }}</h2>
+        <h2 class="widget-title">Über {{ page.author_name }}</h2>
         <p>{{ page.author_bio }}</p>
     </section><!-- .widget-text -->
     {% endif %}
@@ -31,7 +31,7 @@
     {% endif %}
 
     <section class="widget widget-recent-posts">
-        <h2 class="widget-title">Newest posts</h2>
+        <h2 class="widget-title">Neueste Beiträge</h2>
         <ul class="recent-posts">
             {% for post in site.posts limit:5 %}
             <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%B %-d, %Y" }}</span></li>

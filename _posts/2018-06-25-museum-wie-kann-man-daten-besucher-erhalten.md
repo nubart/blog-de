@@ -13,7 +13,7 @@ banner_image: nubart-as-tool-to-collect-data-museum.jpg
 tags: [Daten über Besucher, Museen]
 ---
 
-Haben Sie sich jemals gefragt, warum der Flugbegleiter, der Sie im Flugzeug begrüßt, meistens eine Hand hinter seinem Rücken hält? 
+Haben Sie sich jemals gefragt, warum der Flugbegleiter, der Sie im Flugzeug beim Einsteigen begrüßt, meistens eine Hand hinter seinem Rücken hält? 
 
 Es ist nicht nur eine höfliche Geste. Der Flugbegleiter begrüßt Sie nicht nur, er zählt Sie! In seiner Hand hält er einen Fahrgastzähler wie diesen:
 ![Clicker Fahrgastzähler]({{site.baseurl}}/images/posts/passanger-counter2.jpg){: .center-image }
@@ -55,8 +55,8 @@ Schließlich bieten wir eine Liste der **meistgespielten Tonspuren** und deren P
  * **Feedback Terminals:**
    Die automatisierte Variante davon sind die sogenannten *Feedback-Terminals*, die man oft in Flughäfen und anderen öffentlichen Orten findet. Manche verfügen über eine Tastatur, die beliebeig komplexe Antworten auf sehr viele Fragen ermöglicht. Andere zeigen dagegen nur drei Emoticons, auf die der Besucher fast im Vorbeigehen tappen soll: "gefällt mir", "neutral" und "gefällt mir nicht". Ein Besucher, der ermüdet ist vom langen Stehen, wird sich nur sehr selten auf die erste Variante einlassen wollen. Und die zweite ist viel zu simpel, um wirklich relevante information zu vermitteln.
    Diese Terminals sind dazu auch noch teuer. Unserer Recherchen nach kostet ihre Haltung zwischen 50,- und 200,- € im Monat. 
-   
-   Die **kurze Feedback-Umfrage am Ende der Nubart Audioguides** löst dieses Problem. Der Besucher findet die Umfrage am Ende der digitalen Inhalte und sieht sie genau nach Beendigung des Rundgangs. Wir leiten ihn extra *nicht* auf eine externe Seite: Die anonyme Umfrage ist in ihrer beabsichtigten Kürze sofort für ihn sichtbar und verfügbar. Er kann sie in wenigen Sekunden direkt im Museum oder auf der Rückfahrt zum Hotel beantworten. Das alles erklärt wahrscheinlich auch unsere ungewöhnlich hohe Antwortquote von 11-12 % der Audioguide-Nutzer! Das Beste daran: Wenn erwünscht können ein oder mehrere Mitarbeiter des Museums die Kommentare der Besucher in Echtzeit per E-Mail erhalten, so dass sie immer am Puls der Ausstellung bleiben.
+ 
+Die **kurze Feedback-Umfrage am Ende der Nubart Audioguides** löst dieses Problem. Der Besucher findet die Umfrage am Ende der digitalen Inhalte und sieht sie genau nach Beendigung des Rundgangs. Wir leiten ihn extra *nicht* auf eine externe Seite: Die anonyme Umfrage ist in ihrer beabsichtigten Kürze sofort für ihn sichtbar und verfügbar. Er kann sie in wenigen Sekunden direkt im Museum oder auf der Rückfahrt zum Hotel beantworten. Das alles erklärt wahrscheinlich auch unsere ungewöhnlich hohe Antwortquote von 11-12 % der Audioguide-Nutzer! Das Beste daran: Wenn erwünscht können ein oder mehrere Mitarbeiter des Museums die Kommentare der Besucher in Echtzeit per E-Mail erhalten, so dass sie immer am Puls der Ausstellung bleiben.
  
  Hier sind einige der Kommentare, die Besucher im Feedback-Formular hinterlassen haben:
 <video width="720" height="548" autoplay loop>
@@ -67,7 +67,7 @@ Your browser does not allow to show this video.
 
 Wenn Ihr Museum das Alter, das Geschlecht oder andere nicht automatisierbare Daten des Besuchers abfragen möchte, können Sie es ebenfalls hier tun! Wir können die Fragen des Feedback-Formulars anpassen, um ihren individuellen Bedürfnissen gerecht zu werden. 
 
-Die gesamten Daten (die automatisch registrierten und die freiwillig vom Besuchern im feedback-Formular hinterlassenenen) sind in unseren Tarifpaketen inbegriffen. Weitere [Informationen zu unseren Preisen finden Sie auf unserer Website](http://www.nubart.eu/#pricing){:target="_blank"}. 
+Die gesamten Daten (die automatisch registrierten und die freiwillig vom Besuchern im feedback-Formular hinterlassenenen) sind in unseren Tarifpaketen inbegriffen. Weitere [Informationen zu unseren Preisen finden Sie auf unserer Website](https://www.nubart.eu/de/index.html#pricing){:target="_blank"}. 
 
 Vielleicht ist ein Audioguide für Ihr Museum nicht so wichtig. Aber würden Sie nicht gerne mehr über Ihre Besucher erfahren? Dann machen Sie es wie die Fluggesellschaften und begrüßen Sie sie mit einem Nubart Audioguide an der Eingangstür!
 

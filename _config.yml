@@ -25,10 +25,10 @@ url: "http://www.nubart.eu"
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: Home
+- text: Startseite
   url: /blog-de/
-- text: Web
-  url: http://www.nubart.eu/
+- text: Nubarts Website
+  url: http://www.nubart.eu/de/
 - text: Archives
   url: /blog-de/tags/
 
@@ -41,7 +41,7 @@ author_bio: "Dr. Rosa Sala ist CEO und Gründerin von Nubart."
 author_image: /images/rosa-sala.jpg
 
 # Sidebar Add banner
-banner_url: "http://www.nubart.eu/"
+banner_url: "http://www.nubart.eu/de/"
 banner_image: images/nubart-audio-guides-with-headphones.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
