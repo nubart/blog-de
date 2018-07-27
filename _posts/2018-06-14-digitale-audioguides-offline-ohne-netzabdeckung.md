@@ -13,7 +13,7 @@ banner_image: audioguide-nexo-nubart2.jpg
 tags: [audio tour, offline]
 ---
 
-Manchmal ist ein Problem eine verkleidete Chance. Das haben wir festgestellt, als wir für Nexo Turismo y Cultura die Audioführung zu den Naturdenkmälern von El Maestrazgo (Teruel, Spanien) produzierten. Es war der Ursprung unserer digitalen Offline-Audioguides für Smartphones, die ohne Wifi und ohne Datenabdeckung funktionieren. Hier ist die Geschichte. 
+Es gibt im Englischen das Sprichwort, dass ein Hindernis manchmal nur eine verkleidete Chance ist. Das haben wir festgestellt, als wir für Nexo Turismo y Cultura die Audioführung zu den Naturdenkmälern von El Maestrazgo (Teruel, Spanien) produzierten. Es war der Ursprung unserer digitalen Offline-Audioguides für Smartphones, die ohne Wifi und ohne Datenabdeckung funktionieren. Hier ist die Geschichte. 
 
 <!--more-->
 
@@ -21,11 +21,11 @@ Manchmal ist ein Problem eine verkleidete Chance. Das haben wir festgestellt, al
    
    Unsere Audioguide-Kärtchen sind nicht nur für Museen gut. Sie können auch für Führungen durch größere Gebiete, wie Städte oder Naturräume, verwendet werden. Noelia Porrúa bemerkte dies, als sie sich in der wunderschönen Region Maestrazgo in Teruel (Spanien) niederließ und beschloss, ihre Firma [Nexo Turismo y Cultura](https://www.nexoturismocultura.com/){:target="_blank"} zu gründen.
    
-   Frau Porrúa setzte sich mit uns in Verbindung, weil sie neben den Führungen, die sie für Wanderer anbietet, sie auch etwas für Alleingänger haben wollte, die die natürlichen Sehenswürdigkeiten unbegleitet, in ihrem eigenen Tempo und in ihrer eigenen Sprache entdecken möchten. 
+   Frau Porrúa setzte sich mit uns in Verbindung, weil sie neben den Führungen, die sie für Wanderer anbietet, auch etwas für Alleingänger haben wollte, die die natürlichen Sehenswürdigkeiten unbegleitet, in ihrem eigenen Tempo und in ihrer eigenen Sprache entdecken möchten. 
    
-   Außerdem wollte sie auch die lokale Wirtschaft ankurbeln und unsere Karten in den örtlichen Geschäften vertreiben. Die spektakuläre Schönheit der Naturlandschaft von El Maestrazgo wird immer bekannter. "Es gibt viele Websites, die Informationen liefern - sagte uns Frau Porrúa -, aber man muss jede einzelne durchstöbern. Ich wollte, dass die Besucher alle Informationen auf ihrem Handy haben können. Aber auch, dass die Geschäfte in der Umgebung diese Informationen über einem physischen Format verkaufen. Das ist mit Euren Karten möglich". 
+   Außerdem wollte sie auch die lokale Wirtschaft ankurbeln und unsere Karten in den örtlichen Geschäften vertreiben. Die spektakuläre Schönheit der Naturlandschaft von El Maestrazgo wird immer bekannter. "Es gibt viele Websites, die Informationen liefern - sagte uns Frau Porrúa -, aber man muss jede einzelne durchstöbern. Ich wollte, dass die Besucher alle Informationen auf ihrem Handy haben können. Aber auch, dass die Geschäfte in der Umgebung diese Informationen in einem physischen Format verkaufen. Das ist mit Euren Karten möglich". 
 
-## Das Problem der Funklöchern in den Naturgebieten
+## Das Problem der Funklöcher in den Naturgebieten
    
    Frau Porrúa hatte ein tolles Skript vorbereitet, das von unserem Team ins Englische und Französische übersetzt wurde. Wir haben das Ergebnis in diesen beiden Sprachen und auf Spanisch besprechen lassen und die Landkarten überarbeitet, um sie an den Inhalt der Audioführung anzupassen. Um das Design der Audioguide-Karte mit Frau Porrúas Fotos kümmerten wir uns auch. 
    
@@ -33,18 +33,18 @@ Manchmal ist ein Problem eine verkleidete Chance. Das haben wir festgestellt, al
 
    Alles lief wunderbar, bis wir sie nach der Twitter-Integration fragten.
    
-   Unsere Audioguides haben eine "Tweet about this item"-Option, die es den Nutzern ermöglicht, für die Ausstellung oder den Rundgang von ihrem eigenen sozialen Netzwerk aus zu werben. "Es mag keine gute Idee sein, diese Option auf Ihrer Route zu verwenden", sagten wir Frau Porrúa. Unser Inhalt ist zwar so bearbeitet, dass kaum Daten verbraucht werden und es sehr schnell lädt, die Twitter-App funktioniert aber langsam, wenn die Netzabdeckung mangelhaft ist. "In diesem Fall sollten wir es lieber ganz sein lassen, denn in El Maestrazgo gibt es überhaupt keine Netzabdeckung", erwiderte sie. 
+   Unsere Audioguides haben eine "Hierüber tweeten"-Option, die es den Nutzern ermöglicht, für die Ausstellung oder den Rundgang von ihrem eigenen sozialen Netzwerk aus zu werben. "Es mag keine gute Idee sein, diese Option auf Ihrer Route zu verwenden", sagten wir Frau Porrúa. Unser Inhalt ist zwar so bearbeitet, dass kaum Daten verbraucht werden und es sehr schnell lädt, die Twitter-App funktioniert aber langsam, wenn die Netzabdeckung mangelhaft ist. "In diesem Fall sollten wir es lieber ganz sein lassen, denn in El Maestrazgo gibt es überhaupt keine Netzabdeckung", erwiderte sie. 
 
 Autsch... Wie bitte? *Überhaupt keine* Netzabdeckung? 
 
 Unsere Nubart-Karten wurden zu diesem Zeitpunkt ausschließlich *gestreamt*, so dass Wifi oder Datenabdeckung, wie schlecht diese auch immer sein mag, zu ihrer Nutzung erforderlich waren. Der Inhalt für Nexo war bereits produziert, die Audio-Tour hochgeladen und die Karten gedruckt, aber ohne Daten oder Wifi waren sie nutzlos. 
 Aber Frau Porrúa hatte Recht: El Maestrazgo befindet sich mitten in einem Funkloch und wir hatten nicht damit gerechnet. 
-Wir standen vor einem Problem. Wir hatten alle viel Zeit und Enthusiasmus für dieses Projekt aufgewendet. Jetzt konnten wir mit den 5.000 gedruckten Karten einen hübschen Untersetzer basteln und der Kundin das Geld zurückgeben, oder nach einer technischen Lösung suchen. 
+Wir standen vor einem Problem. Wir hatten alle viel Zeit und Enthusiasmus für dieses Projekt aufgewendet. Jetzt konnten wir mit den 5.000 gedruckten Karten hübsche Untersetzer basteln und der Kundin das Geld zurückgeben, oder nach einer technischen Lösung suchen. 
 Wir entschieden uns für das Zweite. 
 
 ## Das Problem des Offline-Abrufen von Inhalten ohne dafür eine App zu installieren
    
-   Wir mussten einen Weg finden, damit der gesamte inhalt des Audioguides an einem Ort mit guter Abdeckung vorgeladen werden konnte, um später offline darauf zugreifen zu können. Theoretisch ist das nur mit nativen mobilen Apps möglich. Aber bei Nubart glauben wir nicht an Apps. Der Zugang zum Inhalt musste schneller und unmittelbarer stattfinden, ohne dass die Nutzer den lästigen Prozess der Suche nach einer App im Shop, des Herunterladens, der Installation, des Öffnens und der Vergabe von Berechtigungen durchlaufen müssen. Aber wir wollten auch nicht den Handy-Speicher verbrauchen, wie es einmal installierte Apps nun mal tun. 
+   Wir mussten einen Weg finden, damit der gesamte Inhalt des Audioguides an einem Ort mit guter Abdeckung vorgeladen werden konnte, um später offline darauf zugreifen zu können. Theoretisch ist das nur mit nativen mobilen Apps möglich. Aber bei Nubart glauben wir nicht an Apps. Der Zugang zum Inhalt soll schnell und unmittelbar sein. Unsere Nutzer sollten den lästigen Prozess der Suche nach einer App im Shop, des Herunterladens, der Installation, des Öffnens und der Vergabe von Berechtigungen nicht durchlaufen müssen. Wir wollten auch nicht den Handy-Speicher des Benutzers verbrauchen, wie es installierte Apps nun mal tun. 
    Das "preload"-Attribut in html war keine brauchbare Lösung, da praktisch keiner der mobilen Browser diesem Attribut Folge leistet. 
    Wahrscheinlich würden Ihnen 95% der Softwarefirmen sagen, dass dieses Problem ohne der Entwicklung einer App nicht lösbar ist.
    
