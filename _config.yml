@@ -25,11 +25,11 @@ url: "http://www.nubart.eu"
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: Startseite
+- text: Startseite Blog
   url: /blog-de/
 - text: Nubarts Website
   url: http://www.nubart.eu/de/
-- text: Archives
+- text: Archiv
   url: /blog-de/tags/
 
 # The shortname for your Disqus site to enable comments.
