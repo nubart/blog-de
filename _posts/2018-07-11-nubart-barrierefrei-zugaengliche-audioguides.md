@@ -69,12 +69,11 @@ Wenn diese Funktion implementiert ist, können Sie mit Nubart neben jeder Spur a
 
 #### Probleme bei der Texttranskription für Gerhörlose:
 * Für vorsprachlich Gehörlose (diejenigen, die ihr Gehör in der Kindheit vor dem Spracherwerb verloren haben) stellt das Lesen und Schreiben eine große Herausforderung dar. Obwohl sie lernen können, Buchstaben zu kopieren und durch Bilder zu identifizieren, können sie die Schrift nicht mit den Klangelementen der Sprache in Verbindung bringen. Daher können **nicht alle Gehörlose fließend lesen**, so dass die Integration von Texttranskriptionen auch nicht allen Bedürfnissen gerecht wird.  
-  
+
   Was auch immer Ihre Situation ist, fragen Sie uns. Bei Nubart werden wir Ihren Fall analysieren und ein auf Ihre Bedürfnisse abgestimmtes Angebot erstellen. 
+  
+  #### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
 
-
-#### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
-
-<form action="../../../../../">
+<form action="../../../../../de">
     <input type="submit" value="Besuchen Sie unsere Website" />
 </form>

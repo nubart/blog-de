@@ -53,7 +53,7 @@ Schließlich bieten wir eine Liste der **meistgespielten Tonspuren** und deren P
    Sei es über eine teure Agentur oder mit Hilfe der eigenen Mitarbeiter, platzieren manche Museen jemanden mit einem Notizblock am Ausgang, um die gehenden Besucher zu interviewen. Aber zu diesem Zeitpunkt haben sie mehrere Stunden auf ihren Füßen verbracht und sind müde und ungeduldig. Die meisten Besucher werden in Anwesenheit des Museumsbeauftragten auch ungern eine unvoreingenommene Kritik äussern.
    
  * **Feedback Terminals:**
-   Die automatisierte Variante davon sind die sogenannten *Feedback-Terminals*, die man oft in Flughäfen und anderen öffentlichen Orten findet. Manche verfügen über eine Tastatur, die beliebeig komplexe Antworten auf sehr viele Fragen ermöglicht. Andere zeigen dagegen nur drei Emoticons, auf die der Besucher fast im Vorbeigehen tappen soll: "gefällt mir", "neutral" und "gefällt mir nicht". Ein Besucher, der ermüdet ist vom langen Stehen, wird sich nur sehr selten auf die erste Variante einlassen wollen. Und die zweite ist viel zu simpel, um wirklich relevante information zu vermitteln.
+   Die automatisierte Variante davon sind die sogenannten *Feedback-Terminals* oder Online-Befragung-Terminals, die man oft in Flughäfen und anderen öffentlichen Orten findet. Manche verfügen über eine Tastatur, die beliebeig komplexe Antworten auf sehr viele Fragen ermöglicht. Andere zeigen dagegen nur drei Emoticons, auf die der Besucher fast im Vorbeigehen tappen soll: "gefällt mir", "neutral" und "gefällt mir nicht". Ein Besucher, der ermüdet ist vom langen Stehen, wird sich nur sehr selten auf die erste Variante einlassen wollen. Und die zweite ist viel zu simpel, um wirklich relevante information zu vermitteln.
    Diese Terminals sind dazu auch noch teuer. Unserer Recherchen nach kostet ihre Haltung zwischen 50,- und 200,- € im Monat. 
  
 Die **kurze Feedback-Umfrage am Ende der Nubart Audioguides** löst dieses Problem. Der Besucher findet die Umfrage am Ende der digitalen Inhalte und sieht sie genau nach Beendigung des Rundgangs. Wir leiten ihn extra *nicht* auf eine externe Seite: Die anonyme Umfrage ist in ihrer beabsichtigten Kürze sofort für ihn sichtbar und verfügbar. Er kann sie in wenigen Sekunden direkt im Museum oder auf der Rückfahrt zum Hotel beantworten. Das alles erklärt wahrscheinlich auch unsere ungewöhnlich hohe Antwortquote von 11-12 % der Audioguide-Nutzer! Das Beste daran: Wenn erwünscht können ein oder mehrere Mitarbeiter des Museums die Kommentare der Besucher in Echtzeit per E-Mail erhalten, so dass sie immer am Puls der Ausstellung bleiben.
@@ -77,6 +77,6 @@ Vielleicht ist ein Audioguide für Ihr Museum nicht so wichtig. Aber würden Sie
 
 #### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
 
-<form action="../../../../../">
+<form action="../../../../../de">
     <input type="submit" value="Besuchen Sie unsere Website" />
 </form>

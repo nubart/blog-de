@@ -54,13 +54,13 @@ Wir entschieden uns für das Zweite.
    In diesem Video sehen Sie den gesamten Prozess in Echtzeit:
    <iframe src="https://player.vimeo.com/video/250765199" width="640" height="360" frameborder="0" webkitowowowfullscreen mozallowfullscreen allowfullscreen></iframe>{: .center-image }
    Der Zugriff auf unsere Offline-Audiotouren ist genauso einfach wie der Zugriff auf unsere Standard-Audioguides in Streaming. Man muss nur ein bisschen länger warten, bis der gesamte Inhalt vorgeladen ist.
-   So hatten wir nicht nur Frau Porrúas Problem gelöst. Es war uns sofort klar, dass auch andere Kunden vom Offline-Modus profitieren konnten, wie z.B. Museen die zwar Wi-Fi im Empfangsbereich anbieten, aber keine Abdeckung in den restlichen Räumen anbieten. Auch Touristen von ausserhalb der EU können so auf das teure *Roaming* verzichten, da sie einen kostenlosen Wifi-Hotspot zum Herunterladen der Inhalte nutzen können.
+   So hatten wir nicht nur Frau Porrúas Problem gelöst. Es war uns sofort klar, dass auch andere Kunden vom Offline-Modus profitieren konnten, wie z.B. Museen die zwar Wi-Fi im Empfangsbereich anbieten, aber keine Abdeckung in den restlichen Räumen anbieten. Auch Touristen von ausserhalb der EU können so auf das teure *Roaming* verzichten, da sie einen kostenlosen Wifi-Hotspot zum Herunterladen der Inhalte nutzen können. Und gerade in Deutschland, wo die Netzabdeckung an vielen Orten immer noch viel zu wünschen übrig lässt, sollte unsere Lösung wie gerufen kommen. 
    Inzwischen haben wir diese Entwicklung erweitert und bieten nun auch eine Hybridlösung an. So werden nur die Audiospuren zu Exponaten in Bereichen mit schlechter Verbindung von uns im Offline-Modus vorgeladen. Dies verbessert die Ladegeschwindigkeit.
 
 
 
 #### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
 
-<form action="../../../../../">
+<form action="../../../../../de">
     <input type="submit" value="Besuchen Sie unsere Website" />
 </form>
