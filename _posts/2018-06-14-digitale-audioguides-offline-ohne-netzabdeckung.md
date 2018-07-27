@@ -30,7 +30,7 @@ Manchmal ist ein Problem eine verkleidete Chance. Das haben wir festgestellt, al
    Frau Porrúa hatte ein tolles Skript vorbereitet, das von unserem Team ins Englische und Französische übersetzt wurde. Wir haben das Ergebnis in diesen beiden Sprachen und auf Spanisch besprechen lassen und die Landkarten überarbeitet, um sie an den Inhalt der Audioführung anzupassen. Um das Design der Audioguide-Karte mit Frau Porrúas Fotos kümmerten wir uns auch. 
    
    ![Nubart Audio Tour durch die Naturdenkmäler von El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioguide-nexo-nubart2.jpg){: .center-image }
-   
+
    Alles lief wunderbar, bis wir sie nach der Twitter-Integration fragten.
    
    Unsere Audioguides haben eine "Tweet about this item"-Option, die es den Nutzern ermöglicht, für die Ausstellung oder den Rundgang von ihrem eigenen sozialen Netzwerk aus zu werben. "Es mag keine gute Idee sein, diese Option auf Ihrer Route zu verwenden", sagten wir Frau Porrúa. Unser Inhalt ist zwar so bearbeitet, dass kaum Daten verbraucht werden und es sehr schnell lädt, die Twitter-App funktioniert aber langsam, wenn die Netzabdeckung mangelhaft ist. "In diesem Fall sollten wir es lieber ganz sein lassen, denn in El Maestrazgo gibt es überhaupt keine Netzabdeckung", erwiderte sie. 
