@@ -2,7 +2,6 @@
 author_name: Rosa Sala
 author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
 author_location: Berlin / Barcelona
-author_image: /blog-de/images/posts/rosa.sala.jpg
 layout: post
 comments: true
 published: true
