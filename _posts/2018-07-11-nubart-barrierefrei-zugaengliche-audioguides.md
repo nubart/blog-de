@@ -19,7 +19,7 @@ Museen streben danach, Orte zu sein, die von allen Mitbürgern, auch von Mensche
 
 <!--more-->
 
-#Zugänglichkeit von Audioguides für Blinde und Sehbehinderte
+# Zugänglichkeit von Audioguides für Blinde und Sehbehinderte
   
   Das Anliegen, blinde Menschen an der Erfahrung eines Museumsbesuches teilnehmen zu lassen, hat eine lange Tradition. Bereits 1913 lud der ehemalige Kurator des Sunderland Museums, John Alfred Charlton Deas, die Kinder der Sunderland Council Blind School ein, einige Exponate des Sunderland Museums über ihre Hände zu *sehen*. Der Erfolg der Initiative ermutigte ihn, diese Art von Besuch auch auf sehbehinderte Erwachsene auszuweiten.
 
