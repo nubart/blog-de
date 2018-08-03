@@ -18,7 +18,8 @@ tags: [Barrierefreiheit, Audioguides]
 Museen streben danach, Orte zu sein, die von allen Mitbürgern, auch von Menschen mit körperlichen Beeinträchtigungen, genutzt werden können. Deshalb haben wir bei Nubart unsere Karten-Audioguides im Inklusiv- oder Universal-Design konzipiert ("Design für Alle"). So können sie von Museen auch genutzt werden, um seh- oder hörgeschädigte Besucher über ihre Exponate zu informieren. Nachfolgend mehr dazu!
 
 <!--more-->
-# Zugänglichkeit von Audioguides für Blinde und Sehbehinderte
+
+#Zugänglichkeit von Audioguides für Blinde und Sehbehinderte
   
   Das Anliegen, blinde Menschen an der Erfahrung eines Museumsbesuches teilnehmen zu lassen, hat eine lange Tradition. Bereits 1913 lud der ehemalige Kurator des Sunderland Museums, John Alfred Charlton Deas, die Kinder der Sunderland Council Blind School ein, einige Exponate des Sunderland Museums über ihre Hände zu *sehen*. Der Erfolg der Initiative ermutigte ihn, diese Art von Besuch auch auf sehbehinderte Erwachsene auszuweiten.
 
