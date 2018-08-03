@@ -77,7 +77,7 @@ Vielleicht ist ein Audioguide für Ihr Museum nicht so wichtig. Aber würden Sie
 
 
 
-#### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
+#### <font color="blue">Bei Nubart produzieren wir innovative und kostengünstige Audioguides.</font>
 
 <form action="../../../../../de">
     <input type="submit" value="Besuchen Sie unsere Website" />

@@ -74,7 +74,7 @@ Wenn diese Funktion implementiert ist, können Sie mit Nubart neben jeder Spur a
 
   Was auch immer Ihre Situation ist, fragen Sie uns. Bei Nubart werden wir Ihren Fall analysieren und ein auf Ihre Bedürfnisse abgestimmtes Angebot erstellen. 
   
-  #### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
+  #### <font color="blue">Bei Nubart produzieren wir innovative und kostengünstige Audioguides.</font>
 
 <form action="../../../../../de">
     <input type="submit" value="Besuchen Sie unsere Website" />

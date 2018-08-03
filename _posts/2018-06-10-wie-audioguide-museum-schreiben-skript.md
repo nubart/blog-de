@@ -89,7 +89,7 @@ Ansonsten: [Wertvolle Information über "Schreiben fürs Hören" finden Sie auch
 Sind Sie mit diesen Punkten einverstanden? Möchten Sie noch etwas hinzufügen? Hinterlassen Sie uns doch einfach einen Kommentar!
 
 
-#### Bei Nubart produzieren wir innovative und kostengünstige Audioguides.
+#### <font color="blue">Bei Nubart produzieren wir innovative und kostengünstige Audioguides.</font>
 
 <form action="../../../../../de">
     <input type="submit" value="Besuchen Sie unsere Website" />
