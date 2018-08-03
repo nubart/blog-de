@@ -37,7 +37,7 @@ Hier sind einige Kriterien, die Ihnen bei der Auswahl helfen können:
 
 Wichtig dabei zu bedenken: die Besucher schenken den Exponaten zu Beginn des Rundgangs viel mehr Aufmerksamkeit als den Späteren. Im ersten Museumssaal ist man noch voller Energie und Interesse, und daher bereit, alle gebotenen Spuren aufmerksam anzuhören. Museumsbesuche sind aber anstrengend. Im Laufe der Zeit stellt sich Müdigkeit ein und der Wunsch, vor einem Objekt zu stehen und die Erklärung zu hören, nimmt rasant ab. Wenn Sie zu viele Erklärungen im Audioguide anbieten, laufen Sie Gefahr, die ganze Energie Ihres Publikums in den ersten Räumen zu verbrauchen. Die letzten Exponate werden oft kaum noch angesehen, geschweige denn, die Erklärung dazu gehört. 
 
-Bei Nubart kann man das ein wenig lockerer nehmen, da unsere "Audioguides zum Mitnehmen" nicht zurückgegeben werden müssen. So kann der erschöpfte, aber immernoch interessierte Besucher auch nach einigen Stunden oder Tagen die fehlenden Spuren bequem in einem Café oder im Hotelzimmer anhören.
+Bei Nubart kann man das ein wenig lockerer nehmen, da unsere "Audioguides zum Mitnehmen" nicht zurückgegeben werden müssen. So kann der erschöpfte, aber immernoch interessierte Besucher auch noch später die fehlenden Spuren bequem in einem Café oder im Hotelzimmer anhören.
 
 Sie können die Auswahl Ihrer Exponate aber auch als *work in progress* betrachten und mit der Zeit verfeinern. Wie bei Nubart vermitteln inzwischen viele Audioguides konkrete Informationen über die meist angehörten Spuren. (Wenn nicht sollten Sie unbedingt darauf bestehen!). Auf diese Weise werden Sie mit der Zeit die Vorlieben Ihres Publikums besser kennen und die selten oder nur halb angehörten Spuren entfernen, verkürzen oder durch andere, geeignetere ersetzen. 
 
@@ -54,7 +54,7 @@ Denken Sie aber daran, dass das in der Regel die anstrengensten Spuren für die 
 Gerade bei Sonderausstellungen ist die Zeit knapp und es ist nicht immer möglich, Inhalte über den Katalog oder die Plakate hinaus zu generieren. Direkte, spontan aufgenommene Darstellungen sind dagegen relativ einfach und schnell zu organisieren. Wenn es absolut keine andere Möglichkeit gibt, können Sie sie sogar via Skype aufnehmen: Die Authentizität der Originalstimme wird die unperfekte Aufnahmequalität übertrumpfen. (Mitarbeiter der Tate oder des MOMAs: bitte nicht aufregen! Wir haben ja schon gesagt, dass wir uns mit diesem Beitrag an kleinere Museen wenden, die sich vielleicht weder aufwendige Content-Agenturen noch Studio-Tonaufnahmen leisten können, und trotzdem ihren Besuchern eine informative Erklärung der Ausstellung anbieten möchten).
 
 Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne auf die Authentizität der Originalstimme zu verzichten, überspielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre. Hier zum Beispiel die Stimme der Kuratorin Christiane Stoebe bei unseren für den Skulpturensommer Pirna produzierten Audioguides:
-
+ ![Nubarts nur-digitalen Audioguide für den Skupturensommer Pirna 2018 (Hans Scheib9)]({{site.baseurl}}/images/posts/nubart-audioguide-skulpturensommer-pirna.png){: .center-image }
 
 <audio controls src="{{site.baseurl}}/audio/engel-en.mp3">Ihr Browser unterstützt das Element <code>Audio</code> nicht.</audio>
 
