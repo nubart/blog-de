@@ -11,7 +11,7 @@ title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
 description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
-banner_image: audioguide-nexo-nubart2.jpg
+banner_image: steinzeitpark-nubart-audioguide.jpg
 tags: [audio tour, offline, Netzabdeckung]
 ---
 
@@ -62,6 +62,7 @@ Wir entschieden uns für das Zweite.
    
    In diesem Video sehen Sie den gesamten Prozess in Echtzeit (Steinzeitpark Dithmarschen, Schleswig-Holstein):
    <iframe src="https://player.vimeo.com/video/282902841" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
+   
    Der Zugriff auf unsere Offline-Audiotouren ist genauso einfach wie der Zugriff auf unsere Standard-Audioguides mit Streaming. Man muss nur ein bisschen länger warten, bis der gesamte Inhalt vorgeladen ist.
    
    So hatten wir nicht nur Frau Porrúas Problem gelöst. Es war uns sofort klar, dass auch andere Kunden vom Offline-Modus profitieren konnten, wie z.B. Museen die zwar Wi-Fi im Empfangsbereich anbieten, aber keine Abdeckung in den restlichen Räumen bereitstellen können. Auch Touristen von ausserhalb der EU können so auf das teure *Roaming* verzichten, da sie einen kostenlosen Wifi-Hotspot zum Herunterladen der Inhalte nutzen können. Und gerade in Deutschland, wo die Netzabdeckung an vielen Orten immer noch viel zu wünschen übrig lässt, sollte unsere Lösung wie gerufen kommen. 
