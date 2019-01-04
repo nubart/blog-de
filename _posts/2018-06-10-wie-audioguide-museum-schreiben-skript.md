@@ -89,10 +89,10 @@ Ansonsten: [Wertvolle Information über "Schreiben fürs Hören" finden Sie auch
 Sind Sie mit diesen Punkten einverstanden? Möchten Sie noch etwas hinzufügen? Hinterlassen Sie uns doch einfach einen Kommentar!
 
 
-#### <font color="blue">Bei Nubart produzieren wir innovative und nicht-übertragbare Audioguide-Kärtchen</font>
+#### <font color="blue">Bei Nubart produzieren wir innovative Audioguides als Kärtchen</font>
 
 ![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-aduioguide-karte.jpg){: .center-image }
 
 <form action="../../../../../de">
-    <input type="submit" value="Fordern Sie hier ein Musterkärtchen an" />
+    <input type="submit" value="Fordern Sie hier ein Muster an" />
 </form>

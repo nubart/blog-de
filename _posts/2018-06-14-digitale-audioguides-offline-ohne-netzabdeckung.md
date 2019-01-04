@@ -68,10 +68,10 @@ Wir entschieden uns für das Zweite.
    
    Inzwischen haben wir diese Entwicklung erweitert und bieten nun auch eine Hybridlösung an. So werden nur die Audiospuren zu Exponaten in Bereichen mit schlechter Verbindung von uns im Offline-Modus vorgeladen. Dies verbessert die Ladegeschwindigkeit.
 
-#### <font color="blue">Bei Nubart produzieren wir innovative und nicht-übertragbare Audioguide-Kärtchen</font>
+#### <font color="blue">Bei Nubart produzieren wir innovative Audioguides als Kärtchen</font>
 
 ![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-aduioguide-karte.jpg){: .center-image }
 
 <form action="../../../../../de">
-    <input type="submit" value="Fordern Sie hier ein Musterkärtchen an" />
+    <input type="submit" value="Fordern Sie hier ein Muster an" />
 </form>
