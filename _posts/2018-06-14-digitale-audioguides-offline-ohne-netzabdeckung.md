@@ -7,8 +7,8 @@ author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
-title:  "Warum wir digitale Audioguides im Offline-Modus ganz ohne App anbieten können"
-description: "Museen haben oft eine schlechte Netzabdeckung und können unsere digitalen Audioguides nicht streamen. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
+title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
+description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
 banner_image: audioguide-nexo-nubart2.jpg

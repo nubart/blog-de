@@ -8,7 +8,7 @@ layout: post
 comments: true
 published: true
 title:  "Wie schreibt man das Skript eines Museum-Audioguides?"
-description: "Das Skript eines Audioguides ist ein Text der ganz besonderen Art und folgt seinen eigenen Regeln. Hier vermitteln wir einige Tricks."
+description: "Ein Audioguideskript ist ein ganz besonderer Text und folgt eigenen Regeln. Hier finden Sie einige Tips dazu."
 slug: "wie-audioguide-museum-schreiben-skript"
 date:   2018-06-10
 banner_image: woman-typing-writing-windows.jpg

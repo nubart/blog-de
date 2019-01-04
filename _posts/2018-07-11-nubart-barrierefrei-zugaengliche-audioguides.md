@@ -8,7 +8,7 @@ layout: post
 comments: true
 published: true
 title:  "Die Audioguides von Nubart sind barrierefrei"
-description: "Nubart Audioguides sind für seh- und hörgeschädigte Museumsbesucher zugänglich."
+description: "Unsere Audioguide-Kärtchen sind auch für seh- und hörgeschädigte Museumsbesucher zugänglich."
 slug: "nubart-barrierefrei-zugaengliche-audioguides"
 date:   2018-07-11
 banner_image: accessibility-audioguides.jpg
