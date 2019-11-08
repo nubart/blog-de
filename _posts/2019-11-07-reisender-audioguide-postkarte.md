@@ -18,7 +18,7 @@ tags: [audioguide, postkarte, reisen, museum]
 
 Es ist Ihnen vielleicht schon mal passiert: Sie mieten einen Audioguide im Museum, aber Sie haben nicht viel Zeit. Da Sie den Audioguide bezahlt haben, versuchen Sie, ihn ausschöpfend zu nutzen. Dieser selbsterzeugte Druck reduziert am Ende Ihre Aufmerksamkeit auf das was Sie hören und beeinträchtigt Ihr Erlebnis als Besucher. 
 
-Die ideale Lösung wäre, dem Besucher einen Audioguide anzubieten, den er behalten kann; genau das tun wir seit langem bei Nubart, *der Audioguide zum Mitnehmen*. 
+Die ideale Lösung wäre, dem Besucher einen Audioguide anzubieten, den er behalten kann; genau das tun wir seit langem bei Nubart, *den Audioguide zum Mitnehmen*. 
 
 Aber heute geht es uns um eine neue Art des *Verkaufs* eines Audioguides, die wir vorher noch nicht anbieten konnten: um einen Audioguide als Postkarte!
 
