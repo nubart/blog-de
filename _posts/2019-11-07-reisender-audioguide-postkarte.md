@@ -25,9 +25,9 @@ Aber heute geht es uns um eine neue Art des *Verkaufs* eines Audioguides, die wi
 <!--more-->
 # Über das Bedürfnis mancher Museen, Audioguides zu verkaufen.
 
-Ein Museum in Europa - das ehemalige Haus eines berühmten Musikers - hat sich kürzlich mit uns in Verbindung gesetzt und uns von ihrem Fall erzählt: 
+Ein Museum in Europa - das ehemalige Haus eines berühmten Musikers - hat sich kürzlich mit uns in Verbindung gesetzt und uns von seinem Fall erzählt: 
 
-Da es sich um ein sehr kleines Haus, aber vielbesuchtes handelt, ist der Besuch etwas bedrückend. So interessant es auch ist, man möchte in dieser Menschenmenge nicht mehr Zeit verbringen, als notwendig um das Wesentliche zu erfassen. Das Museum bietet kostenlos ein Audioguide mit traditionellen Geräten an, aber die gedrängten Besucher kommen nicht dazu, den Audioguide zu genießen. Das kurze hinenhören reicht aber, um ihnen erkennen zu lassen, dass es sich um einen ausgezeichneten mehrsprachigen Audioguide handelt. Sie finden es frustrierend, dass sie es zum Ausgang wieder zurückbringen müssen ohne ihn vollständig gehört zu haben.
+Da es sich um ein sehr kleines, aber vielbesuchtes Haus handelt, ist der Besuch etwas bedrückend. So interessant es auch ist, man möchte in dieser Menschenmenge nicht mehr Zeit verbringen, als notwendig um das Wesentliche zu erfassen. Das Museum bietet kostenlos ein Audioguide mit traditionellen Geräten an, aber die gedrängten Besucher kommen nicht dazu, den Audioguide zu genießen. Das kurze Hineinhören reicht ihnen aber, um zu erkennen, dass es sich um einen ausgezeichneten mehrsprachigen Audioguide handelt. Sie finden es frustrierend, dass sie das Gerät  wieder abgeben müssen ohne den Guide vollständig gehört zu haben.
 
 Die Mitarbeiter dieses Museums sind daher oft mit der Frage konfrontiert, ob man den Audioguide nicht in irgendeiner Weise *kaufen* könnte, um ihn in einem Café nach dem Besuch in aller Ruhe zu hören. 
 
