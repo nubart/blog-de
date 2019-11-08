@@ -41,7 +41,7 @@ Wenn der Inhalt des Audioguides so gut ist, dass Besucher ihn kaufen möchten, u
 
 Es ist nicht schwer, sich das Szenario vorzustellen:
 
-> Lieber Hans, ich bin gerade in New York angekommen und habe diese wunderbare Ausstellung gesehen, die Du bei deiner nächsten Reise in den Staaten auf gar keinen Fall verpassen solltest. Ich schicke dir den Audioguide, damit Du schon mal eine Vorstellung hast. 
+> Lieber Hans, ich bin gerade in New York angekommen und habe diese wunderbare Ausstellung gesehen, die Du bei deiner nächsten Reise in den Staaten auf gar keinen Fall verpassen solltest. Ich schicke dir hier den Audioguide, damit Du schon mal eine Vorstellung davon hast. 
 
 Ob sie nun verschickt werden oder nicht, Postkarten sind immer noch das meistverkaufte Produkt in Museumsshops. 
 
