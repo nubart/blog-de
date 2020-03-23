@@ -26,7 +26,7 @@ Alles deutet darauf hin, dass es noch lange dauern wird, bis jemand bereit ist, 
 
 Smartphones sind seit jeher eine Oberfläche mit hohem Bakterien- und Mikroorganismenwachstum. Laut [einer Untersuchung der University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"} enthält ein Mobiltelefon 10-mal mehr Bakterien als ein Toilettensitz, und neun von zehn Mobiltelefonen enthalten Mikroorganismen, die potenziell Krankheiten verbreiten können. Wir halten dieses Gerät unzählige Male am Tag in der Hand, nachdem wir viele andere potenziell infizierte Oberflächen berührt haben, wie z.B. Haltegriffe in öffentlichen Verkehrsmitteln, Klingeln oder Türgriffe. Wir benutzen unser Mobiltelefon so oft, dass das Vorhaben, unsere Hände vor und nach jeder einzelnen Benutzung zu waschen, mit Sicherheit vergeblich sein wird. 
 
-Mobiltelefone sind jedoch persönliche Geräte. Häufiges Händewaschen und Gerätehygiene verringern das eigene Risiko. Die in einem Mobiltelefon enthaltenen Daten sind sensibel, so dass wir in der Regel das Geräte nicht aus den Augen verlieren und es nur selten an andere Personen weiterreichen. 
+Aber Mobiltelefone sind jedoch **persönliche Geräte**. Häufiges Händewaschen und Gerätehygiene verringern das eigene Risiko. Die in einem Mobiltelefon enthaltenen Daten sind sensibel, so dass wir in der Regel das Gerät nicht aus den Augen verlieren und es nur selten an andere Personen weiterreichen. 
 
 **Ein Audioguide-Gerät in einem Museum ist dagegen wie ein Mobiltelefon, das X-mal am Tag von Hand zu Hand gereicht wird und dessen Funktionalität es erfordert, es an das Gesicht** zu halten, entweder direkt oder über ein Headset. 
 
@@ -56,7 +56,7 @@ In Zeiten des Coronavirus sollten für die Desinfektion von Audioguides mindeste
 
 5. Waschen Sie Ihre Hände, bevor Sie das nächste Gerät reinigen. 
 
-In diesem Kontext der sozialen Notstandes wird die Sanierung von Audioguide-Geräten so lästig, dass sie in der Praxis möglicherweise nicht mehr realistisch durchführbar ist. Kein Besucher möchte sich lange Zeit in einer  Schlange am Audioguide-Schalter anstellen. In größeren Museen würde eine gründliche Sanierung der Audioguide-Geräte wahrscheinlich die Einstellung von zusätzlichem Personal erfordern. 
+In diesem Kontext der sozialen Notstandes wird die Reinigung von Audioguide-Geräten so lästig, dass sie in der Praxis möglicherweise nicht mehr realistisch durchführbar ist. Kein Besucher möchte sich lange Zeit in einer Schlange am Audioguide-Schalter anstellen. In größeren Museen würde eine gründliche Reinigung der Audioguide-Geräte wahrscheinlich die Einstellung von zusätzlichem Personal erfordern. 
 
 
 # Alternative Lösungen
