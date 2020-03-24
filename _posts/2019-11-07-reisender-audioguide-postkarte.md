@@ -83,7 +83,7 @@ Wenn Sie ein Muster des *reisenden Audioguides* erhalten möchten oder weitere E
 
 #### <font color="blue">Bei Nubart produzieren wir innovative Audioguides als Kärtchen</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-aduioguide-karte.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie hier ein Muster an" />

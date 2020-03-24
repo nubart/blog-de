@@ -75,9 +75,11 @@ Wenn diese Funktion implementiert ist, können Sie mit Nubart neben jeder Spur a
 
   Was auch immer Ihre Situation ist, fragen Sie uns. Bei Nubart werden wir Ihren Fall analysieren und ein auf Ihre Bedürfnisse abgestimmtes Angebot erstellen. 
   
+***
+  
 #### <font color="blue">Bei Nubart produzieren wir innovative Audioguides als Kärtchen</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-aduioguide-karte.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie hier ein Muster an" />

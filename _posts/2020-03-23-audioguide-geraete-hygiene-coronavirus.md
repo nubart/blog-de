@@ -74,7 +74,7 @@ Die einzige Alternative besteht wohl in **Audioguides, die der Besucher mitnehme
 
 #### <font color="blue">Bei Nubart produzieren wir innovative Audioguides als Kärtchen</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-aduioguide-karte.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie hier ein Muster an" />
