@@ -24,23 +24,25 @@ Alles deutet darauf hin, dass es noch lange dauern wird, bis jemand bereit ist, 
 <!--more-->
 # Handys und Hygiene
 
-Smartphones sind seit jeher eine Oberfläche mit hohem Bakterien- und Mikroorganismenwachstum. Laut [einer Untersuchung der University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"} enthält ein Mobiltelefon 10-mal mehr Bakterien als ein Toilettensitz, und neun von zehn Mobiltelefonen enthalten Mikroorganismen, die potenziell Krankheiten verbreiten können. Wir halten dieses Gerät unzählige Male am Tag in der Hand, nachdem wir viele andere potenziell infizierte Oberflächen berührt haben, wie z.B. Haltegriffe in öffentlichen Verkehrsmitteln, Klingeln oder Türgriffe. Wir benutzen unser Mobiltelefon so oft, dass das Vorhaben, unsere Hände vor und nach jeder einzelnen Benutzung zu waschen, mit Sicherheit vergeblich sein wird. 
+Die meisten von uns wissen, dass Smartphones eine Oberfläche mit hohem Bakterien- und Mikroorganismenwachstum sind. Laut [einer Untersuchung der University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"} enthält ein Mobiltelefon 10-mal mehr Bakterien als ein Toilettensitz, und neun von zehn Mobiltelefonen enthalten Mikroorganismen, die potenziell Krankheiten verbreiten können. Wir halten dieses Gerät unzählige Male am Tag in der Hand, nachdem wir viele andere potenziell infizierte Oberflächen berührt haben, wie z.B. Haltegriffe in öffentlichen Verkehrsmitteln, Klingeln oder Türgriffe. Wir benutzen unser Mobiltelefon so oft, dass das Vorhaben, unsere Hände vor und nach jeder einzelnen Benutzung zu waschen, mit Sicherheit vergeblich sein wird. 
 
-Aber im Gegensatz zu Audioguides sind Mobiltelefone **persönliche Geräte**. Die darin enthaltenen Daten sind sensibel, so dass wir in der Regel das Gerät nicht aus den Augen verlieren und es nur selten an andere Personen weiterreichen. 
+Aber, hey, es ist schließlich *unser* Schmutz! Damit können wir leben. Unser Smartphone ist zu wichtig geworden, als dass wir uns den Luxus erlauben könnten, wählerisch zu sein.
 
-**Ein Audioguide-Gerät in einem Museum ist dagegen wie ein Mobiltelefon, das X-mal am Tag von Hand zu Hand gereicht wird und dessen Funktionalität es erfordert, es an das Gesicht** zu halten, entweder direkt oder über ein Headset. 
+Darüber hinaus sind Mobiltelefone **persönliche Geräte**. Die darin enthaltenen Daten sind sensibel, so dass wir in der Regel das Handy nicht aus den Augen verlieren und es nur selten an andere Personen weiterreichen. 
+
+**Ein Audioguide-Gerät in einem Museum ist dagegen wie ein Handy, das X-mal am Tag von Hand zu Hand gereicht wird und dessen Funktionalität es erfordert, es an das Gesicht** zu halten, entweder direkt oder über ein Headset. 
 
 ![Frau, die einen Audioguide hält]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
-Unser Atem und die Schleimhäute des Gesichts sind genau die Haupteintrittswege des Coronavirus in unseren Körper. 
+Unser Atem und die Schleimhäute des Gesichts sind meisens die Haupteintrittswege der Viren in unseren Körper. 
 
 # Reinigung von Audioguides in einem Museum
 
-Hygiene war schon immer ein relevanter Faktor beim Umgang mit Audioguide-Geräten in einem Museum. In den Marktstudien, die wir beim Launch von Nubart durchgeführt haben, waren wir überrascht von der Anzahl der Menschen, die behaupteten, sich aus hygienischen Gründen nie einen Audioguide im Museum geben zu lassen. Die meisten Museen sind sich dessen bewusst und weisen ihre Mitarbeiter an, die Audioguides vor und nach jeder Benutzung zu reinigen. 
+Hygiene war schon immer ein relevanter Faktor beim Umgang mit Audioguide-Geräten in einem Museum. In den Marktstudien, die wir beim Launch von Nubart durchgeführt haben, waren wir überrascht von der Anzahl der Menschen, die behaupteten, sich aus hygienischen Gründen nie einen Audioguide im Museum geben zu lassen. Hygienevorkehrungen hatten schon immer einen erheblichen Einfluss auf die Abnahmerate von Audioguides und damit auf die Einnahmen, die das Museum aus deren Lieferung erzielt. Die meisten Museen sind sich dessen bewusst und weisen ihre Mitarbeiter an, die Audioguides vor und nach jeder Benutzung zu reinigen. 
 
 ![Museumspersonal reinigt Audioführungsgeräte]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
-Allerdings können Museumsbesucher nicht immer wissen, ob diese Reinigung stattgefunden hat oder nicht. Hygienevorkehrungen hatten schon immer einen erheblichen Einfluss auf die Abnahmerate von Audioguides und damit auf die Einnahmen, die das Museum aus deren Lieferung erzielt.
+Allerdings können Museumsbesucher nicht immer wissen, ob diese Reinigung stattgefunden hat oder nicht. 
 
 Doch in Zeiten globaler Pandemien wie dem Coronavirus geht es nicht mehr um subjektive Ekelgefühle besonders pingelicher Besucher, sondern um ein echtes Gesundheitsrisiko, für das das Museum mitverantwortlich ist. Die meisten Audiogeräte haben Knöpfe und Ecken und Kanten, die es schwierig machen, die Geräte gründlich zu reinigen. Darüber hinaus widersteht das **Coronavirus nach Angaben von Wissenschaftlern der Universität Princeton [in einer im *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"} veröffentlichten Umfrage bis zu drei Tage auf Kunststoff- oder Stahloberflächen**, den beiden am häufigsten bei der Herstellung von Audiogeräten verwendeten Materialien.
 
