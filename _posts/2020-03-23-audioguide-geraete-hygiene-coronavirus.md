@@ -48,22 +48,24 @@ Doch in Zeiten globaler Pandemien wie dem Coronavirus geht es nicht mehr um subj
 
 In Zeiten des Coronavirus sollten für die Desinfektion von Audioguides mindestens die gleichen Kriterien gelten wie für die Reinigung von Mobiltelefonen für den persönlichen Gebrauch empfohlen:
 
-1. Entfernen Sie die Kunststoffkapsel zur Reinigung von Staub und Schmutz mit einem Mikrofasertuch.(Heutzutage sind viele Audioguides umgewandelte Smartphones. Um sie robuster zu machen und zu verhindern, dass Besucher auf bestimmte Tasten und Funktionen zugreifen können, werden sie in der Regel in einer speziel angefertigten Kunststofhülse ausgegeben).
+1. Schalten Sie das Gerät aus. 
 
-2. Reinigen Sie die Oberfläche mit Einweg-Desinfektionstüchern oder einem in einer Lösung aus 62-71% Ethanol, 0,5% Wasserstoffperoxid oder 0,1% Natriumhypochlorit getränkten Tuch.
+2. Wenn angebracht, entfernen Sie die Kunststoffkapsel zur Reinigung von Staub und Schmutz mit einem Mikrofasertuch. (Heutzutage sind viele Audioguides umgewandelte Smartphones. Um sie robuster zu machen und zu verhindern, dass Besucher auf bestimmte Tasten und Funktionen zugreifen können, werden sie in der Regel in einer speziel angefertigten Kunststofhülse ausgegeben).
 
-3. Feuchten Sie das Gerät mit der gewählten Lösung git an, vermeiden Sie aber dabei, dass die Flüssigkeit  durch die Öffnungen der Kopfhörerbuchsen oder Anschlüssen in das Gerät gelangt. 
+3. Reinigen Sie die Oberfläche mit Einweg-Desinfektionstüchern oder einem in einer Lösung aus 62-71% Ethanol, 0,5% Wasserstoffperoxid oder 0,1% Natriumhypochlorit getränkten Tuch.
 
-4. Anstatt das Gerät mit einem Tuch zu trocknen, warten Sie drei Minuten, bis die Flüssigkeit verdunstet ist, um deren Wirkungszeit zu verlängern. 
+4. Feuchten Sie das Gerät mit der gewählten Lösung git an, vermeiden Sie aber dabei, dass die Flüssigkeit  durch die Öffnungen der Kopfhörerbuchsen oder Anschlüssen in das Gerät gelangt. 
 
-5. Waschen Sie Ihre Hände, bevor Sie das nächste Gerät reinigen. 
+5. Anstatt das Gerät mit einem Tuch zu trocknen, warten Sie drei Minuten, bis die Flüssigkeit verdunstet ist, um deren Wirkungszeit zu verlängern. 
+
+6. Waschen Sie Ihre Hände, bevor Sie das nächste Gerät reinigen. 
 
 In diesem Kontext der sozialen Notstandes wird die Reinigung von Audioguide-Geräten so lästig, dass sie in der Praxis möglicherweise nicht mehr realistisch durchführbar ist. Kein Besucher möchte sich lange Zeit in einer Schlange am Audioguide-Schalter anstellen. In größeren Museen würde eine gründliche Reinigung der Audioguide-Geräte wahrscheinlich die Einstellung von zusätzlichem Personal erfordern. 
 
 
 # Alternative Lösungen
 
-Selbst wenn sehr bald ein Impfstoff oder eine definitive Heilung für das Coronavirus gefunden wird, scheint es unter diesen Umständen unwahrscheinlich, dass traditionelle Audioguide-Geräte in den Museen noch eine Zukunft haben werden. Diese Krise ist global und überwältigend. Wir haben gelernt, dass globale Pandemien, die wir bisher nur aus einigen schlechten Science-Fiction-Filmen kannten, eine echte Gefahr darstellen und dass andere, ebenso tödliche Viren nach der Korona jederzeit auftreten können. 
+Selbst wenn sehr bald ein Impfstoff oder eine definitive Heilung für das Coronavirus gefunden wird, scheint es unter diesen Umständen unwahrscheinlich, dass traditionelle Audioguide-Geräte in den Museen noch eine Zukunft haben werden. Diese Krise ist global und überwältigend. Wir haben gelernt, dass globale Pandemien, die wir bisher nur aus einigen schlechten Science-Fiction-Filmen kannten, eine echte Gefahr darstellen.  Und dass diese Krise nicht notwendigerweise die letzte sein wird. 
 
 Die einzige Alternative besteht wohl in **Audioguides, die der Besucher mitnehmen kann**, statt sie zu mieten, oder in BYOD-digitale Lösungen. 
 
