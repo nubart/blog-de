@@ -34,11 +34,11 @@ Darüber hinaus sind Mobiltelefone **persönliche Geräte**. Die darin enthalten
 
 ![Frau, die einen Audioguide hält]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
-Unser Atem und die Schleimhäute des Gesichts sind meisens die Haupteintrittswege der Viren in unseren Körper. 
+Im Gesicht befinden sich die Haupteintrittswege der Viren in unseren Körper. 
 
 # Reinigung von Audioguides in einem Museum
 
-Hygiene war schon immer ein relevanter Faktor beim Umgang mit Audioguide-Geräten in einem Museum. In den Marktstudien, die wir beim Launch von Nubart durchgeführt haben, waren wir überrascht von der Anzahl der Menschen, die behaupteten, sich aus hygienischen Gründen nie einen Audioguide im Museum geben zu lassen. Hygienevorkehrungen hatten schon immer einen erheblichen Einfluss auf die Abnahmerate von Audioguides und damit auf die Einnahmen, die das Museum aus deren Lieferung erzielt. Die meisten Museen sind sich dessen bewusst und weisen ihre Mitarbeiter an, die Audioguides vor und nach jeder Benutzung zu reinigen. 
+Hygiene war schon immer ein relevanter Faktor beim Umgang mit Audioguide-Geräten in einem Museum. In den Marktstudien, die wir beim Launch von Nubart durchgeführt haben, waren wir überrascht von der Anzahl der Menschen, die behaupteten, sich aus hygienischen Gründen nie einen Audioguide im Museum geben zu lassen. Daraus lässt sich ableiten, dass der Faktor Hygiene sich schon immer auf die Abnahmequote der Audioguides ausgewirkt hat und damit auch auf die Einnahmen, die das Museum aus deren Ausgabe erzielt, auch wenn es schwierig ist, den Prozentsatz zu bestimmen. Die meisten Museen sind sich dessen bewusst und weisen ihre Mitarbeiter an, die Audioguides vor und nach jeder Benutzung zu reinigen. 
 
 ![Museumspersonal reinigt Audioführungsgeräte]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
