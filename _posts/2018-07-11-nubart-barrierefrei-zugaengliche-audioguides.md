@@ -1,5 +1,6 @@
 ---
-author_name: Rosa Sala author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart 
+author_name: Rosa Sala 
+author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart 
 author_location: Berlin / Barcelona 
 author_image:
 /blog-de/images/rosa-sala.jpg 
@@ -9,7 +10,8 @@ published: true
 title:  "Die Audioguides von Nubart sind barrierefrei"
 description: "Unsere Audioguide-Kärtchen sind auch für seh- und hörgeschädigte Museumsbesucher zugänglich."
 slug: "nubart-barrierefrei-zugaengliche-audioguides"
-date:   2018-07-11 banner_image: accessibility-audioguides.jpg 
+date:   2018-07-11 
+banner_image: accessibility-audioguides.jpg 
 tags: [Barrierefreiheit, Audioguides]
 ---
 
@@ -26,7 +28,7 @@ Kurator des Sunderland Museums, John Alfred Charlton Deas, die Kinder der Sunder
 über ihre Hände zu *sehen*. Der Erfolg der Initiative ermutigte ihn, diese Art von Besuch auch auf sehbehinderte Erwachsene auszuweiten.
 
 ![Kinder fühlen ein Walross im Sunderland Museum]({{site.baseurl}}/images/posts/accessibility-sunderland-museum.jpg){: .center-image }
-######<center>© Tyne & Wear Archives & Museums</center>
+<center>© Tyne & Wear Archives & Museums</center>
 
 
 In einem Museum hängt die Zugänglichkeit für Besucher mit Sehschwäche nicht nur von Audioguides ab. Aber da bei Audioguides das Hören und nicht das
@@ -56,16 +58,6 @@ richten.
 
 ![Reliefgedruckter QR-Code zur Erleichterung der Zugänglichkeit für Sehbehinderte bei Nubart audioguides]({{site.baseurl}}/images/posts/qr-code-nubart-visually-impaired.jpg)
 {: .center-image }
-
-### Großformatige Player
-
-Nicht nur Menschen mit einer kompletten Sehbehinderung, sondern auch Menschen mit alters- oder gesundheitsbedingter Sehschwäche sollten unsere
-Audioguides während ihrer Museumserfahrung gut nutzen können. Deshalb haben wir uns für einen einfachen, großen Digital-Player entschieden, der für
-Sehbehinderte gut sichtbar ist und alle Funktionen auf das Wesentliche reduziert: Wiedergabe, Pause, Vorwärtsbalken und Spieldauer.
-
-Wenn Sie auf unseren Player klicken, leuchtet er automatisch türkisblau auf, so dass der Besucher immer weiß, welche Spur er gerade hört:
-
-<iframe src="https://player.vimeo.com/video/279029578" width="160" height="90" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
 ### Möglichkeit der Einbindung von Audiobeschreibungen
 
