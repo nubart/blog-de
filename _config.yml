@@ -17,6 +17,7 @@ tagline: "Der Audioguide zum Mitnehmen"
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: /blog-de
 
+# Sass
 sass:
   sass_dir: _sass
     style: compressed
@@ -42,7 +43,7 @@ google_analytics: "UA-88444319-1"
 # Author information - author info at the bottom of the post
 author_name: "Nubart"
 author_bio: "Nubart ist ein Audioguide zum Mitnehmen. Ohne Geräte oder Apps. Mit Besucher-Feedback und Nutzungsdaten."
-author_image: /blog-de/images/posts/rosa-sala.jpg
+author_image: /blog-de/images/rosa-sala.jpg
 
 # Sidebar Add banner
 banner_url: "https://www.nubart.eu/de/"
