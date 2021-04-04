@@ -13,7 +13,9 @@ tags: [Daten über Besucher, Museen]
 Haben Sie sich jemals gefragt, warum der Flugbegleiter, der Sie im Flugzeug beim Einsteigen begrüßt, meistens eine Hand hinter seinem Rücken hält? 
 
 Es ist nicht nur eine höfliche Geste. Der Flugbegleiter begrüßt Sie nicht nur, er zählt Sie! In seiner Hand hält er einen Fahrgastzähler wie diesen:
+
 ![Clicker Fahrgastzähler]({{site.baseurl}}/images/posts/passanger-counter2.jpg){: .center-image }
+
 Große Datenmengen zu interpretieren ist schwierig. Aber davor kommt noch eine andere, manchmal größere Schwierigket: die Datenbeschaffung. Wenn doch selbst bei hochtechnologisierten Flugzeugen eine einfache Passagierzählung noch ein mechanisches Gerät erfordert!
 
 Dasselbe gilt für Museen. Bevor Sie relevante Einblicke in das Verhalten und die Wünsche Ihres Publikums gewinnen können, müssen Sie vorher über ein adäquates Mittel verfügen, um die Daten überhaupt einzusammeln. 
