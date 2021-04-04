@@ -20,7 +20,7 @@ baseurl: /blog-de
 # Sass
 sass:
   sass_dir: _sass
-    style: compressed
+  style: compressed
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://www.nubart.eu"
