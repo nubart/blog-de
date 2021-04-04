@@ -6,7 +6,7 @@ title:  "So erhalten Sie Besucherdaten für Ihr Museum"
 description: "Bevor Sie das Verhalten Ihres Museumpublikums analysieren, müssen Sie die Daten erstmal einsammeln. Das ist aber nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25
-image: nubart-as-tool-to-collect-data-museum.jpg
+image: /images/posts/nubart-as-tool-to-collect-data-museum.jpg
 tags: [Daten über Besucher, Museen]
 ---
 

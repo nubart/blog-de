@@ -6,7 +6,7 @@ title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
 description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
-image: steinzeitpark-nubart-audioguide.jpg
+image: /images/posts/steinzeitpark-nubart-audioguide.jpg
 tags: [audio tour, offline, Netzabdeckung]
 ---
 
