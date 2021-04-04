@@ -1,9 +1,4 @@
 ---
-author_name: Rosa Sala
-author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
-author_location: Berlin / Barcelona
-author_image: /blog-de/images/rosa-sala.jpg
-author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -11,7 +6,7 @@ title:  "So erhalten Sie Besucherdaten für Ihr Museum"
 description: "Bevor Sie das Verhalten Ihres Museumpublikums analysieren, müssen Sie die Daten erstmal einsammeln. Das ist aber nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date:   2018-06-25
-banner_image: nubart-as-tool-to-collect-data-museum.jpg
+image: nubart-as-tool-to-collect-data-museum.jpg
 tags: [Daten über Besucher, Museen]
 ---
 

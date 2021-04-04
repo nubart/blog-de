@@ -1,9 +1,4 @@
 ---
-author_name: Rosa Sala
-author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
-author_location: Berlin / Barcelona
-author_image: /blog-de/images/rosa-sala.jpg
-author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -11,7 +6,7 @@ title:  "Wir haben den reisenden Audioguide erfunden!"
 description: "Mit Nubart können Audioguides im Museumsshop als Postkarte verkauft werden."
 slug: "reisender-audioguide-postkarte"
 date:   2018-07-11
-banner_image: traveling-audioguide.jpg
+image: traveling-audioguide.jpg
 tags: [audioguide, postkarte, reisen, museum]
 ---
 

@@ -1,9 +1,4 @@
 ---
-author_name: Rosa Sala
-author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
-author_location: Berlin / Barcelona
-author_image: /blog-de/images/rosa-sala.jpg
-author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -11,7 +6,7 @@ title:  "Audioguide-Geräte, Coronavirus und Hygiene"
 description: "Das Coronavirus wird viele unserer Gewohnheiten verändern. Was wird in den Museen mit den Audioguide-Geräten geschehen, die herumgereicht werden?"
 slug: "audioguide-geraete-hygiene-coronavirus"
 date:   2020-03-23
-banner_image: cleaning-audioguide-devices-museum.jpg
+image: cleaning-audioguide-devices-museum.jpg
 tags: [audio guide, hygiene, coronavirus]
 ---
 

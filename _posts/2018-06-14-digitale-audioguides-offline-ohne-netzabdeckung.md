@@ -1,9 +1,4 @@
 ---
-author_name: Rosa Sala
-author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
-author_location: Berlin / Barcelona
-author_image: /blog-de/images/rosa-sala.jpg
-author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -11,7 +6,7 @@ title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
 description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
-banner_image: steinzeitpark-nubart-audioguide.jpg
+image: steinzeitpark-nubart-audioguide.jpg
 tags: [audio tour, offline, Netzabdeckung]
 ---
 

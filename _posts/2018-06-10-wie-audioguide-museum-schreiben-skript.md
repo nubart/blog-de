@@ -1,9 +1,4 @@
 ---
-author_name: Rosa Sala
-author_bio: Dr. Rosa Sala ist CEO und Gründerin von Nubart
-author_location: Berlin / Barcelona
-author_image: /blog-de/images/rosa-sala.jpg
-author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -11,7 +6,7 @@ title:  "Wie schreibt man das Skript eines Museum-Audioguides?"
 description: "Ein Audioguideskript ist ein ganz besonderer Text und folgt eigenen Regeln. Hier finden Sie einige Tips dazu."
 slug: "wie-audioguide-museum-schreiben-skript"
 date:   2018-06-10
-banner_image: woman-typing-writing-windows.jpg
+image: woman-typing-writing-windows.jpg
 tags: [Audioguides, Skript]
 ---
 
