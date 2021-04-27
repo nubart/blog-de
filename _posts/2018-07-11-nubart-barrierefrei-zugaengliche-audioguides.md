@@ -1,5 +1,6 @@
 ---
-layout: post comments: true 
+layout: post 
+comments: true 
 published: true
 comments: true
 title:  "Die Audioguides von Nubart sind barrierefrei"
