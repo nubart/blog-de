@@ -3,6 +3,8 @@ layout: post
 comments: true
 published: true
 title:  "Audioguide-Geräte, Coronavirus und Hygiene"
+lang: de
+lang-ref: devices-audioguide-hygiene-coronavirus
 description: "Das Coronavirus wird viele unserer Gewohnheiten verändern. Was wird in den Museen mit den Audioguide-Geräten geschehen, die herumgereicht werden?"
 slug: "audioguide-geraete-hygiene-coronavirus"
 date:   2020-03-23

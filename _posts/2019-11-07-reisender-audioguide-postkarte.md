@@ -3,6 +3,8 @@ layout: post
 comments: true
 published: true
 title:  "Wir haben den reisenden Audioguide erfunden!"
+lang: de
+lang-ref: sell-travelling-audioguide
 description: "Mit Nubart können Audioguides im Museumsshop als Postkarte verkauft werden."
 slug: "reisender-audioguide-postkarte"
 date:   2018-07-11

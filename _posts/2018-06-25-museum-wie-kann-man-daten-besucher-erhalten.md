@@ -3,6 +3,8 @@ layout: post
 comments: true
 published: true
 title:  "So erhalten Sie Besucherdaten für Ihr Museum"
+lang: de
+lang-ref: how-to-get-visitors-data-museum
 description: "Bevor Sie das Verhalten Ihres Museumpublikums analysieren, müssen Sie die Daten erstmal einsammeln. Das ist aber nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25

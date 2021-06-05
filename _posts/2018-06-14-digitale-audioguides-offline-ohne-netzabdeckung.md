@@ -3,6 +3,8 @@ layout: post
 comments: true
 published: true
 title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
+lang: de
+lang-ref: digital-audio-guides-tours-offline
 description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
