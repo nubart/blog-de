@@ -10,6 +10,8 @@ slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25
 image: /images/posts/nubart-as-tool-to-collect-data-museum.jpg
 tags: [Daten über Besucher, Museen]
+langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
+langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
 ---
 
 Haben Sie sich jemals gefragt, warum der Flugbegleiter, der Sie im Flugzeug beim Einsteigen begrüßt, meistens eine Hand hinter seinem Rücken hält? 

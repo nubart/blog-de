@@ -10,6 +10,8 @@ slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
 image: /images/posts/steinzeitpark-nubart-audioguide.jpg
 tags: [audio tour, offline, Netzabdeckung]
+langpath-es: /2018/01/03/audioruta-nubart-offline/
+langpath-en: /2018/06/14/digital-audio-guides-tours-offline/
 ---
 
 Es gibt im Englischen das Sprichwort, dass ein Hindernis manchmal nur eine verkleidete Chance ist. Das haben wir festgestellt, als wir für Nexo Turismo y Cultura die Audioführung zu den Naturdenkmälern von El Maestrazgo (Teruel, Spanien) produzierten. Es war der Ursprung unserer digitalen Offline-Audioguides für Smartphones, die ohne Wifi und ohne Datenabdeckung funktionieren. Hier ist die Geschichte. 

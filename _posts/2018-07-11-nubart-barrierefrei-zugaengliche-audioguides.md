@@ -11,6 +11,8 @@ slug: "nubart-barrierefrei-zugaengliche-audioguides"
 date: 2018-07-11
 image: /images/posts/accessibility-audioguides.jpg
 tags: [Barrierefreiheit, Audioguides]
+langpath-es: /2018/07/09/audioquia-nubart-accesible/
+langpath-en: /2018/07/11/nubart-accessible-audioguides/
 ---
 
 Museen streben danach, Orte zu sein, die von allen Mitbürgern, auch von Menschen mit körperlichen Beeinträchtigungen, genutzt werden können. Deshalb
