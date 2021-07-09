@@ -10,6 +10,8 @@ slug: "audioguide-geraete-hygiene-coronavirus"
 date:   2020-03-23
 image: /images/posts/cleaning-audioguide-devices-museum.jpg
 tags: [audio guide, hygiene, coronavirus]
+langpath-en: /2020/03/23/devices-audioguide-hygiene-coronavirus/
+langpath-es: /2020/03/23/aparatos-audioguia-higienicos-coronavirus/
 ---
 
 Während ich dies schreibe, weiß niemand, wann die Coronavirus-Krise endet. Aber in einer Sache sind sich alle einig: Nichts wird je wieder so sein, wie es war. Einer der am stärksten betroffenen Bereiche ist die Kultur. Vor allem öffentliche Orte, die Menschen aus aller Welt um ihr kulturelles Angebot herum zusammenbringen, wie zum Beispiel die Museen, die derzeit fast vollständig geschlossen sind. 

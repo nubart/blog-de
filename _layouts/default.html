@@ -12,7 +12,16 @@
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-
+    <!-- Start of hreflang >>> -->
+    <link rel="alternate" hreflang="de" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
+    {% if page.layout == 'post' %}
+        {% if page.langpath-en %}<link rel="alternate" hreflang="en" href="{{site.url}}{{site.alt-baseurl-en}}{{page.langpath-en}}" /> {% endif %}
+        {% if page.langpath-es %}<link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.langpath-es}}" /> {% endif %}
+    {% else %}
+        <link rel="alternate" hreflang="en" href="{{site.url}}{{site.alt-baseurl-en}}{{page.url}}" />
+        <link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.url}}" />
+    {% endif %}
+    <!-- <<< End of hreflang -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88444319-1"></script>
