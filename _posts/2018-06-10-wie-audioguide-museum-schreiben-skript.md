@@ -12,9 +12,7 @@ langpath-es: /2017/07/29/como-escribir-guion-audioguia/
 langpath-en: /2017/08/03/how-to-write-script-audio-guide-museum/
 ---
 
-Wenn Sie für eines der renommiertesten Museen der Welt wie das Thyssen, das Prado oder die Tate arbeiten, brauchen Sie nicht weiter zu lesen: Ihr Audioguide enthält sicher schon Storytelling, Barrierefreiheit, *augmented reality* und wer weiß, wie viele weitere Funktionen. Und wenn das noch nicht so sein sollte, diskutieren Sie wahrscheinlich schon darüber, wie Sie das alles bald einbauen können.
-
-Aber vielleicht arbeiten Sie für eins der etwa 85 % kleineren deutschen Museen, die noch nicht über einen Audioguide verfügen. Dann stehen Sie wahrscheinlich zum ersten Mal vor der Aufgabe, einen Audioguide zu produzieren und Sie wissen nicht, wo Sie anfangen sollen. 
+Vielleicht arbeiten Sie für eins der etwa 85 % Museen, die noch nicht über einen Audioguide verfügen. Dann stehen Sie wahrscheinlich zum ersten Mal vor der Aufgabe, einen Audioguide zu produzieren und Sie wissen nicht, wo Sie anfangen sollen. 
 
 Nun, der allererste Schritt ist wohl das Verfassen eines Skripts. Natürlich kann Ihnen Nubart gerne dabei helfen, aber wenn Sie den Alleingang vorziehen, sind vielleicht die folgenden Empfehlungen nützlich:
 
