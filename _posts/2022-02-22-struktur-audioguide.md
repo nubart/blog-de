@@ -72,7 +72,7 @@ Dieser modulare Aufbau ist auch die ideale Möglichkeit, Inhalte thematisch oder
 
 Tags sind ein ideales Werkzeug, wenn Sie **reichhaltige und vielfältige Inhalte** strukturieren müssen und den Nutzern die Möglichkeit geben wollen, diese nach ihren speziellen Interessen zu filtern.
 
-Dies ist besonders nützlich bei Audioguides für Veranstaltungen wie **Messen**, die von Fachleuten mit dem klaren Ziel besucht werden, Geschäfte zu machen. Das Angebot an Ausstellern auf diesen Veranstaltungen ist in der Regel sehr umfangreich, und die Teilnehmer können es sich nicht leisten, Zeit zu verlieren. Dank unserer Tags können die Messebesucher die Stände nach bestimmten thematischen Interessengebieten auswählen und so den größten Nutzen aus der Messe ziehen. In diesem Beispiel einer Aluminiummesse können die Besucher die Aussteller nach ihren beruflichen Schwerpunkten filtern und sie auf dem Hallenplan leicht auffinden:
+Dies ist besonders nützlich bei Audioguides für Veranstaltungen wie **Messen**, die von Fachleuten mit dem klaren Ziel besucht werden, Geschäfte zu machen. Das Angebot an Ausstellern auf diesen Veranstaltungen ist in der Regel sehr umfangreich, und die Teilnehmer können es sich nicht leisten, Zeit zu verlieren. Dank unserer Tags können die Messebesucher die Stände nach bestimmten thematischen Interessengebieten auswählen und so den größten Nutzen aus der Messe ziehen. In diesem Beispiel können die Besucher die Aussteller nach ihren beruflichen Schwerpunkten filtern und sie auf dem Hallenplan leicht auffinden:
 
 ![Nubart Audioguide für eine Messe]({{site.baseurl}}/images/posts/structure-aluminium.jpg){: .center-image }
 
