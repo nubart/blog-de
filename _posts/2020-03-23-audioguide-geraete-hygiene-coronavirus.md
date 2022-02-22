@@ -7,7 +7,7 @@ description: "Das Coronavirus wird viele unserer Gewohnheiten verändern. Was wi
 slug: "audioguide-geraete-hygiene-coronavirus"
 date:   2020-03-23
 image: /images/posts/cleaning-audioguide-devices-museum.jpg
-tags: [audio guide, hygiene, coronavirus]
+tags: [Audioguide, Hygiene, Coronavirus]
 langpath-en: /2020/03/23/devices-audioguide-hygiene-coronavirus/
 langpath-es: /2020/03/23/aparatos-audioguia-higienicos-coronavirus/
 ---

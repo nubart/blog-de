@@ -7,7 +7,7 @@ description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
 image: /images/posts/steinzeitpark-nubart-audioguide.jpg
-tags: [audio tour, offline, Netzabdeckung]
+tags: [Audiotour, Offline, Netzabdeckung]
 langpath-es: /2018/01/03/audioruta-nubart-offline/
 langpath-en: /2018/06/14/digital-audio-guides-tours-offline/
 ---
