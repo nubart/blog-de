@@ -40,7 +40,12 @@ Wenn ein Museum beispielsweise aus fünf Räumen im Erdgeschoss besteht, ist es 
 Dieses Prinzip gilt nicht nur für Tonspuren, sondern auch für andere
 Multimedia-Elemente. In den meisten digitalen Audioguides öffnet ein Klick auf eine Station eine ganz neue Seite, die in der Regel das Bild des Exponats und eine Tonspur enthält. Diese wird manchmal automatisch abgespielt oder erfordert einen neuen Klick. Nach dem Abspielen der Tonspur muss der Benutzer zur Auflistung zurückkehren, um den nächsten Titel zu finden und ihn anzuklicken, und so weiter.
 
+![Traditioneller digitaler Audioguide mit zu vielen Klicks]({{site.baseurl}}/images/posts/structure-audioguide-clicking.png){: .center-image }
+
 Unserer Meinung nach wäre es wünschenswert, all diese unnötigen Klicks zu reduzieren, indem **alle Tonspuren auf einer Seite gescrollt werden können**, denn Scrollen ist für ältere Generationen, die keine Digital Natives sind, die intuitivste Navigationsmethode.
+
+![Nubart digitaler Audioguide mit scrollender Navigation]({{site.baseurl}}/images/posts/structure-audioguide-scrolling.png){: .center-image }
+
 
 # Ermöglichen Sie sowohl die *Erweiterung* wie auch die *Einschränkung* von Audioguide-Inhalten
 
