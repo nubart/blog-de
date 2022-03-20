@@ -95,17 +95,14 @@ Obwohl es ein Internationales Zeichensystem (ISS)
 
 * Die Produktion dieser Videos **wird die Kosten** des Audioguides erheblich erhöhen.
 
-* Aufgrund der Größe der Videodateien können die **Zeichen-Guides nicht in [unserem Offline-Modus]({{ site.baseurl }}{% post_url
-  /posts/2018-06-14-digitale-audioguides-offline-ohne-netzabdeckung %}){:target="_blank"}** vorgeladen werden. Wenn das Museum flächendeckendes Wi-Fi
-  oder eine gute Datenabdeckung bietet, können sie aber problemlos *gestreamt* werden..
+* Aufgrund der Größe der Videodateien können die **Zeichen-Guides nicht in unserem Offline-Modus vorgeladen werden. Wenn das Museum flächendeckendes Wi-Fi
+  oder eine gute Datenabdeckung bietet, können sie aber problemlos *gestreamt* werden.
 
 ### Texte
 
-Wenn diese Funktion implementiert ist, können Sie mit Nubart neben jeder Spur auch auf deren Transkription zugreifen. Diese Option funktioniert
-perfekt in [unserem Offline-Modus]({{ site.baseurl }}{% post_url /posts/2018-06-14-digitale-audioguides-offline-ohne-netzabdeckung %}){:target="_
-blank"}, so dass diese Variante auch für Museen in Gebieten mit schlechter Netzabdeckung oder ohne Wi-Fi geeignet ist. Angesichts der erheblichen
+Wenn diese Funktion implementiert ist, können Sie mit Nubart neben jeder Spur auch auf deren Transkription zugreifen. Diese Option ist auch bestens mit unserem Offline-Modus kompatibel, so dass diese Variante auch für Museen in Gebieten mit schlechter Netzabdeckung oder ohne Wi-Fi geeignet ist. Angesichts der erheblichen
 Kosten für die Erstellung eines mehrsprachigen Zeichen-Guides verbessert diese Option erheblich die Zugänglichkeit, ohne die Kosten signifikant zu
-erhöhen. Uns sie kann alle Sprachen des Audioguides abdecken!
+erhöhen. Und sie kann alle Sprachen des Audioguides abdecken!
 
 ![Transkriptionstaste für Hörgeschädigte bei Nubart audioguides ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
 {: .center-image }
