@@ -46,6 +46,7 @@ zeigt in gesprochener Form an, wofür sie verwendet wird und was mit jeder Aktio
 möglich gehalten. Mehrere Tests mit Blinden haben die korrekte Bedienbarkeit unserer Audioguides bestätigt.
 
 Natürlich ist das nur der technische Teil: Wir sind uns bewusst, dass Barrierefreiheit viel weiter geht. Vor allem müssen die Inhalte für Sehbehinderte konzipiert und angepasst werden.
+
 ### Mit den Fingerspitzen detektierbarer QR-Code
 
 Die QR-Codes sind mit einem leichten Relief auf unsere Nubart-Karten gedruckt. Auf diese Weise können Blinde das Vorhandensein und die Position des
@@ -55,12 +56,18 @@ richten.
 ![Reliefgedruckter QR-Code zur Erleichterung der Zugänglichkeit für Sehbehinderte bei Nubart audioguides]({{site.baseurl}}/images/posts/qr-code-nubart-visually-impaired.jpg)
 {: .center-image }
 
-### Möglichkeit der Einbindung von Audiobeschreibungen
+### Audiobeschreibungen von Exponaten
 
 Ein vollständig nutzbarer Audioguide für Menschen ohne Sehvermögen sollte Audiobeschreibungen der Exponate integrieren. Dies hilft dem Nicht-sehenden,
 sich das Objekt vorzustellen und mental zu rekonstruieren, bevor er sich auf eine konventionelle Erklärung des Objektes im Audioguide einlässt. Damit
 der Audioguide auch für Sehende angemessen ist, können wir die Spur mit der Audiobeschreibung in einer anderen Farbe darstellen und damit von der
 erklärenden Spur unterscheiden.
+
+### Audiobeschreibungen der vor Ort abgespielten Videos
+
+Die Audiobeschreibung ist ein zusätzlicher Soundtrack, der visuelle Informationen beschreibt und kontextualisiert. Für sehbehinderte Besucher sind Audiobeschreibungen wichtig, um den Inhalt der Videos Ihres Museums verstehen zu können, genauso wie es Untertitel für hörgeschädigte Besucher sind. Um eine vollständige Zugänglichkeit zu erreichen, sollten die Videos Ihres Museums daher sowohl Untertitel als auch Audiobeschreibungen enthalten.
+
+Dank [Nubart Sync]({{ site.baseurl }}{% post_url https://www.nubart.eu/de/audio-video-synchronisierung.html %}){:target="_blank"}, der Technologie, die ein Video mit einer perfekt synchronisierten Tonspur in einer beliebigen Sprache paart, können Nubart-Audioguides Audiobeschreibungen der in Ihrer Einrichtung abgespielten Videos enthalten.
 
 # Zugänglichkeit für Gehörlose und Schwerhörige
 
