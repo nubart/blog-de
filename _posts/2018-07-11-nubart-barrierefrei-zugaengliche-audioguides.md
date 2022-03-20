@@ -84,7 +84,9 @@ Videos mit einem Gebärdensprachdolmetscher ersetzt.
 
 * Die **Zeichensprachen unterscheiden sich** sowohl im Wortschatz als auch in der Grammatik: Die Zeichensprache im Spanischen ist also nicht die
   gleiche wie z.B. im Englischen. Es gibt sogar Unterschiede zwischen britischem und amerikanischem Englisch! Die Briten benutzen das bimanuelle
-  Alphabet und kommunizieren mit beiden Händen, während die Amerikaner nur eine Hand verwenden. Obwohl es ein Internationales Zeichensystem (ISS)
+  Alphabet und kommunizieren mit beiden Händen, während die Amerikaner nur eine Hand verwenden. Auch die deutschen Varianten haben es in sich: so ist die hochdeutsche Gebärdensprache markant anders als etwa die Deutschschweizerische. Letztere unterscheidet sich sogar noch in fünf Dialekten. 
+
+Obwohl es ein Internationales Zeichensystem (ISS)
   gibt, ist es nicht präzise genug, um eine genaue Übersetzung eines Textes zu ermöglichen. Es wird generell empfohlen, in den Audioguides eine
   Gebärdensprache in der lokalen Sprache des Museumslandes und eine weitere in internationaler Sprache anzubieten.
 
