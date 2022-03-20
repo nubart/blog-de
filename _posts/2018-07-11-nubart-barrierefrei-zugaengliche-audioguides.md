@@ -104,15 +104,16 @@ Wenn diese Funktion implementiert ist, können Sie mit Nubart neben jeder Spur a
 Kosten für die Erstellung eines mehrsprachigen Zeichen-Guides verbessert diese Option erheblich die Zugänglichkeit, ohne die Kosten signifikant zu
 erhöhen. Und sie kann alle Sprachen des Audioguides abdecken!
 
-![Transkriptionstaste für Hörgeschädigte bei Nubart audioguides ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
-{: .center-image }
-
 #### Probleme bei der Texttranskription für Gerhörlose:
 
 * Für vorsprachlich Gehörlose (diejenigen, die ihr Gehör in der Kindheit vor dem Spracherwerb verloren haben) stellt das Lesen und Schreiben eine
   große Herausforderung dar. Obwohl sie lernen können, Buchstaben zu kopieren und durch Bilder zu identifizieren, können sie die Schrift nicht mit den
   Klangelementen der Sprache in Verbindung bringen. Daher können **nicht alle Gehörlosen fließend lesen**, so dass die Integration von
   Texttranskriptionen auch nicht allen Bedürfnissen gerecht wird.
+
+Abschließend finden Sie hier ein Video mit manchen Anwendungen von Nubart für die Barrierefreiheit:
+
+<iframe src="https://player.vimeo.com/video/559591694" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
   Was auch immer Ihre Situation ist, fragen Sie uns. Bei Nubart werden wir Ihren Fall analysieren und ein auf Ihre Bedürfnisse abgestimmtes Angebot
   erstellen.
