@@ -67,7 +67,7 @@ erklärenden Spur unterscheiden.
 
 Die Audiobeschreibung ist eine separate Tonspur, die die visuellen Informationen eines Films beschreibt und kontextualisiert. Für sehbehinderte Besucher sind Audiobeschreibungen wichtig, um die Videos Ihres Museums inhaltlich verstehen zu können, genauso wie es Untertitel für hörgeschädigte Besucher sind. Um eine vollständige Zugänglichkeit zu erreichen, sollten die Videos Ihres Museums daher sowohl Untertitel als auch Audiobeschreibungen enthalten.
 
-Dank [Nubart Sync](https://www.nubart.eu/de/audio-video-synchronisierung.html %}){:target="_blank"}, der Technologie, die ein Video mit einer perfekt synchronisierten Tonspur in einer beliebigen Sprache paart, können Nubart-Audioguides Audiobeschreibungen der in Ihrer Einrichtung abgespielten Videos enthalten.
+Dank [Nubart Sync](https://www.nubart.eu/de/audio-video-synchronisierung.html){:target="_blank"}, der Technologie, die ein Video mit einer perfekt synchronisierten Tonspur in einer beliebigen Sprache paart, können Nubart-Audioguides Audiobeschreibungen der in Ihrer Einrichtung abgespielten Videos enthalten.
 
 # Zugänglichkeit für Gehörlose und Schwerhörige
 
