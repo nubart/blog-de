@@ -12,9 +12,9 @@ langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
 langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
 ---
 
-Haben Sie sich jemals gefragt, warum die Flugbegleiter*innen, die Sie im Flugzeug beim Einsteigen begrüßen, manchmal eine Hand hinter ihrem Rücken halten? 
+Haben Sie sich jemals gefragt, warum die Flugbegleiter:innen, die Sie im Flugzeug beim Einsteigen begrüßen, manchmal eine Hand hinter ihrem Rücken halten? 
 
-Es ist nicht nur eine höfliche Geste. Sie werden nicht nur begrüßt, sondern gezählt! Flugbegleiter*innen verstecken dabei einen Fluggastzähler wie diesen:
+Es ist nicht nur eine höfliche Geste: Sie werden nicht nur begrüßt, sondern gezählt! Flugbegleiter:innen verstecken einen Fluggastzähler wie diesen in der Hand:
 
 ![Clicker Fluggastzähler]({{site.baseurl}}/images/posts/passanger-counter2.jpg){: .center-image }
 
@@ -24,7 +24,7 @@ Dasselbe gilt für alle Museen mit einer besucherorientierten Ausrichtung. Bevor
 
 <!--more-->
 
-## Die Schwierigkeiten, Besucherdaten zu erhalten
+## Die Schwierigkeiten, Besucherdaten zu sammeln
    
    Im Museum ist das Zählen der Besucher:innen über den Ticketverkauf leicht zu erledigen, aber alles andere wird sofort kompliziert. Manche Museen fragen nach einer Postleitzahl, um den Herkunftsort zu erfahren. Das kann aber nicht nur für die Besucher:innen ein Ärgernis sein, sondern auch für das Personal an der Kasse, gerade bei vielbesuchten Museen in der Hauptsaison.
    
@@ -36,12 +36,16 @@ Dasselbe gilt für alle Museen mit einer besucherorientierten Ausrichtung. Bevor
    
    In der Tat, Nubart Audioguides dienen als Werkzeug, um wichtige Daten für Ihr Museum zu sammeln. Und das alles automatisiert, ohne Ihre Mitarbeiter:innen abzulenken oder die Besucher:innen zu stören. 
    
-   Um auf die mehrsprachigen und multimedialen Inhalte der Nubart Audioguides zuzugreifen, nutzt das Publikum sein eigenes Smartphone (BYOD oder "bring your own device"). So kann unser System sehr wertvolle Informationen anonym erfassen, ohne gegen die Datenschutzgesetze zu verstoßen. Da unsere Audioguides keine App sind und nur im Browser laufen, haben wir keine Möglichkeit, personenbezogene Daten wie die Identität der Besucher:innen, Telefonnummern oder Konten zu registrieren. Und auf die nach der DSGVO umstrittene Registrierung von IP-Adressen haben wir freiwillig verzichtet. Wir können jedoch das **Herkunftsland der Besucher:innen** und ihre bevorzugte Sprache anonym herausfinden, beides Daten die für das Museums von grundlegender Bedeutung sind. Inzwischen verfügen manche konventionellen Audioguides über sogenannte Dockingstations, die die Erfassung von einigen Datensätzen ermöglichen. Aber das Herkunftsland der Besucher:innen kann naturgemäss nicht automatisch bestimmt werden. Nubart kann das!
+   Um auf die mehrsprachigen und multimedialen Inhalte der Nubart Audioguides zuzugreifen, nutzt das Publikum sein eigenes Smartphone (BYOD oder "bring your own device"). So kann unser System sehr wertvolle Informationen anonym erfassen, ohne gegen die Datenschutzrichtlinien zu verstoßen. 
    
+Da unsere Audioguides keine App sind und nur im Browser laufen, haben wir keine Möglichkeit, personenbezogene Daten wie die Identität der Besucher:innen, Telefonnummern oder Konten zu registrieren. Und auf die nach der DSGVO umstrittene Registrierung von IP-Adressen haben wir freiwillig verzichtet. 
+
+Inzwischen verfügen manche konventionellen Audioguidegeräte über sogenannte Dockingstations, die die Erfassung von einigen Datensätzen ermöglichen. Aber das Herkunftsland der Besucher:innen kann naturgemäss nicht automatisch bestimmt werden. Bei Nubart können wir das **Herkunftsland der Besucher:innen** und ihre bevorzugte Sprache anonym herausfinden, beides Daten die für das Museums von grundlegender Bedeutung sind.
+
    Unser Datenreport beinhaltet auch manche automatisierten Daten zum Verhalten des Publikums, die komplexe Algorithmen erfordern. Zum Beispiel: Wir registrieren, wie viele Minuten des Audioguides die Besucher:innen insgesamt gehört haben und wie lange sie in den Räumlichkeiten des Museums geblieben sind.
 
  <a href="https://vimeo.com/712527900">
- <img src="assets/img/statistiken-feedback-kundenbereich.png" class="img-fluid" alt="Nubarts Statiskiken über Museumsbesucher">
+ <img src="images/posts/statistiken-feedback-kundenbereich.png" class="img-fluid" alt="Nubarts Statiskiken über Museumsbesucher">
                </a>
 
 Schließlich bieten wir eine Liste der **meistgespielten Tonspuren** und deren Prozentsätze, die oft überraschende Einblicke in die wirklichen Interessen des Publikums liefern. Da die Zeit im Museum begrenzt ist, klicken Besucher:innen in der Regel nur auf die Audiospuren derjenigen Exponate, die ihre Aufmerksamkeit am meisten geweckt haben. Wir wissen aus Erfahrung, dass diese Information oft nicht mit den Erwartungen des Kuratoriums oder der Museumsleitung übereinstimmt! Das Publikumsinteresse lässt sich oft von Aspekten leiten, wie der Plazierung des Exponates, seiner Größe, seiner Farbintensität oder anderer nicht unbedingt kulturgeschichtlich relevanter Eigenschaften. Sobald diese Informationen vorliegen, kann das Museum beschließen, ob und wie man dieses Interesse steuern kann, entweder um mehr Besucher:innen in das Museum zu locken oder um die Aufmerksamkeit des Publikums auf das wirklich Relevante zu leiten.
