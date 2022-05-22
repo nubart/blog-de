@@ -54,7 +54,7 @@ Schließlich bieten wir eine Liste der **meistgespielten Tonspuren** und deren P
 
 ## So finden Sie heraus, was das Publikum über Ihr Museum denkt
    
-   Ein datentechnisch sehr wichtiger Moment ist, wenn jemand die Ausstellung gesehen hat und Ihr Museum verlässt. Zu diesem Zeitpunkt hat die Erfahrung im Museum gerade stattgefunden. Das Publikum hat einen noch sehr frischen Eindruck und oft ein lebhaftes Bedürfnis, seiner Begeisterung oder Enttäuschung auszudrücken.
+   Ein datentechnisch sehr wichtiger Moment ist, wenn jemand die Ausstellung gesehen hat und das Museum verlässt. Zu diesem Zeitpunkt hat das Publikum einen noch sehr frischen Eindruck und ein lebhaftes Bedürfnis, seine Begeisterung oder Enttäuschung auszudrücken.
    
    Das wäre der ideale Zeitpunkt, um herauszufinden, was man verbessern könnte. Aber wie soll das möglich sein? Die üblichen Methoden sind bisher unbefriedigend:
     
