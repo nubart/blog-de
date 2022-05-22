@@ -58,7 +58,7 @@ Schließlich bieten wir eine Liste der **meistgespielten Tonspuren** und deren P
    
    Das wäre der ideale Zeitpunkt, um herauszufinden, was man verbessern könnte. Aber wie soll das möglich sein? Die üblichen Methoden sind bisher unbefriedigend:
     
- * **Menschlich geführte Umfragen:**
+ * **Von Menschen geführte Umfragen:**
    Sei es über eine teure Agentur oder mit Hilfe der eigenen Mitarbeiter, stellen manche besucherorientierte Museen jemanden mit einem Fragebogen auf Papier oder Tablet am Ausgang, um die gehenden Besucher:innen zu befragen. Aber dann sind sie schon mehrere Stunden auf den Beinen, müde und ungeduldig. Die meisten werden auch zögern, in Anwesenheit eines Museumsvertreters eine unvoreingenommene Kritik abzugeben.
    
  * **Feedback Terminals:**
@@ -70,7 +70,11 @@ Diese Terminals verursachen auch erhebliche Betriebskosten von zwischen 50,- und
  
 Die **kurze Feedback-Umfrage am Ende der Nubart Audioguides** löst dieses Problem. Besucher:innen finden die Umfrage am Ende der digitalen Inhalte und entdecken sie genau wenn sie den Rundgang beenden. Wir leiten sie extra *nicht* auf eine externe Seite: Die anonyme Umfrage ist in ihrer beabsichtigten Kürze sofort sichtbar und verfügbar. Sie kann in wenigen Sekunden noch im Museum oder auf der Rückfahrt zum Hotel beantwortet werden. Das erklärt wahrscheinlich auch unsere überduchschnittlich hohe Antwortquote von 11-12 %. Wenn erwünscht können Mitarbeiter:innen des Museums die Besucheranmerkungen in Echtzeit per E-Mail erhalten, um immer am Puls der Ausstellung zu bleiben.
  
-Wenn Ihr Museum das Alter, das Geschlecht oder andere nicht automatisierbare Daten der Besucher*innen abfragen möchte, kann das ebenfalls hier geschehen. Wir können die Fragen des Feedback-Formulars anpassen, um individuellen Bedürfnissen gerecht zu werden. Über Ihren passwortgeschützten Kundenportal können Sie diese Antworten jederzeit ansehen und bewerten.
+Wenn Ihr Museum das Alter, das Geschlecht oder andere nicht automatisierbare Daten der Besucher:innen abfragen möchte, kann das ebenfalls hier geschehen. Wir können die Fragen des Feedback-Formulars anpassen, um individuellen Bedürfnissen gerecht zu werden. Über Ihren passwortgeschützten Kundenportal können Sie diese Antworten jederzeit ansehen und bewerten.
+
+## Die Qualität Ihrer Daten ist ebenso wichtig
+
+Da die Nubart-Karten mit einem eindeutigen, identifizierbaren Code versehen sind und den Besuchern vor Ort ausgehändigt werden, ist die Qualität und Aussagekraft der Daten sehr hoch. Durch die einmaligen, nicht übertragbaren Codes kann der Link zum Audioguide nicht in sozialen Netzwerken oder auf einer Website verbreitet werden. Dadurch können die Daten von Besucher:innen, die das Museum tatsächlich besucht haben, nicht mit Daten oder Aussagen von neugierigen Außenstehenden vermischt werden.
 
 Nubart bietet diesen hochwertigen Daten-Dashboard allen Kunden kostenlos an. 
 
