@@ -14,11 +14,11 @@ langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
 
 Haben Sie sich jemals gefragt, warum die Flugbegleiter:innen, die Sie im Flugzeug beim Einsteigen begrüßen, manchmal eine Hand hinter ihrem Rücken halten? 
 
-Es ist nicht nur eine höfliche Geste: Sie werden nicht nur begrüßt, sondern gezählt! Flugbegleiter:innen verstecken einen Fluggastzähler wie diesen in der Hand:
+Es ist nicht nur eine höfliche Geste: Sie werden nämlich nicht nur begrüßt, sondern gezählt! Dabei wird ein Fluggastzähler wie dieser in der Hand versteckt:
 
 ![Clicker Fluggastzähler]({{site.baseurl}}/images/posts/passanger-counter2.jpg){: .center-image }
 
-Große Datenmengen zu interpretieren ist schwierig. Aber davor kommt noch eine andere, oft viel größere Schwierigket: die *Datenbeschaffung*. Wenn doch selbst bei hochtechnologisierten Flugzeugen eine einfache Passagierzählung noch ein mechanisches Gerät erfordert!
+Große Datenmengen zu interpretieren ist bekanntlich schwierig. Aber davor kommt noch eine andere, oft größere Schwierigket: die Daten*beschaffung*. Wenn doch selbst bei hochtechnologisierten Flugzeugen eine einfache Passagierzählung noch ein mechanisches Gerät erfordert!
 
 Dasselbe gilt für alle Museen mit einer besucherorientierten Ausrichtung. Bevor Sie relevante Einblicke in das Verhalten und die Wünsche Ihres Publikums gewinnen können, müssen Sie vorher über ein adäquates Mittel verfügen, um die Daten überhaupt einzusammeln. 
 
@@ -30,11 +30,11 @@ Dasselbe gilt für alle Museen mit einer besucherorientierten Ausrichtung. Bevor
    
    Diese veraltete Methode erfasst nicht diejenigen Daten, die für die Museumsleitung strategisch am wertvollsten sind: Aus welchen Ländern stammen meine Besucher:innen? Welche ist ihre Muttersprache? Wie lange bleiben sie in meinem Museum? Waren sie mit dem Besuch zufrieden? Welche Exponate fanden sie am interessantesten?
 
-## Nubart ist nicht nur ein Audioguide, sondern auch ein Werkzeug zur Besucherforschung.
+## Nubart ist nicht nur ein Audioguide, sondern auch ein Werkzeug für die Besucherforschung.
 
    Da wo Fluggesellschaften ihre Bemühungen, Daten zu sammeln, als Willkommensgruß tarnen, bietet Nubart einen Audioguide an.
    
-   In der Tat, Nubart Audioguides dienen als Werkzeug, um wichtige Daten für Ihr Museum zu sammeln. Und das alles automatisiert, ohne Ihre Mitarbeiter:innen abzulenken oder die Besucher:innen zu stören. 
+   In der Tat, Nubart Audioguides dienen als Werkzeug, um relevante Daten für Ihr Museum zu sammeln. Und das alles automatisiert, ohne Mitarbeiter:innen abzulenken oder Besucher:innen zu stören. 
    
    Um auf die mehrsprachigen und multimedialen Inhalte der Nubart Audioguides zuzugreifen, nutzt das Publikum sein eigenes Smartphone (BYOD oder "bring your own device"). So kann unser System sehr wertvolle Informationen anonym erfassen, ohne gegen die Datenschutzrichtlinien zu verstoßen. 
    
@@ -54,9 +54,9 @@ Wir wissen aus Erfahrung, dass diese Information oft nicht mit den Erwartungen d
 
 ## So finden Sie heraus, was das Publikum über Ihr Museum denkt
    
-   Ein datentechnisch sehr wichtiger Moment ist, wenn jemand die Ausstellung gesehen hat und das Museum verlässt. Zu diesem Zeitpunkt hat das Publikum einen noch sehr frischen Eindruck und ein lebhaftes Bedürfnis, seine Begeisterung oder Enttäuschung auszudrücken.
+   Ein wichtiger Augenblick für die Datensammlung ist, wenn jemand die Ausstellung gesehen hat und das Museum verlässt. Zu diesem Zeitpunkt hat man noch einen sehr frischen Eindruck und oft ein Bedürfnis, empfundener Begeisterung oder Enttäuschung Ausdruck zu verleihen.
    
-   Das wäre der ideale Zeitpunkt, um herauszufinden, was man verbessern könnte. Aber wie soll das möglich sein? Die üblichen Methoden sind bisher unbefriedigend:
+   Das wäre der ideale Zeitpunkt, um herauszufinden, was man im Museum verbessern könnte. Aber wie soll das möglich sein? Die üblichen Methoden sind bisher unbefriedigend:
     
  * **Von Menschen geführte Umfragen:**
    Sei es über eine teure Agentur oder mit Hilfe der eigenen Mitarbeiter, stellen manche besucherorientierte Museen jemanden mit einem Fragebogen auf Papier oder Tablet am Ausgang, um die gehenden Besucher:innen zu befragen. Aber dann sind sie schon mehrere Stunden auf den Beinen, müde und ungeduldig. Die meisten werden auch zögern, in Anwesenheit eines Museumsvertreters eine unvoreingenommene Kritik abzugeben.
@@ -68,7 +68,9 @@ Wir wissen aus Erfahrung, dass diese Information oft nicht mit den Erwartungen d
 
 Diese Terminals verursachen auch erhebliche Betriebskosten von zwischen 50,- und 200,- € im Monat. 
  
-Die **kurze Feedback-Umfrage am Ende der Nubart Audioguides** löst dieses Problem. Besucher:innen finden die Umfrage am Ende der digitalen Inhalte und entdecken sie genau wenn sie den Rundgang beenden. Wir leiten sie extra *nicht* auf eine externe Seite: Die anonyme Umfrage ist in ihrer beabsichtigten Kürze sofort sichtbar und verfügbar. Sie kann in wenigen Sekunden noch im Museum oder auf der Rückfahrt zum Hotel beantwortet werden. Das erklärt wahrscheinlich auch unsere überduchschnittlich hohe Antwortquote von 11-12 %. Wenn erwünscht können Mitarbeiter:innen des Museums die Besucheranmerkungen in Echtzeit per E-Mail erhalten, um immer am Puls der Ausstellung zu bleiben.
+Die **kurze Feedback-Umfrage am Ende der Nubart Audioguides** löst dieses Problem. Besucher:innen finden die Umfrage am Ende der digitalen Inhalte und entdecken sie genau wenn sie den Rundgang beenden. 
+
+Wir leiten sie extra *nicht* auf eine externe Seite: Die anonyme Umfrage ist in ihrer beabsichtigten Kürze sofort sichtbar und verfügbar. Sie kann in wenigen Sekunden noch im Museum oder auf der Rückfahrt zum Hotel beantwortet werden. Das erklärt wahrscheinlich auch unsere überduchschnittlich hohe Antwortquote von 11-12 %. Wenn erwünscht können Mitarbeiter:innen des Museums die Besucheranmerkungen in Echtzeit per E-Mail erhalten, um immer am Puls der Ausstellung zu bleiben.
  
 Wenn Ihr Museum das Alter, das Geschlecht oder andere nicht automatisierbare Daten der Besucher:innen abfragen möchte, kann das ebenfalls hier geschehen. Wir können die Fragen des Feedback-Formulars anpassen, um individuellen Bedürfnissen gerecht zu werden. Über Ihren passwortgeschützten Kundenportal können Sie diese Antworten jederzeit ansehen und bewerten.
 
