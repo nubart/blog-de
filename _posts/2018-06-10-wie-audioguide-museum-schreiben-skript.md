@@ -85,10 +85,10 @@ Sind Sie mit diesen Punkten einverstanden? Möchten Sie noch etwas hinzufügen? 
 
 ***
 
-#### <font color="blue">Bei Nubart produzieren wir innovative Audioguides als Kärtchen</font>
+#### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
 ![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
-    <input type="submit" value="Fordern Sie hier ein Muster an" />
+    <input type="submit" value="Fordern Sie kostenlose Muster an" />
 </form>

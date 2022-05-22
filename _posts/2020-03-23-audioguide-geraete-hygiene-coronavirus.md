@@ -64,15 +64,14 @@ In diesem Kontext der sozialen Notstandes wird die Reinigung von Audioguide-Ger�
 
 Selbst wenn sehr bald ein Impfstoff oder eine definitive Heilung für das Coronavirus gefunden wird, dürften es traditionelle Audioguide-Geräte in Zukunft schwer haben. Inzwischen haben wir gelernt, dass globale Pandemien nicht nur in Science-Fiction-Filmen zu sehen sind, sondern eine reale Gefahr darstellen.  Und dass diese Krise nicht notwendigerweise die letzte sein wird. 
 
-Die einzige Alternative besteht wohl in **Audioguides, die der Besucher mitnehmen kann**, statt sie zu mieten, oder in BYOD-digitale Lösungen (Apps oder Web-Apps). 
-
-
+Die einzige Alternative besteht wohl in **Audioguides, die der Besucher mitnehmen kann**, statt sie zu mieten, oder in BYOD-digitale Lösungen (Apps oder Web-Apps).
 
 ***
 
+#### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
-    <input type="submit" value="Besuchen Sie unsere Webseite" />
+    <input type="submit" value="Fordern Sie kostenlose Muster an" />
 </form>
