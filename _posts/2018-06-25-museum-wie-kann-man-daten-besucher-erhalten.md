@@ -80,7 +80,7 @@ Da die Nubart-Karten mit einem eindeutigen, identifizierbaren Code versehen sind
 
 Nubart bietet diesen hochwertigen Daten-Dashboard allen Kunden kostenlos an. 
 
-Vielleicht ist in dem speziellen Fall Ihres Museums ein Audioguide nicht so wichtig, wohl aber, ein besucherorientiertes Museum zu leiten, das auf die Wüsnche und Bedürfnisse Ihres Publikums eingeht. Wenn das der Fall ist, machen Sie es wie die Fluggesellschaften und begrüßen Sie sie mit einem Nubart Audioguide-Kärtchen gleich am Empfang!
+Vielleicht ist in dem speziellen Fall Ihres Museums ein Audioguide nicht so wichtig, wohl aber, ein besucherorientiertes Museum zu leiten, das auf die Wünsche und Bedürfnisse Ihres Publikums eingeht. Wenn das der Fall ist, machen Sie es wie die Fluggesellschaften und begrüßen Sie sie mit einem Nubart Audioguide-Kärtchen gleich am Empfang!
 
 ***
 
