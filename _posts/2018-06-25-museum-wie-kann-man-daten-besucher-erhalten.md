@@ -46,7 +46,9 @@ Inzwischen verfügen manche konventionellen Audioguidegeräte über sogenannte D
 
 Sehen Sie das Data-Dashboard von Nubart in Aktion:
 
-[![Video Statistiken Nubart]({{site.baseurl}}/images/posts/video-statistiken-nubart-audioguide.jpg)](https://vimeo.com/712527900)
+<div class="videoContainer">
+    <iframe title="{{ 712527900 }}" src="https://player.vimeo.com/video/{{ 712527900 }}?title=0&byline=0&portrait=0" class="video" allowfullscreen></iframe>
+</div>
 
 Schließlich bieten wir eine Liste der **meistgespielten Tonspuren** und deren Prozentsätze, die oft überraschende Einblicke in die wirklichen Interessen des Publikums liefern. Da die Zeit im Museum begrenzt ist, klicken Besucher:innen in der Regel nur auf die Audiospuren derjenigen Exponate, die ihre Aufmerksamkeit am meisten geweckt haben. 
 
