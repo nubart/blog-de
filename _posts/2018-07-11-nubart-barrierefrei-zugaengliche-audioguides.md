@@ -12,7 +12,7 @@ title:  "Die Audioguides von Nubart sind barrierefrei"
 description: "Unsere Audioguide-Kärtchen sind auch für seh- und hörgeschädigte Museumsbesucher zugänglich."
 slug: "nubart-barrierefrei-zugaengliche-audioguides"
 date: 2018-07-11
-image: /images/posts/accessibility-audioguides.jpg
+image: /images/accessibility-audioguides.jpg
 tags: [Barrierefreiheit, Audioguide]
 langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-en: /2018/07/11/nubart-accessible-audioguides/
@@ -60,7 +60,7 @@ Die QR-Codes sind mit einem leichten Relief auf unsere Nubart-Karten gedruckt. A
 QR-Codes mit den Fingerspitzen erkennen. Sie brauchen jetzt nur noch das Handy mit der QR-Scanner-App auf die enstprechende Stelle der Karte zu
 richten.
 
-![Reliefgedruckter QR-Code zur Erleichterung der Zugänglichkeit für Sehbehinderte bei Nubart audioguides]({{site.baseurl}}/images/posts/qr-code-nubart-visually-impaired.jpg)
+![Reliefgedruckter QR-Code zur Erleichterung der Zugänglichkeit für Sehbehinderte bei Nubart audioguides]({{site.baseurl}}/images/qr-code-nubart-visually-impaired.jpg)
 {: .center-image }
 
 ### Audiobeschreibungen von Exponaten
@@ -129,7 +129,7 @@ Abschließend finden Sie hier ein Video mit manchen Anwendungen von Nubart für 
 
 #### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie kostenlose Muster an" />

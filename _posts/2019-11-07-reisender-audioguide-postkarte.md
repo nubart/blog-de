@@ -10,7 +10,7 @@ title:  "Wir haben den reisenden Audioguide erfunden!"
 description: "Mit Nubart können Audioguides im Museumsshop als Postkarte verkauft werden."
 slug: "reisender-audioguide-postkarte"
 date:   2018-07-11
-image: /images/posts/traveling-audioguide.jpg
+image: /images/traveling-audioguide.jpg
 tags: [Audioguide, Postkarte, Museum]
 langpath-es: /2019/11/07/vender-audioguia-postal-museo/
 langpath-en: /2018/07/11/sell-travelling-audioguide/
@@ -48,7 +48,7 @@ Ob sie nun verschickt werden oder nicht, Postkarten sind immer noch das meistver
 
 Dank der Unterstützung unseres Kunden, dem Center of Contemporary Culture (CCCB) in Barcelona, konnten wir diesen Prototyp herstellen:
 
-![Prototyp von Nubarts Postkarten-Audioguide]({{site.baseurl}}/images/posts/nubart-postcard-audioguide.jpg){: .center-image }
+![Prototyp von Nubarts Postkarten-Audioguide]({{site.baseurl}}/images/nubart-postcard-audioguide.jpg){: .center-image }
  
  Dank [unseres modularen Systems](https://www.nubart.eu/de/multimedia-audioguide.html){:target="_blank"} enthält die Karte auf unserem Prototypen sowohl den Audioguide der aktuellen wie auch den von vergangenen Ausstellungen. 
  
@@ -68,11 +68,11 @@ Was die Besucher betrifft, so können sie mit ihren Freunden die Begeisterung f�
 
 Die Funktionsweise ist sehr einfach. Der Empfänger der Postkarte muss sie nur an der angegebenen Stelle einreißen:
 
-![Anreißen von Nubarts Postkarten-Audioguide]({{site.baseurl}}/images/posts/nubart-postcard-audioguide-inside1.jpg){: .center-image }
+![Anreißen von Nubarts Postkarten-Audioguide]({{site.baseurl}}/images/nubart-postcard-audioguide-inside1.jpg){: .center-image }
 
 Durch das Entfernen der Karte hat der Empfänger Zugang auf die individuellen Codes zugreifen und kann sich mit dem Smartphone den Multimedia-Audioguide anhören.  
 
-![Der Nubart Postkarten-Audioguide nach der Öffnung]({{site.baseurl}}/images/posts/nubart-postcard-audioguide-inside2.jpg){: .center-image }
+![Der Nubart Postkarten-Audioguide nach der Öffnung]({{site.baseurl}}/images/nubart-postcard-audioguide-inside2.jpg){: .center-image }
 
 Dank unseres Schutzsystems kann der Inhalt der Postkarte nicht einfach weitergeleitet werden. Der Karteninhaber kann jedoch jederzeit auf die Inhalte zugreifen. 
 
@@ -84,7 +84,7 @@ Wenn Sie ein Muster des *reisenden Audioguides* erhalten möchten oder weitere E
 
 #### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie kostenlose Muster an" />

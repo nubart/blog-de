@@ -10,7 +10,7 @@ title:  "Wie sollte man den Inhalt eines Audioguides aufbauen?"
 description: "Digitale Audioguides (Apps oder PWAs) bieten so viele Möglichkeiten zur Integration multimedialer Elemente, dass es die Strukturierung der Inhalte ein Thema geworden ist."
 slug: "struktur-audioguide"
 date:   2022-02-22
-image: /images/posts/structure-audioguide-title.jpg
+image: /images/structure-audioguide-title.jpg
 tags: [Audioguide, Multimedia]
 langpath-es: /2022/02/17/como-crear-estructura-audioguia/
 langpath-en: /2022/02/18/how-to-structure-audioguide/
@@ -45,11 +45,11 @@ Wenn ein Museum beispielsweise aus fünf Räumen im Erdgeschoss besteht, ist es 
 Dieses Prinzip gilt nicht nur für Tonspuren, sondern auch für andere
 Multimedia-Elemente. In den meisten digitalen Audioguides öffnet ein Klick auf eine Station eine ganz neue Seite, die in der Regel das Bild des Exponats und eine Tonspur enthält. Diese wird manchmal automatisch abgespielt oder erfordert einen neuen Klick. Nach dem Abspielen der Tonspur muss der Benutzer zur Auflistung zurückkehren, um den nächsten Titel zu finden und ihn anzuklicken, und so weiter.
 
-![Traditioneller digitaler Audioguide mit zu vielen Klicks]({{site.baseurl}}/images/posts/structure-audioguide-clicking.png){: .center-image }
+![Traditioneller digitaler Audioguide mit zu vielen Klicks]({{site.baseurl}}/images/structure-audioguide-clicking.png){: .center-image }
 
 Unserer Meinung nach wäre es wünschenswert, all diese unnötigen Klicks zu reduzieren, indem **alle Tonspuren auf einer Seite gescrollt werden können**, denn Scrollen ist für ältere Generationen, die keine Digital Natives sind, die intuitivste Navigationsmethode.
 
-![Nubart digitaler Audioguide mit scrollender Navigation]({{site.baseurl}}/images/posts/structure-audioguide-scrolling.png){: .center-image }
+![Nubart digitaler Audioguide mit scrollender Navigation]({{site.baseurl}}/images/structure-audioguide-scrolling.png){: .center-image }
 
 
 # Ermöglichen Sie sowohl die *Erweiterung* wie auch die *Einschränkung* von Audioguide-Inhalten
@@ -72,11 +72,11 @@ Ziel davon ist, umfangreiche Inhalte in Blöcken oder Modulen zu erstellen, die 
 
 Diese Art der Organisation von Inhalten ist ideal für Ausstellungsorte, die **mehrere unabhängige Gebäude oder Räume** haben. Der Bergbaupark Riotinto in Huelva (Spanien) besteht beispielsweise aus einem Museum, einem Zug, einem Bergwerk und einem Haus, und in seinem digitalen Audioguide haben wir jedem dieser Orte ein eigenes Modul zugeordnet.
 
-![Audioguide von Nubart für das Museum der Riotinto-Stiftung in Huelva]({{site.baseurl}}/images/posts/structure-riotinto.jpg){: .center-image }
+![Audioguide von Nubart für das Museum der Riotinto-Stiftung in Huelva]({{site.baseurl}}/images/structure-riotinto.jpg){: .center-image }
 
 Dieser modulare Aufbau ist auch die ideale Möglichkeit, Inhalte thematisch oder chronologisch zu trennen. Der häufigste Fall sind Museen mit vielen Ausstellungen, sowohl Dauer- als auch Sonderausstellungen. In solchen Fällen wird jeder Ausstellung ein eigenes Modul zugeordnet. Zum Beispiel, [das Museum Albertina in Wien](https://www.nubart.eu/de/portfolio/albertina-audioguide.html){:target="_blank"}.
 
-![Nubart Audioguide für das Albertina Museum in Wien]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
+![Nubart Audioguide für das Albertina Museum in Wien]({{site.baseurl}}/images/structure-albertina.jpg){: .center-image }
 
 ## 2. **Thematische Tags zur Anpassung der Inhalte an die Interessen der Besucher**
 
@@ -84,11 +84,11 @@ Tags sind ein ideales Werkzeug, wenn Sie **reichhaltige und vielfältige Inhalte
 
 Dies ist besonders nützlich bei Audioguides für Veranstaltungen wie **Messen**, die von Fachleuten mit dem klaren Ziel besucht werden, Geschäfte zu machen. Das Angebot an Ausstellern auf diesen Veranstaltungen ist in der Regel sehr umfangreich, und die Teilnehmer können es sich nicht leisten, Zeit zu verlieren. Dank unserer Tags können die Messebesucher die Stände nach bestimmten thematischen Interessengebieten auswählen und so den größten Nutzen aus der Messe ziehen. In diesem Beispiel können die Besucher die Aussteller nach ihren beruflichen Schwerpunkten filtern und sie auf dem Hallenplan leicht auffinden:
 
-![Nubart Audioguide für eine Messe]({{site.baseurl}}/images/posts/structure-aluminium.jpg){: .center-image }
+![Nubart Audioguide für eine Messe]({{site.baseurl}}/images/structure-aluminium.jpg){: .center-image }
 
 Es ist auch ein perfektes Werkzeug für Audioguide **Stadtführungen** und zur Unterstützung des **Stadtmarketings**, da es Touristen erlaubt, die Themen und Aktivitäten individuell auszuwählen, die sie am meisten interessieren. In diesem Reiseführer für die Stadt Baden (Österreich), können die Benutzer kulturelle, gastronomische und kommerzielle Sehenswürdigkeiten auswählen, die entsprechenden Informationen finden und die Tour nach ihren Vorlieben gestalten:
 
-![Nubart-Audioguide für die Stadt Baden, Österreich]({{site.baseurl}}/images/posts/structure-baden.jpg){: .center-image }
+![Nubart-Audioguide für die Stadt Baden, Österreich]({{site.baseurl}}/images/structure-baden.jpg){: .center-image }
 
 Ein weiterer Anwendungsfall für Tags sind **sehr große Museen**, die den Besuchern helfen wollen, die große Menge an verfügbaren Exponaten nach ihren persönlichen Interessen zu filtern. Dies ist der Fall bei [dem Audioguide des Slowenischen Nationalmuseums in Ljubljana](https://www.nubart.eu/de/portfolio/nationalmuseum-slowenien-audioguide.html){:target="_blank"}, der mit Hilfe von Tags den Besuchern eine 30-minütige Route mit den Highlights anbietet.
 
@@ -102,7 +102,7 @@ Aus diesem Grund hat Nubart ausklappbare Schaltflächen für "mehr Informationen
 
 Besucher des [Dornier-Museums in Friedrichshafen](https://www.nubart.eu/de/portfolio/dornier-audioguide.html){:target="_blank"}, die sich für die Anfänge des Zeppelins interessieren, können zum Beispiel diese Schaltfläche verwenden, um ein historisches Foto anzusehen. Beim Scrollen wird die Schaltfläche automatisch zugeklappt:
 
-![Nubart Audioguide für das Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/posts/structure-dornier.jpg){: .center-image }
+![Nubart Audioguide für das Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/structure-dornier.jpg){: .center-image }
 
 Anstelle dieses Fotos hätte die Dropdown-Schaltfläche auch [andere Arten von Multimediadateien](https://www.nubart.eu/de/multimedia-audioguide.html){:target="_blank"} enthalten können..
 
@@ -115,7 +115,7 @@ Teilen Sie uns mit, welche Inhalte Sie in Ihrem Audioguide organisieren möchten
 
 #### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie kostenlose Muster an" />

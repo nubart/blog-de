@@ -10,7 +10,7 @@ title:  "So erhalten Sie Besucherdaten für Ihr Museum"
 description: "Bevor Sie das Verhalten Ihres Museumpublikums analysieren, müssen Sie die Daten erstmal einsammeln. Das ist aber nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25
-image: /images/posts/nubart-as-tool-to-collect-data-museum.jpg
+image: /images/nubart-as-tool-to-collect-data-museum.jpg
 tags: [Besucherforschung, Museen]
 langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
 langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
@@ -21,7 +21,7 @@ Haben Sie sich jemals gefragt, warum die Flugbegleiter:innen, die Sie im Flugzeu
 
 Es ist nicht nur eine höfliche Geste: Sie werden nämlich nicht nur begrüßt, sondern gezählt! Dabei wird ein Fluggastzähler wie dieser in der Hand versteckt:
 
-![Clicker Fluggastzähler]({{site.baseurl}}/images/posts/passanger-counter2.jpg){: .center-image }
+![Clicker Fluggastzähler]({{site.baseurl}}/images/passanger-counter2.jpg){: .center-image }
 
 Große Datenmengen zu interpretieren ist bekanntlich schwierig. Aber davor kommt noch eine andere, oft größere Schwierigket: die Daten*beschaffung*. Wenn doch selbst bei hochtechnologisierten Flugzeugen eine einfache Passagierzählung noch ein mechanisches Gerät erfordert!
 
@@ -71,7 +71,7 @@ Wir wissen aus Erfahrung, dass diese Information oft nicht mit den Erwartungen d
  * **Feedback Terminals:**
    Die automatisierte Variante davon sind die sogenannten *Feedback-Terminals* oder Online-Befragung-Terminals, die man oft in Flughäfen und anderen öffentlichen Orten findet. Manche verfügen über eine Tastatur, die beliebig komplexe Antworten auf sehr viele Fragen ermöglicht. Andere zeigen dagegen nur einige Emojis, auf die Besucher:innen fast im Vorbeigehen tappen sollen: "gefällt mir", "neutral", "gefällt mir nicht". Vom langen Stehen ermüdete Besucher:innen werden sich eher selten auf die erste Variante einlassen wollen. Und die zweite ist viel zu simpel, um wirklich relevante informationen zu vermitteln.
  
-![Feedback terminal Flughafen]({{site.baseurl}}/images/posts/feedback-terminal-airport.jpg){: .center-image }
+![Feedback terminal Flughafen]({{site.baseurl}}/images/feedback-terminal-airport.jpg){: .center-image }
 
 Diese Terminals verursachen auch erhebliche Betriebskosten von zwischen 50,- und 200,- € im Monat. 
  
@@ -93,7 +93,7 @@ Vielleicht ist in dem speziellen Fall Ihres Museums ein Audioguide nicht so wich
 
 #### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie kostenlose Muster an" />

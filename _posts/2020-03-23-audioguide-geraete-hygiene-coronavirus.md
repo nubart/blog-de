@@ -10,7 +10,7 @@ title:  "Audioguide-Geräte, Coronavirus und Hygiene"
 description: "Das Coronavirus wird viele unserer Gewohnheiten verändern. Was wird in den Museen mit den Audioguide-Geräten geschehen, die herumgereicht werden?"
 slug: "audioguide-geraete-hygiene-coronavirus"
 date:   2020-03-23
-image: /images/posts/cleaning-audioguide-devices-museum.jpg
+image: /images/cleaning-audioguide-devices-museum.jpg
 tags: [Audioguide, Hygiene, Coronavirus]
 langpath-en: /2020/03/23/devices-audioguide-hygiene-coronavirus/
 langpath-es: /2020/03/23/aparatos-audioguia-higienicos-coronavirus/
@@ -33,7 +33,7 @@ Darüber hinaus sind Mobiltelefone **persönliche Geräte**. Die darin enthalten
 
 **Ein Audioguide-Gerät in einem Museum ist dagegen wie ein Handy, das X-mal am Tag von Hand zu Hand gereicht wird.** 
 
-![Frau, die einen Audioguide hält]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
+![Frau, die einen Audioguide hält]({{site.baseurl}}/images/woman-audioguide-face.jpg){: .center-image }
 
 Außerdem werden Audioguides an das Gesicht gehalten, entweder direkt oder über ein Headset. Im Gesicht befinden sich die Haupteintrittswege der Viren in unseren Körper. 
 
@@ -41,7 +41,7 @@ Außerdem werden Audioguides an das Gesicht gehalten, entweder direkt oder über
 
 Hygiene war schon immer ein relevanter Faktor beim Umgang mit Audioguide-Geräten in einem Museum. In den Marktstudien, die wir beim Launch von Nubart durchgeführt haben, waren wir überrascht von der Anzahl der Menschen, die behaupteten, sich aus hygienischen Gründen nie einen Audioguide im Museum geben zu lassen. Daraus lässt sich ableiten, dass der Faktor Hygiene sich schon immer auf die Abnahmequote der Audioguides ausgewirkt hat und damit auch auf die Einnahmen, die das Museum aus deren Ausgabe erzielt, auch wenn es schwierig ist, den genauen Prozentsatz zu bestimmen. Die meisten Museen sind sich dessen bewusst und weisen ihre Mitarbeiter an, die Audioguides vor und nach jeder Benutzung zu reinigen. 
 
-![Museumspersonal reinigt Audioführungsgeräte]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
+![Museumspersonal reinigt Audioführungsgeräte]({{site.baseurl}}/images/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
 Allerdings können Museumsbesucher nicht immer wissen, ob diese Reinigung stattgefunden hat oder nicht. 
 
@@ -74,7 +74,7 @@ Die einzige Alternative besteht wohl in **Audioguides, die der Besucher mitnehme
 
 #### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie kostenlose Muster an" />

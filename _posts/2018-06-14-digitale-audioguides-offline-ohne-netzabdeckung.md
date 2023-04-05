@@ -11,7 +11,7 @@ title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
 description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"
 date:   2018-06-14
-image: /images/posts/steinzeitpark-nubart-audioguide.jpg
+image: /images/steinzeitpark-nubart-audioguide.jpg
 tags: [Audiotour, Offline, Netzabdeckung]
 langpath-es: /2018/01/03/audioruta-nubart-offline/
 langpath-en: /2018/06/14/digital-audio-guides-tours-offline/
@@ -33,7 +33,7 @@ Es gibt im Englischen das Sprichwort, dass ein Hindernis manchmal nur eine verkl
    
    Frau Porrúa hatte ein tolles Skript vorbereitet, das von unserem Team ins Englische und Französische übersetzt wurde. Wir haben das Ergebnis in diesen beiden Sprachen und auf Spanisch einsprechen lassen und die Landkarten überarbeitet, um sie an den Inhalt der Audioführung anzupassen. Um das Design der Audioguide-Karte mit Frau Porrúas Fotos kümmerten wir uns auch. 
    
-   ![Nubart Audio Tour durch die Naturdenkmäler von El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioguide-nexo-nubart2.jpg){: .center-image }
+   ![Nubart Audio Tour durch die Naturdenkmäler von El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/audioguide-nexo-nubart2.jpg){: .center-image }
 
    Alles lief wunderbar, bis wir sie nach der Twitter-Integration fragten.
    
@@ -75,7 +75,7 @@ Wir entschieden uns für das Zweite.
 
 #### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 
 <form action="../../../../../de">
     <input type="submit" value="Fordern Sie kostenlose Muster an" />
