@@ -54,8 +54,8 @@ blog:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
-  mailchimp__identifier: nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=26579f63ee # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  enable:
+  mailchimp__identifier: nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=ec56d6f60e # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__title: Neuigkeiten über Audioguides
   mailchimp__description: Abonnieren Sie unseren Newsletter.
   mailchimp__input__text: Ihre E-Mail Adresse...
