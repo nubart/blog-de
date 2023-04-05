@@ -21,6 +21,10 @@ menu__settings:
       url: '/'
     - title: 'Über Nubart'
       url: 'https://www.nubart.eu/de/'
+    - title: 'Audioguides'
+      url: 'https://www.nubart.eu/de/audioguides.html'
+    - title: 'Gruppenführungssystem'
+      url: 'https://www.nubart.eu/de/gruppenfuehrungssystem.html'
       #     - title: 'Authors'
 #       url: '/authors/'
 
