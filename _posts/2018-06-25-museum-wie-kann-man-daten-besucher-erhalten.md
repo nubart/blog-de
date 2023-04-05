@@ -6,8 +6,8 @@ redirect_to:  /museum-wie-kann-man-daten-besucher-erhalten/
 layout: post
 comments: true
 published: true
-title:  "So erhalten Sie Besucherdaten für Ihr Museum"
-description: "Bevor Sie das Verhalten Ihres Museumpublikums analysieren, müssen Sie die Daten erstmal einsammeln. Das ist aber nicht so einfach..."
+title:  "So erheben Sie Daten über Ihre Museumsbesucher"
+description: "Um Besucherforschung in Ihrem Museum zu betreiben, müssen Sie erstmal Daten erheben. Das ist aber nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25
 image: /images/nubart-as-tool-to-collect-data-museum.jpg
@@ -23,7 +23,7 @@ Es ist nicht nur eine höfliche Geste: Sie werden nämlich nicht nur begrüßt, 
 
 ![Clicker Fluggastzähler]({{site.baseurl}}/images/passanger-counter2.jpg){: .center-image }
 
-Große Datenmengen zu interpretieren ist bekanntlich schwierig. Aber davor kommt noch eine andere, oft größere Schwierigket: die Daten*beschaffung*. Wenn doch selbst bei hochtechnologisierten Flugzeugen eine einfache Passagierzählung noch ein mechanisches Gerät erfordert!
+Große Datenmengen zu interpretieren ist bekanntlich schwierig. Aber davor kommt noch eine andere, oft größere Schwierigket: die Daten*erhebung*. Wenn doch selbst bei hochtechnologisierten Flugzeugen eine einfache Passagierzählung noch ein mechanisches Gerät erfordert!
 
 Dasselbe gilt für alle Museen mit einer besucherorientierten Ausrichtung. Bevor Sie relevante Einblicke in das Verhalten und die Wünsche Ihres Publikums gewinnen können, müssen Sie vorher über ein adäquates Mittel verfügen, um die Daten überhaupt einzusammeln. 
 
