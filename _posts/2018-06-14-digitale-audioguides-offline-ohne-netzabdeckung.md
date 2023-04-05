@@ -1,7 +1,12 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2018/06/14/digitale-audioguides-offline-ohne-netzabdeckung/
+redirect_to:  /digitale-audioguides-offline-ohne-netzabdeckung/
 layout: post
 comments: true
 published: true
+author: admin
 title:  "Wir bieten digitale Audioguides auch im Offline-Modus an"
 description: "Viele deutsche Museen stecken in einem Funkloch. Deshalb haben wir einen Offline-Modus entwickelt, der kein Herunterladen von Apps erfordert!"
 slug: "digitale-audioguides-offline-ohne-netzabdeckung"

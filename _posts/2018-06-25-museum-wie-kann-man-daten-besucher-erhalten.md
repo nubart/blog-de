@@ -1,15 +1,20 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2018/06/25/museum-wie-kann-man-daten-besucher-erhalten/
+redirect_to:  /museum-wie-kann-man-daten-besucher-erhalten/
 layout: post
 comments: true
 published: true
-title:  "So erhalten Sie Besucherdaten für Ihr Museum (aktualisiert 2022)"
+title:  "So erhalten Sie Besucherdaten für Ihr Museum"
 description: "Bevor Sie das Verhalten Ihres Museumpublikums analysieren, müssen Sie die Daten erstmal einsammeln. Das ist aber nicht so einfach..."
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25
 image: /images/posts/nubart-as-tool-to-collect-data-museum.jpg
-tags: [Daten über Besucher, Museen]
+tags: [Besucherforschung, Museen]
 langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
 langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
+featured: true
 ---
 
 Haben Sie sich jemals gefragt, warum die Flugbegleiter:innen, die Sie im Flugzeug beim Einsteigen begrüßen, manchmal eine Hand hinter ihrem Rücken halten? 

@@ -1,8 +1,13 @@
 ---
-layout: post 
+layout: redirected
+sitemap: false
+permalink: /2018/07/11/nubart-barrierefrei-zugaengliche-audioguides/
+redirect_to:  /nubart-barrierefrei-zugaengliche-audioguides/
+layout: post  
 comments: true 
 published: true
 comments: true
+author: admin
 title:  "Die Audioguides von Nubart sind barrierefrei"
 description: "Unsere Audioguide-Kärtchen sind auch für seh- und hörgeschädigte Museumsbesucher zugänglich."
 slug: "nubart-barrierefrei-zugaengliche-audioguides"
@@ -11,6 +16,7 @@ image: /images/posts/accessibility-audioguides.jpg
 tags: [Barrierefreiheit, Audioguide]
 langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-en: /2018/07/11/nubart-accessible-audioguides/
+featured: true
 ---
 
 Museen streben danach, Orte zu sein, die von allen Mitbürgern, auch von Menschen mit körperlichen Beeinträchtigungen, genutzt werden können. Deshalb
@@ -47,7 +53,7 @@ möglich gehalten. Mehrere Tests mit Blinden haben die korrekte Bedienbarkeit un
 
 Natürlich ist das nur der technische Teil: Wir sind uns bewusst, dass Barrierefreiheit viel weiter geht. Vor allem müssen die Inhalte für Sehbehinderte konzipiert und angepasst werden.
 
-### Mit den Fingerspitzen detektierbarer QR-Code
+### Mit den Fingerspitzen erkennbarer QR-Code
 
 Die QR-Codes sind mit einem leichten Relief auf unsere Nubart-Karten gedruckt. Auf diese Weise können Blinde das Vorhandensein und die Position des
 QR-Codes mit den Fingerspitzen erkennen. Sie brauchen jetzt nur noch das Handy mit der QR-Scanner-App auf die enstprechende Stelle der Karte zu

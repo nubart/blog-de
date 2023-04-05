@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2020/03/23/audioguide-geraete-hygiene-coronavirus/
+redirect_to:  /audioguide-geraete-hygiene-coronavirus/
 layout: post
 comments: true
 published: true

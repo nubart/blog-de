@@ -1,76 +1,58 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site title
-title: "Nubarts Blog"
-
-# A description of your site for social meta tag, search engines, and feed.xml
-description: "Nubart ist ein Audioguide zum Mitnehmen. Ein innovatives Konzept, damit auch kleine Museen ihren Besuchern Audioguides anbieten können. Hier schreiben wir über Museen, Besucherdaten und unsere neuesten Projekte."
-
-# Tagline near the site title
-tagline: "Der Audioguide zum Mitnehmen"
-
-# The subpath of your site, e.g. /blog, for generating urls
-baseurl: /blog-de
-alt-baseurl-en: /blog-en
+#-------------------------------
+# General Site Settings
+baseurl: /blog-en # the subpath of your site, e.g. /blog
 alt-baseurl-es: /blog
+alt-baseurl-de: /blog-de
+url: https://www.nubart.eu/ # the base hostname & protocol for your site, e.g. http://example.com
 
 
-# Sass
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/page/:num"
+
+
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+    # authors:
+    #  output: true
+  #   permalink: /blog-en/:name
+
+# Pages Path
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
 sass:
   sass_dir: _sass
   style: compressed
-
-# The base hostname & protocol of your site for where absolute urls are needed
-url: "https://www.nubart.eu"
-
-# Site navigation - each item must have a title and a url.
-navigation:
-- text: Startseite Blog
-  url: /blog-de/
-- text: Nubarts Website
-  url: https://www.nubart.eu/de/
-- text: Archiv
-  url: /blog-de/tags/
-
-# The shortname for your Disqus site to enable comments.
-disqus: "nubart-en"
-
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: "UA-88444319-1"
-
-# Author information - author info at the bottom of the post
-author_name: "Nubart"
-author_bio: "Nubart ist ein Audioguide zum Mitnehmen. Ohne Geräte oder Apps. Mit Besucher-Feedback und Nutzungsdaten."
-author_image: /blog-de/images/logo-nubart.png
-
-# Sidebar Add banner
-banner_url: "https://www.nubart.eu/de/"
-banner_image: images/scanning-nubart-audioguide.jpg
-
-# Sidebar newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "https://nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=ec56d6f60e"
-
-
-# Social links in the site footer
-twitter_url: "https://twitter.com/NubartD"
-facebook_url: "https://www.facebook.com/Nubart/"
-instagram_url: "https://www.instagram.com/_nubart/?hl=en"
-linkedin_url: "https://www.linkedin.com/company/digital-tangible-s-l-/"
-
-
-# http://jekyllrb.com/docs/pagination/
-paginate: 5
-paginate_path: '/blog/page:num/'
-plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-
-permalink: pretty
-markdown: kramdown
-kramdown:
-    auto_ids: false

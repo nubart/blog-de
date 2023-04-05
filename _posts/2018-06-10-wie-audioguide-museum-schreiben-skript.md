@@ -1,15 +1,21 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2018/06/10/wie-audioguide-museum-schreiben-skript/
+redirect_to:  /wie-audioguide-museum-schreiben-skript/
 layout: post
 comments: true
 published: true
+author: admin
 title:  "Wie schreibt man das Skript eines Museum-Audioguides?"
 description: "Ein Audioguideskript ist ein ganz besonderer Text und folgt eigenen Regeln. Hier finden Sie einige Tips dazu."
 slug: "wie-audioguide-museum-schreiben-skript"
 date:   2018-06-10
-image: /images/posts/woman-typing-writing-windows.jpg
+image: '/images/posts/woman-typing-writing-windows.jpg'
 tags: [Audioguide, Skript]
 langpath-es: /2017/07/29/como-escribir-guion-audioguia/
 langpath-en: /2017/08/03/how-to-write-script-audio-guide-museum/
+featured: true
 ---
 
 Vielleicht arbeiten Sie für eins der etwa 85 % Museen, die noch nicht über einen Audioguide verfügen. Dann stehen Sie wahrscheinlich zum ersten Mal vor der Aufgabe, einen Audioguide zu produzieren und Sie wissen nicht, wo Sie anfangen sollen. 

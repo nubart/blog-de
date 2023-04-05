@@ -1,15 +1,20 @@
 ---
-layout: post
+layout: redirected
+sitemap: false
+permalink: /2022/02/22/struktur-audioguide/
+redirect_to:  /struktur-audioguide/
 comments: true
 published: true
+author: admin
 title:  "Wie sollte man den Inhalt eines Audioguides aufbauen?"
 description: "Digitale Audioguides (Apps oder PWAs) bieten so viele Möglichkeiten zur Integration multimedialer Elemente, dass es die Strukturierung der Inhalte ein Thema geworden ist."
 slug: "struktur-audioguide"
 date:   2022-02-22
 image: /images/posts/structure-audioguide-title.jpg
-tags: [Audioguide, Aufbau, Multimedia]
+tags: [Audioguide, Multimedia]
 langpath-es: /2022/02/17/como-crear-estructura-audioguia/
 langpath-en: /2022/02/18/how-to-structure-audioguide/
+featured: true
 ---
 
 Bei herkömmlichen Audioguide-Geräten müssen Sie sich nicht viele Gedanken über die Struktur des Inhalts machen: In der Regel tippen die Besucher die Nummer eines Exponats auf der Tastatur des Geräts ein und erhalten die entsprechende Audio-Erklärung.

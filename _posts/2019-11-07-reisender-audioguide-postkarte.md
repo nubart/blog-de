@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2019/11/07/reisender-audioguide-postkarte/
+redirect_to:  /reisender-audioguide-postkarte/
 layout: post
 comments: true
 published: true
@@ -7,7 +11,7 @@ description: "Mit Nubart können Audioguides im Museumsshop als Postkarte verkau
 slug: "reisender-audioguide-postkarte"
 date:   2018-07-11
 image: /images/posts/traveling-audioguide.jpg
-tags: [Audioguide, Postkarte, Reisen, Museum]
+tags: [Audioguide, Postkarte, Museum]
 langpath-es: /2019/11/07/vender-audioguia-postal-museo/
 langpath-en: /2018/07/11/sell-travelling-audioguide/
 ---
