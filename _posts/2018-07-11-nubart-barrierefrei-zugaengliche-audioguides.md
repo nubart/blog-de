@@ -31,7 +31,8 @@ Das Anliegen, blinde Menschen an der Erfahrung eines Museumsbesuches teilnehmen 
 Kurator des Sunderland Museums, John Alfred Charlton Deas, die Kinder der Sunderland Council Blind School ein, einige Exponate des Sunderland Museums
 über ihre Hände zu *sehen*. Der Erfolg der Initiative ermutigte ihn, diese Art von Besuch auch auf sehbehinderte Erwachsene auszuweiten.
 
-{% include image_caption.html imageurl="/blog/images/posts/accesibility-sunderland-museum.jpg" title="Kinder fühlen ein Walross im Sunderland Museum" caption="*Tyne & Wear Archives & Museums*" %}
+![Kinder tasten ein Walross im Sunderland Museum]({{site.baseurl}}/images/accessibility-sunderland-museum.jpg){:loading="lazy"}
+*Tyne & Wear Archives & Museums*
 
 In einem Museum hängt die Zugänglichkeit für Besucher mit Sehschwäche nicht nur von Audioguides ab. Aber da bei Audioguides das Hören und nicht das
 Sehen im Mittelpunkt steht, sind sie möglicherweise eines der wichtigsten Instrumente, um ihren Besuch lohnenswert zu machen. Wenn das Museum nicht
