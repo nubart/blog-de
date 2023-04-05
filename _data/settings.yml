@@ -1,0 +1,106 @@
+#-------------------------------
+# Site Settings
+title: Nubart's Blog
+logo: /images/logo-white.svg
+description: Nubart ist ein Multimedia-Guide (PWA). Der Zugriff auf den Inhalt erfolgt über eine nicht-übertragbare gedruckte Karte.
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Nubart
+  author__bio: Bei Nubart erfinden wir Audioguides neu. Weder Geräte noch Apps. Einfach nur eine hochwertige PWA, zugänglich über ein nicht-übertragbares Kärtchen.
+  author__avatar: /blog-de/images/icon.png
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home (Blog)'
+      url: '/'
+    - title: 'Über Nubart'
+      url: 'https://www.nubart.eu/de/'
+      #     - title: 'Authors'
+#       url: '/authors/'
+
+
+
+#-------------------------------
+# Hero Settings
+  # hero:
+  # hero__title: Nubart produces multimedia- and audio-guide cards. Also tour guide systems. <br> Whatever we do is browser-based. No apps to download. No extra hardware.
+
+#-------------------------------
+# Blog Settings
+blog:
+  blog__title: Other articles
+  #   blog__description: Find out how to set up a successful audio guide
+
+#-------------------------------
+# Recommended Tag Settings
+  # tag:
+  # enable: true
+  # tag__title: Recommended
+  # tag__name: audio-guides
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: true
+  mailchimp__identifier: nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=26579f63ee # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__input__text: Your Email Address...
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: "/blog-en/images/background-mailchimp-subscription.jpg"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home (Blog)'
+      url: '/'
+    - title: 'About Nubart'
+      url: 'https://www.nubart.eu/'
+      #    - title: 'Authors'
+  #      url: '/authors/'
+
+
+
+# Social Links
+social:
+- {icon: "ion-logo-linkedin", color: "#0077b5", name: Linkedin, link: "https://www.linkedin.com/company/digital-tangible-s-l-/"}
+- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://twitter.com/NubartEN"}
+- {icon: "ion-logo-facebook", color: "#3b5999", name: Facebook, link: "https://www.facebook.com/Nubart/"}
+- {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://www.instagram.com/nubart.eu/?hl=en"}
+- {icon: "ion-logo-vimeo", color: "#1ab7ea", name: Vimeo, link: "https://vimeo.com/nubart"}
+- {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://www.youtube.com/channel/UCN8lCMkLud1_118AQFq6Uug"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: info@nubart.eu # Add your email for contant form
+
+# NOTE
+# Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: true
+  disqus__identifier: nubart-en # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-88444319-1 # Add your GA Tracking Id
