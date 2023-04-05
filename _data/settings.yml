@@ -38,7 +38,7 @@ menu__settings:
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Other articles
+  blog__title: Andere Artikel
   #   blog__description: Find out how to set up a successful audio guide
 
 #-------------------------------
