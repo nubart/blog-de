@@ -70,13 +70,7 @@ Wir entschieden uns für das Zweite.
    So hatten wir nicht nur Frau Porrúas Problem gelöst. Es war uns sofort klar, dass auch andere Kunden vom Offline-Modus profitieren konnten, wie z.B. Museen die zwar Wi-Fi im Empfangsbereich anbieten, aber keine Abdeckung in den restlichen Räumen bereitstellen können. Auch Touristen von ausserhalb der EU können so auf das teure *Roaming* verzichten, da sie einen kostenlosen Wifi-Hotspot zum Herunterladen der Inhalte nutzen können. Und gerade in Deutschland, wo die Netzabdeckung an vielen Orten immer noch viel zu wünschen übrig lässt, sollte unsere Lösung wie gerufen kommen. 
    
    Inzwischen haben wir diese Entwicklung erweitert und bieten nun auch eine Hybridlösung an. So werden nur die Audiospuren zu Exponaten in Bereichen mit schlechter Verbindung von uns im Offline-Modus vorgeladen. Dies verbessert die Ladegeschwindigkeit.
-   
+
 ***
 
-#### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
-
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-
-<form action="../../../../../de">
-    <input type="submit" value="Fordern Sie kostenlose Muster an" />
-</form>
+[![Nubarts Media Guide]({{site.baseurl}}/images/banner-blog-de.png)](../../../../../de){: .center-image }

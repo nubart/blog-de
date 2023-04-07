@@ -110,16 +110,8 @@ Das von Nubart selbst entwickelte CMS für Audioguides ist sehr flexibel und kan
 
 Teilen Sie uns mit, welche Inhalte Sie in Ihrem Audioguide organisieren möchten, und wir helfen Ihnen gerne, die für Ihren Veranstaltungsort am besten geeignete Struktur zu finden.
 
-
 ***
 
-#### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
-
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-
-<form action="../../../../../de">
-    <input type="submit" value="Fordern Sie kostenlose Muster an" />
-</form>
-
+[![Nubarts Media Guide]({{site.baseurl}}/images/banner-blog-de.png)](../../../../../de){: .center-image }
 
 

@@ -52,12 +52,9 @@ Denken Sie aber daran, dass das in der Regel die anstrengensten Spuren für die 
                       
  Das können Sie auch mit dem Kurator einer Ausstellung tun. Kuratoren werden oft von der Öffentlichkeit nicht wahrgenommen und viele sind dankbar für die Möglichkeit, ihren Standpunkt zur Konzeption der Ausstellung oder zur Auswahl eines bestimmten Werkes darzulegen. 
 
-Gerade bei Sonderausstellungen ist die Zeit knapp und es ist nicht immer möglich, Inhalte über den Katalog oder die Plakate hinaus zu generieren. Direkte, spontan aufgenommene Darstellungen sind dagegen relativ einfach und schnell zu organisieren. Wenn es absolut keine andere Möglichkeit gibt, können Sie sie sogar via Skype aufnehmen: Die Authentizität der Originalstimme wird die unperfekte Aufnahmequalität übertrumpfen. (Mitarbeiter der Tate oder des MOMAs: bitte nicht aufregen! Wir haben ja schon gesagt, dass wir uns mit diesem Beitrag an kleinere Museen wenden, die sich vielleicht weder aufwendige Content-Agenturen noch Studio-Tonaufnahmen leisten können, und trotzdem ihren Besuchern eine informative Erklärung der Ausstellung anbieten möchten).
+Gerade bei Sonderausstellungen ist die Zeit knapp und es ist nicht immer möglich, Inhalte über den Katalog oder die Plakate hinaus zu generieren. Direkte, spontan aufgenommene Darstellungen sind dagegen relativ einfach und schnell zu organisieren. Wenn es absolut keine andere Möglichkeit gibt, können Sie sie sogar via Handy oder Zoom aufnehmen: Die Authentizität der Originalstimme wird die unperfekte Aufnahmequalität übertrumpfen. (Mitarbeiter der Tate oder des MOMAs: bitte nicht aufregen! Wir haben ja schon gesagt, dass wir uns mit diesem Beitrag an kleinere Museen wenden, die sich vielleicht weder aufwendige Content-Agenturen noch Studio-Tonaufnahmen leisten können, und trotzdem ihren Besuchern eine informative Erklärung der Ausstellung anbieten möchten).
 
-Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne auf die Authentizität der Originalstimme zu verzichten, überspielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre. Hier zum Beispiel die Stimme der Kuratorin Christiane Stoebe bei unseren für den Skulpturensommer Pirna produzierten Audioguides:
- ![Nubarts Audioguide für den Skupturensommer Pirna 2018 (Hans Scheib9)]({{site.baseurl}}/images/nubart-audioguide-skulpturensommer-pirna.png){: .center-image }
-
-<audio controls src="{{site.baseurl}}/audio/engel-en.mp3">Ihr Browser unterstützt das Element <code>Audio</code> nicht.</audio>
+Um selbstaufgenommene Aufnahmen auch in einer anderen Sprache verfügbar zu machen, ohne auf die Authentizität der Originalstimme zu verzichten, überspielen wir sie in Nubart wie man es aus dem Radio oder Fernsehen kennt: als wenn es eine Simultanübersetzung wäre. 
 
 ## Denken Sie daran: Sie schreiben für Zuhörer, nicht für Leser! 
 
@@ -83,18 +80,11 @@ Wenn Sie den Audioguide wirklich verbessern möchten, verwenden Sie Anekdoten od
 
 Traurig, aber wahr: egal, wie viel Mühe Sie sich damit geben, die wenigsten Ihrer Besucher werden *alle* Spuren Ihres Audioguides hören. Das schöne an einem Audioguide ist ja gerade, dass man wählen kann, für welche Exponate man zusätzliche Information haben möchte. Dennoch sollte die Gesamtzeit aller Tonspuren nicht die Zeit überschreiten, die ein Besuch der Ausstellung *ohne* Audioguide in Anspruch nehmen würde. Wahrscheinlich haben Sie schon längst die durchschnittliche Verweilzeit der Besucher in Ihrem Museum berechnet: die ideale Länge eines Audioguides ist die Hälfte dieser Zeit. Wenn Ihre Besucher also normalerweise eine Stunde in Ihrem Museum verbringen, sollte Ihr Audioguide in etwa eine Gesamtdauer von 30 Minuten haben.
 
-Als Kurator, Kunsthistoriker oder Museumsprofi sind Sie sicher die geeigneteste Person um die relevanten Informationen zu Ihren Exponaten schriftlich für den Audioguide zu verfassen. Womöglich macht Ihnen diese Arbeit auch Spaß! Damit haben Sie das Wesentliche geleistet. Den Rest -Übersetzungen und Vertonungen-- können Sie jetzt guten Freelancern, einer Agentur oder uns in Nubart anvertrauen. 
-
-Ansonsten: [Wertvolle Information über "Schreiben fürs Hören" finden Sie auch hier](https://www.tanjapraske.de/wissen/lehre/schreiben-fuers-hoeren-audioguides-und-apps/){:target="_blank"} im immer lesenswerten Blog von Dr. Tanja Praske
+Als Kurator, Kunsthistoriker oder Museumsprofi sind Sie sicher die geeigneteste Person um die relevanten Informationen zu Ihren Exponaten schriftlich für den Audioguide zu verfassen. Womöglich macht Ihnen diese Arbeit auch Spaß! Damit haben Sie das Wesentliche geleistet. Den Rest -Übersetzungen und Vertonungen-- können Sie jetzt guten Freelancern, einer Agentur oder uns in Nubart anvertrauen.
 
 Sind Sie mit diesen Punkten einverstanden? Möchten Sie noch etwas hinzufügen? Hinterlassen Sie uns doch einfach einen Kommentar!
 
 ***
 
-#### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
+[![Nubarts Media Guide]({{site.baseurl}}/images/banner-blog-de.png)](../../../../../de){: .center-image }
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-
-<form action="../../../../../de">
-    <input type="submit" value="Fordern Sie kostenlose Muster an" />
-</form>

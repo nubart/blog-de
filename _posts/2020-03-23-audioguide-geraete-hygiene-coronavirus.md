@@ -72,10 +72,4 @@ Die einzige Alternative besteht wohl in **Audioguides, die der Besucher mitnehme
 
 ***
 
-#### <font color="blue">Nubart produziert innovative digitale Audioguides</font>
-
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-
-<form action="../../../../../de">
-    <input type="submit" value="Fordern Sie kostenlose Muster an" />
-</form>
+[![Nubarts Media Guide]({{site.baseurl}}/images/banner-blog-de.png)](../../../../../de){: .center-image }
