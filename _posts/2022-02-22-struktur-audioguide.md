@@ -2,7 +2,8 @@
 layout: redirected
 sitemap: false
 permalink: /2022/02/22/struktur-audioguide/
-redirect_to:  /struktur-audioguide/
+redirect_to: /struktur-audioguide/
+layout: post  
 comments: true
 published: true
 author: admin
