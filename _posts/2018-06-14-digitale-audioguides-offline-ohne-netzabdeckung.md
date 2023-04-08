@@ -23,7 +23,7 @@ Es gibt im Englischen das Sprichwort, dass ein Hindernis manchmal nur eine verkl
 
 ## Wir erstellen nicht nur Audioguides für Museen, sondern auch Führungen in Naturgebieten
    
-   Unsere Audioguide-Kärtchen sind nicht nur für Museen gut. Sie können auch für Führungen durch größere Gebiete, wie Städte oder Naturräume, verwendet werden. Noelia Porrúa bemerkte dies, als sie sich in der wunderschönen Region Maestrazgo in Teruel (Spanien) niederließ und beschloss, ihre Firma [Nexo Turismo y Cultura](https://www.nexoturismocultura.com/){:target="_blank"} zu gründen.
+   Unsere Audioguide-Kärtchen sind nicht nur für Museen gut. Sie können auch für Führungen durch größere Gebiete, wie Städte oder Naturräume, verwendet werden. Noelia Porrúa bemerkte dies, als sie sich in der wunderschönen Region Maestrazgo in Teruel (Spanien) niederließ und beschloss, ihre Firma Nexo Turismo y Cultura zu gründen.
    
    Frau Porrúa setzte sich mit uns in Verbindung, weil sie neben den Führungen, die sie für Wanderer anbietet, auch etwas für Alleingänger haben wollte, die die natürlichen Sehenswürdigkeiten unbegleitet, in ihrem eigenen Tempo und in ihrer eigenen Sprache entdecken möchten.
    
