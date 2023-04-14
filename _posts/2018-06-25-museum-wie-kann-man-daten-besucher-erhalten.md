@@ -11,7 +11,7 @@ description: "Um Besucherforschung in Ihrem Museum zu betreiben, müssen Sie ers
 slug: "museum-wie-kann-man-daten-besucher-erhalten"
 date: 2018-06-25
 image: /images/nubart-as-tool-to-collect-data-museum.jpg
-tags: [Besucherforschung, Museen]
+tags: [besucherforschung, museen]
 langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
 langpath-en: /2017/12/08/how-to-get-visitors-data-museum/
 featured: true

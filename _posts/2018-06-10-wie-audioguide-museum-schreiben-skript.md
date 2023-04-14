@@ -12,7 +12,7 @@ description: "Ein Audioguideskript ist ein ganz besonderer Text und folgt eigene
 slug: "wie-audioguide-museum-schreiben-skript"
 date:   2018-06-10
 image: '/images/woman-typing-writing-windows.jpg'
-tags: [Audioguide, Skript]
+tags: [audioguide, skript]
 langpath-es: /2017/07/29/como-escribir-guion-audioguia/
 langpath-en: /2017/08/03/how-to-write-script-audio-guide-museum/
 featured: true

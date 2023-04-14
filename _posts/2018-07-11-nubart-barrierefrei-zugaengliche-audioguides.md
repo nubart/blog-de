@@ -13,7 +13,7 @@ description: "Unsere Audioguide-Kärtchen sind auch für seh- und hörgeschädig
 slug: "nubart-barrierefrei-zugaengliche-audioguides"
 date: 2018-07-11
 image: /images/accessibility-audioguides.jpg
-tags: [Barrierefreiheit, Audioguide]
+tags: [barrierefreiheit, audioguide]
 langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-en: /2018/07/11/nubart-accessible-audioguides/
 featured: true
