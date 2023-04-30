@@ -14,9 +14,10 @@ langpath-en: /2023/04/25/how-to-write-audioguide-for-children/
 featured: true
 ---
 
-# Wie entwickele ich einen Audioguide für Kinder?
 
-Kinder nehmen die Welt anders wahr als wir Erwachsene. Sie haben andere Interessen, bringen anderes Vorwissen mit, haben ein anderes Verständnis davon was spannend und wichtig ist und je nach Alter lernen sie auch anders als wir. Deshalb ist es wichtig, Informationen für Kinder anders aufzubereiten als für Erwachsene. Das spielt besonders bei der Produktion von Audioguides für Kinder eine Rolle – ein Produkt, welches darauf ausgelegt ist, Kindern viele Informationen in kurzer Zeit zu vermitteln. Je mehr dabei auf die speziellen Bedürfnisse der Kinder eingegangen wird, desto mehr Informationen nehmen sie sich nachhaltig aus dem Ausstellungsbesuch mit.
+Kinder nehmen die Welt anders wahr als wir Erwachsene. Sie haben andere Interessen, bringen anderes Vorwissen mit, haben ein anderes Verständnis davon was spannend und wichtig ist und je nach Alter lernen sie auch anders als wir. Deshalb ist es wichtig, Informationen für Kinder anders aufzubereiten als für Erwachsene. 
+
+Das spielt besonders bei der Produktion von Audioguides für Kinder eine Rolle – ein Produkt, welches darauf ausgelegt ist, Kindern viele Informationen in kurzer Zeit zu vermitteln. Je mehr dabei auf die speziellen Bedürfnisse der Kinder eingegangen wird, desto mehr Informationen nehmen sie sich nachhaltig aus dem Ausstellungsbesuch mit.
 
 # Der Wunsch nach einem Audioguide für Kinder
 
