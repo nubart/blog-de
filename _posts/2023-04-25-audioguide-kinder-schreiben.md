@@ -4,7 +4,7 @@ comments: true
 published: true
 author: lina
 title:  "Wie entwickele ich einen Audioguide für Kinder?"
-description: "Digitale Audioguides (Apps oder PWAs) bieten so viele Möglichkeiten zur Integration multimedialer Elemente, dass es die Strukturierung der Inhalte ein Thema geworden ist."
+description: "Audioguides für Kinder müssen ganz anders konzipiert werden als Audioguides für Erwachsene. Hier einige Tipps."
 slug: "audioguide-kinder-schreiben"
 date:   2023-04-25
 image: /images/audioguide-children.jpg
