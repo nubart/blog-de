@@ -60,6 +60,7 @@ Wie der Audioguide für Kinder gestaltet wird, hängt am Ende von der Kreativit�
 
 Je kindgerechter der Audioguide gestaltet ist und je mehr sich die Kinder von ihm abgeholt fühlen, desto mehr hören sie zu, verstehen sie und behalten sie langfristig im Gedächtnis.
 
+**Lina Krüger** von [*Lautspiel*](https://www.lautspiel.de/){:target="_blank"}
 
 ***
 
