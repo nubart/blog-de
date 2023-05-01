@@ -3,6 +3,7 @@ layout: post
 comments: true
 published: true
 author: lina
+sitemap: false
 title:  "Wie entwickele ich einen Audioguide für Kinder?"
 description: "Audioguides für Kinder müssen ganz anders konzipiert werden als Audioguides für Erwachsene. Hier einige Tipps."
 slug: "audioguide-kinder-schreiben"
