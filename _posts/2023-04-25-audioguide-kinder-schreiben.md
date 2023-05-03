@@ -11,7 +11,7 @@ date:   2023-04-25
 image: /images/audioguide-children.jpg
 tags: [audioguide, kinder]
 langpath-es: /2023/04/25/como-audioguia-infantil-ninos/
-langpath-en: /2023/04/25/how-to-write-audioguide-for-children/
+langpath-en: /2023/05/01/how-to-write-audioguide-for-children/
 featured: true
 ---
 
