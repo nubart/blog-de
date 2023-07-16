@@ -42,6 +42,7 @@ Bei Nubart können Sie das etwas entspannter angehen, denn unsere “Audioguides
 
 Sie können die Auswahl Ihrer Exponate aber auch als work in progress betrachten und im Laufe der Zeit verfeinern. Nubart bietet Ihnen, wie auch andere Audioguide-Anbieter, Zugang zu einem Statistik-Dashboard. Dort können Sie genau nachvollziehen, welche Titel am häufigsten angehört werden.  So lernen Sie mit der Zeit die Vorlieben Ihres Publikums besser kennen und können selten oder nur halb gehörte Stücke streichen, kürzen oder durch andere, passendere ersetzen.
 
+
 ## Ergänzen Sie die Erläuterung der Exponate durch einleitende Bemerkungen.
 Audioguides müssen sich nicht auf die Erläuterung einzelner Exponate beschränken. Sie können auch einführende Bemerkungen über den Kontext hinzufügen, z.B. um die Besonderheiten einer bestimmten Epoche zu skizzieren oder um einige allgemeine Bemerkungen über den Künstler zu machen, dessen Werk Sie vorstellen.
 
