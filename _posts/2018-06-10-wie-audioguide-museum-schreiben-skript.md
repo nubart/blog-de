@@ -15,7 +15,7 @@ image: '/images/woman-typing-writing-windows.jpg'
 tags: [audioguide, skript]
 langpath-es: /2017/07/29/como-escribir-guion-audioguia/
 langpath-en: /2017/08/03/how-to-write-script-audio-guide-museum/
-featured: true
+featured: false
 ---
 
 Vielleicht arbeiten Sie für eines der ca. 85% der Museen, die noch keinen Audioguide haben. Dann stehen Sie wahrscheinlich zum ersten Mal vor der Aufgabe, einen Audioguide zu produzieren und wissen nicht, wo Sie anfangen sollen.

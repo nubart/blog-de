@@ -27,7 +27,7 @@ menu__settings:
       url: 'https://www.nubart.eu/de/gruppenfuehrungssystem.html'
     - title: 'Projekte'
       url: 'https://www.nubart.eu/de/nubart-kunden-projekte.html'
-    - title: 'Authors'
+    - title: 'Autoren'
       url: '/authors/'
 
 
