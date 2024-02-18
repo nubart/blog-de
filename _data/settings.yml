@@ -109,7 +109,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: nubart-en # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
