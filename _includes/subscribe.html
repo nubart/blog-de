@@ -1,27 +1,28 @@
-{% if site.data.settings.mailchimp.enable == true %}
+{% if site.data.settings.hubspot.enable == true %}
 <div class="container">
   <div class="row">
     <div class="col col-12">
       <div class="subscribe">
         <div class="subscribe__inner">
           <div class="subscribe__content">
-            {% if site.data.settings.mailchimp.mailchimp__title %}
-              <h3 class="subscribe__title">{{ site.data.settings.mailchimp.mailchimp__title }}</h3>
+            {% if site.data.settings.hubspot.hubspot__title %}
+            <h3 class="subscribe__title">{{ site.data.settings.hubspot.hubspot__title }}</h3>
             {% endif %}
-            {% if site.data.settings.mailchimp.mailchimp__description %}
-              <p class="subscribe__description">{{ site.data.settings.mailchimp.mailchimp__description }}</p>
+            {% if site.data.settings.hubspot.hubspot__description %}
+            <p class="subscribe__description">{{ site.data.settings.hubspot.hubspot__description }}</p>
             {% endif %}
           </div>
-          <form class="subscribe-form validate"
-            action="{% if site.data.settings.mailchimp.mailchimp__identifier %}//{{site.data.settings.mailchimp.mailchimp__identifier}}{% else %}#{% endif %}" method="POST"
-            id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
-            <label class="screen-reader-text" for="mce-EMAIL">E-Mail Adresse</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
-              placeholder="{% if site.data.settings.mailchimp.mailchimp__input__text %}{{ site.data.settings.mailchimp.mailchimp__input__text }}{% else %}Email address{% endif %}">
-            <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp.mailchimp__button__text }}</button>
+          <form id="subscribe-form" class="subscribe-form" action="#" method="post">
+            <label for="email">Ihre E-Mail Adresse</label>
+            <input type="email" id="email" name="email" placeholder="{% if site.data.settings.hubspot.hubspot__input__text.email %}{{ site.data.settings.hubspot.hubspot__input__text.email }}{% else %}Ihre E-Mail Adresse...{% endif %}" required>
+            <label for="firstname">Vorname</label>
+            <input type="text" id="firstname" name="firstname" placeholder="{% if site.data.settings.hubspot.hubspot__input__text.firstname %}{{ site.data.settings.hubspot.hubspot__input__text.firstname }}{% else %}Ihr Vorname...{% endif %}" required>
+            <label for="lastname">Nachname</label>
+            <input type="text" id="lastname" name="lastname" placeholder="{% if site.data.settings.hubspot.hubspot__input__text.lastname %}{{ site.data.settings.hubspot.hubspot__input__text.lastname }}{% else %}Ihr Nachname...{% endif %}" required>
+            <button type="submit" class="button button--primary subscribe-button">{{ site.data.settings.hubspot.hubspot__button__text }}</button>
           </form>
         </div>
-        <div class="subscribe__bg lazy" data-bg="{{site.data.settings.mailchimp.mailchimp__background__image}}"></div>
+        <div class="subscribe__bg lazy" data-bg="{{ site.data.settings.hubspot.hubspot__background__image }}"></div>
       </div>
     </div>
   </div>
