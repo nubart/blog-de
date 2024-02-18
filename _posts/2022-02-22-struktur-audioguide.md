@@ -49,7 +49,7 @@ Allerdings ist Vorsicht geboten bei thematischen Listen, die nicht mit dem physi
 
 # Modulares System von Nubart
 
-Um dieses Problem des benutzerfreundlichen Aufbaus von Audioguides zu lösen, hat Nubart ein [modulares System](https://www.nubart.eu/de/multimedia-audioguide.html#modules){:rel='nofollow' target='_blank'} entwickelt, das umfangreiche Inhalte in Modulen organisiert. Diese Art der Organisation von Inhalten ist ideal für Ausstellungsorte, die mehrere unabhängige Gebäude oder Räume haben. Der [Bergbaupark Rio Tinto](https://www.spain.info/de/parks-freizeit/bergbaupark-riotinto/){:rel='nofollow' target='_blank'} in Huelva (Spanien) besteht beispielsweise aus einem Museum, einem Zug, einem Bergwerk und einem Haus, und in seinem digitalen Audioguide haben wir jedem dieser Orte ein eigenes Modul zugeordnet.
+Um dieses Problem des benutzerfreundlichen Aufbaus von Audioguides zu lösen, hat Nubart ein [modulares System](https://www.nubart.eu/de/multimedia-audioguide.html#modules){:target='_blank'} entwickelt, das umfangreiche Inhalte in Modulen organisiert. Diese Art der Organisation von Inhalten ist ideal für Ausstellungsorte, die mehrere unabhängige Gebäude oder Räume haben. Der [Bergbaupark Rio Tinto](https://www.spain.info/de/parks-freizeit/bergbaupark-riotinto/){:rel='nofollow' target='_blank'} in Huelva (Spanien) besteht beispielsweise aus einem Museum, einem Zug, einem Bergwerk und einem Haus, und in seinem digitalen Audioguide haben wir jedem dieser Orte ein eigenes Modul zugeordnet.
 
 ![Audioguide von Nubart für das Museum der Riotinto-Stiftung in Huelva]({{site.baseurl}}/images/structure-riotinto.jpg){: .center-image }
 
@@ -67,7 +67,7 @@ Nubart arrangiert alle Inhalte eines Moduls auf einer einzigen Seite, auf der de
 
 ![Nubart digitaler Audioguide mit scrollender Navigation]({{site.baseurl}}/images/structure-audioguide-scrolling.png){: .center-image }
 
-Noch praktischer: durch die optionale Funktion des [Geo-scrolling](https://www.nubart.eu/de/multimedia-audioguide.html#geolocation){:rel='nofollow' target='_blank'} rutscht automatisch die passende Tonspur an den oberen Rand des Bildschirms, wenn sich der Nutzer der jeweiligen Station im Museum nähert. Damit sind gar keine Klicks mehr notwendig.
+Noch praktischer: durch die optionale Funktion des [Geo-scrolling](https://www.nubart.eu/de/multimedia-audioguide.html#geolocation){:target='_blank'} rutscht automatisch die passende Tonspur an den oberen Rand des Bildschirms, wenn sich der Nutzer der jeweiligen Station im Museum nähert. Damit sind gar keine Klicks mehr notwendig.
 
 # Personalisierung der Inhalte
 
@@ -79,7 +79,7 @@ Wichtig dabei zu beachten ist allerdings, dass die (optionale) Ausweitung des In
 
 # Ausklappbare Schaltflächen
 
-Aus diesem Grund hat Nubart [ausklappbare Schaltflächen](https://www.nubart.eu/de/multimedia-audioguide.html#more-info){:rel='nofollow' target='_blank'} für “mehr Informationen” entwickelt. Diese Schaltflächen ermöglichen es, den Audioguide-Tracks eine zweite Ebene der Tiefe hinzuzufügen, ohne Besucher zu zwingen, die Seite zu verlassen und ohne sie von den Hauptinhalten abzulenken. Benutzer, welche die Informationen zu einem bestimmten Exponat erweitern möchten, können dies tun und gleichzeitig in der Tour bleiben. Und falls während des Museumsbesuchs nicht genug Zeit bleibt, alle Inhalte zu konsumieren, die von Interesse sind, kann der Audioguide dank QR Code ganz einfach auch von zuhause angehört werden.
+Aus diesem Grund hat Nubart [ausklappbare Schaltflächen](https://www.nubart.eu/de/multimedia-audioguide.html#more-info){:target='_blank'} für “mehr Informationen” entwickelt. Diese Schaltflächen ermöglichen es, den Audioguide-Tracks eine zweite Ebene der Tiefe hinzuzufügen, ohne Besucher zu zwingen, die Seite zu verlassen und ohne sie von den Hauptinhalten abzulenken. Benutzer, welche die Informationen zu einem bestimmten Exponat erweitern möchten, können dies tun und gleichzeitig in der Tour bleiben. Und falls während des Museumsbesuchs nicht genug Zeit bleibt, alle Inhalte zu konsumieren, die von Interesse sind, kann der Audioguide dank QR Code ganz einfach auch von zuhause angehört werden.
 
 ![Nubart Audioguide für das Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/structure-dornier.jpg){: .center-image }
 
