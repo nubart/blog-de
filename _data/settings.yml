@@ -53,28 +53,16 @@ blog:
 
 #-------------------------------
 # Newsletter Settings
-# mailchimp:
- # enable: true
- # mailchimp__identifier: nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=ec56d6f60e # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-#  mailchimp__title: Alles zum Thema Audioguides
-#  mailchimp__description: Abonnieren Sie unseren Newsletter.
-#  mailchimp__input__text: Ihre E-Mail Adresse...
-#  mailchimp__button__text: Abonnieren
- # mailchimp__background__image: "/blog-de/images/background-mailchimp-subscription.jpg"
+mailchimp:
+ enable: true
+ mailchimp__identifier: nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=ec56d6f60e # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+ mailchimp__title: Alles zum Thema Audioguides
+ mailchimp__description: Abonnieren Sie unseren Newsletter.
+ mailchimp__input__text: Ihre E-Mail Adresse...
+ mailchimp__button__text: Abonnieren
+ mailchimp__background__image: "/blog-de/images/background-mailchimp-subscription.jpg"
 
-# Newsletter Settings
-hubspot:
-  enable: true
-  hubspot__portal_id: "2430134" # Replace with your HubSpot portal ID
-  hubspot__form_id: "cf3ff691-3d3f-48fa-af7c-7a1848195e5b" # Replace with your HubSpot form ID
-  hubspot__title: Alles zum Thema Audioguides
-  hubspot__description: Abonnieren Sie unseren Newsletter.
-  hubspot__input__text:
-    email: Ihre E-Mail Adresse...
-    firstname: Vorname
-    lastname: Nachname
-  hubspot__button__text: Abonnieren
-  hubspot__background__image: "/blog-de/images/background-hubspot-subscription.jpg"
+
 
 #-------------------------------
 # Footer Settings
