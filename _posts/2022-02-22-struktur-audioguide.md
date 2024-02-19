@@ -85,7 +85,7 @@ Aus diesem Grund hat Nubart [ausklappbare Schaltflächen](https://www.nubart.eu/
 
 # Tags für einen personalisierten Aufbau
 
-Eine weitere Lösung von Nubart, um den Audioguide zu personalisieren, sind [Tags](https://www.nubart.eu/de/multimedia-audioguide.html#more-info){:target='_blank'}. Diese sind ein ideales Werkzeug, wenn Sie reichhaltige und vielfältige Inhalte strukturieren müssen und den Nutzern die Möglichkeit geben wollen, diese nach ihren speziellen Interessen zu filtern.
+Eine weitere Lösung von Nubart, um den Audioguide zu personalisieren, sind [Tags](https://www.nubart.eu/de/multimedia-audioguide.html#more-info){:target='_blank'}. Diese sind ein ideales Werkzeug, wenn Sie reichhaltige und vielfältige Inhalte strukturieren müssen und den Nutzern die Möglichkeit geben wollen, diese nach ihren speziellen Interessen zu filtern. 
 
 Besonders geeignet ist dieses Feature für sehr große Museen, die den Besuchern helfen wollen, die große Menge an verfügbaren Exponaten nach ihren persönlichen Interessen zu filtern. Dies ist der Fall bei [dem Audioguide des Slowenischen Nationalmuseums in Ljubljana](https://www.nubart.eu/de/portfolio/nationalmuseum-slowenien-audioguide.html){:target='_blank'}, der mit Hilfe von Tags den Besuchern eine 30-minütige Route mit den Highlights anbietet.
 
