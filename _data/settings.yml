@@ -53,6 +53,7 @@ blog:
 
 #-------------------------------
 # Newsletter Settings
+
 mailchimp:
   enable: true
   mailchimp__identifier: nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=ec56d6f60e # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
