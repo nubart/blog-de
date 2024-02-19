@@ -96,8 +96,5 @@ Das Tag-System dient also sowohl zur Einschränkung als auch zur Erweiterung des
 
 ![Nubart Audioguide für eine Messe]({{site.baseurl}}/images/structure-aluminium.jpg){: .center-image }
 
-***
-
-[![Nubarts Media Guide]({{site.baseurl}}/images/banner-blog-de.png)](../../../../../de){: .center-image }
 
 
