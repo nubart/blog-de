@@ -87,11 +87,11 @@ footer__menu__settings:
 
 # Social Links
 social:
-- {icon: "ion-logo-linkedin", color: "#0077b5", name: Linkedin, link: "https://www.linkedin.com/company/nubart-eu/"}
+- {icon: "ion-logo-linkedin", color: "#0077b5", name: Linkedin, link: "https://www.linkedin.com/company/digital-tangible-s-l-/"}
 - {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://twitter.com/NubartEN"}
 - {icon: "ion-logo-facebook", color: "#3b5999", name: Facebook, link: "https://www.facebook.com/Nubart/"}
 - {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://www.instagram.com/nubart.eu/?hl=en"}
-- {icon: "ion-logo-vimeo", color: "#1ab7ea", name: Vimeo, link: "https://vimeo.com/nubart"}L
+- {icon: "ion-logo-vimeo", color: "#1ab7ea", name: Vimeo, link: "https://vimeo.com/nubart"}
 - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://www.youtube.com/channel/UCN8lCMkLud1_118AQFq6Uug"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
