@@ -79,7 +79,7 @@ Wichtig dabei zu beachten ist allerdings, dass die (optionale) Ausweitung des In
 
 # Ausklappbare Schaltflächen
 
-Aus diesem Grund hat Nubart [ausklappbare Schaltflächen](https://www.nubart.eu/de/multimedia-audioguide.html#more-info){:target='_blank'} für “mehr Informationen” entwickelt. Diese Schaltflächen ermöglichen es, den Audioguide-Tracks eine zweite Ebene der Tiefe hinzuzufügen, ohne Besucher zu zwingen, die Seite zu verlassen und ohne sie von den Hauptinhalten abzulenken. Benutzer, welche die Informationen zu einem bestimmten Exponat erweitern möchten, können dies tun und gleichzeitig in der Tour bleiben. Und falls während des Museumsbesuchs nicht genug Zeit bleibt, alle Inhalte zu konsumieren, die von Interesse sind, kann der Audioguide dank QR Code ganz einfach auch von zuhause angehört werden. 
+Aus diesem Grund hat Nubart [ausklappbare Schaltflächen](https://www.nubart.eu/de/multimedia-audioguide.html#more-info){:target='_blank'} für “mehr Informationen” entwickelt. Diese Schaltflächen ermöglichen es, den Audioguide-Tracks eine zweite Ebene der Tiefe hinzuzufügen, ohne Besucher zu zwingen, die Seite zu verlassen und ohne sie von den Hauptinhalten abzulenken. Benutzer, welche die Informationen zu einem bestimmten Exponat erweitern möchten, können dies tun und gleichzeitig in der Tour bleiben. Und falls während des Museumsbesuchs nicht genug Zeit bleibt, alle Inhalte zu konsumieren, die von Interesse sind, kann der Audioguide dank QR Code ganz einfach auch von zuhause angehört werden.
 
 ![Nubart Audioguide für das Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/structure-dornier.jpg){: .center-image }
 
