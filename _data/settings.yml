@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Nubarts Blog
+title: Nubart's Blog
 logo: /images/logo-white.svg
 description: Nubart ist ein Multimedia-Guide (PWA). Der Zugriff auf den Inhalt erfolgt über eine nicht-übertragbare gedruckte Karte.
 
@@ -61,6 +61,7 @@ mailchimp:
   mailchimp__input__text: Ihre E-Mail Adresse...
   mailchimp__button__text: Abonnieren
   mailchimp__background__image: "/blog-de/images/background-mailchimp-subscription.jpg"
+
 
 
 #-------------------------------
