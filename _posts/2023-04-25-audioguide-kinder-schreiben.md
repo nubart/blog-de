@@ -1,14 +1,5 @@
 ---
-layout: null
-permalink: /2023/04/25/audioguide-kinder-schreiben/
-
+layout: redirect
+redirect_to: https://www.nubart.eu/de/blog/skript-audioguide-fuer-kinder-schreiben.html
+permalink: /blog-de/2023/04/25/reisender-audioguide-postkarte/
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="refresh" content="0; url=https://www.nubart.eu/de/blog/skript-audioguide-fuer-kinder-schreiben.html">
-</head>
-<body>
-</body>
-</html>
