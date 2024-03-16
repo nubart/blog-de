@@ -27,8 +27,8 @@ menu__settings:
       url: 'https://www.nubart.eu/de/gruppenfuehrungssystem.html'
     - title: 'Projekte'
       url: 'https://www.nubart.eu/de/nubart-kunden-projekte.html'
-    - title: 'Autoren'
-      url: '/authors/'
+      #    - title: 'Autoren'
+    #    url: '/authors/'
 
 
 
@@ -109,11 +109,11 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus:
-  enable: false
-  disqus__identifier: nubart-en # Add your shortname for Disqus Comment. For example anvod-studio-test
+  # disqus:
+  #  enable: false
+  #  disqus__identifier: nubart-en # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-88444319-1 # Add your GA Tracking Id
+# google-analytics: UA-88444319-1 # Add your GA Tracking Id
